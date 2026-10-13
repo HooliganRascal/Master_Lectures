@@ -1,0 +1,12 @@
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Fontconfig error: Cannot load default config file: File not found
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[81818:81849:1012/120044.772640:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[81818:81849:1012/120507.370475:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[81818:81849:1012/121002.702651:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[81818:81849:1012/121548.904277:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[81818:81849:1012/122314.751051:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[81818:81849:1012/123441.013580:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Opening in existing browser session.
+[1:1:0100/000000.545709:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[109441:109441:0100/000000.545736:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)

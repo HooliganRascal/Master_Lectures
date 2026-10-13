@@ -1,0 +1,21 @@
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[64304:64335:1013/083541.264159:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/084010.564599:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64351:64358:1013/084057.382742:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[64304:64335:1013/084453.211030:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/084617.514131:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[64304:64335:1013/085033.720870:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/085830.263677:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/090945.680155:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/093939.522811:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/094359.705786:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/094844.429403:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/095422.313398:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[64304:64335:1013/100539.625422:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[20675:20706:1013/114555.966521:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[20675:20706:1013/114616.939890:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[20675:20706:1013/114702.303813:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[20675:20706:1013/114859.075781:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[20675:20706:1013/115248.287574:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[20675:20706:1013/120053.196748:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

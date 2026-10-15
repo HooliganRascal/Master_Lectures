@@ -1,0 +1,3 @@
+Opening in existing browser session.
+[1:1:0100/000000.136025:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[62270:62270:0100/000000.136077:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)

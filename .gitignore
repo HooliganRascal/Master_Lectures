@@ -1,2 +1,17 @@
+# Documents
 *.[pP][dD][fF]
 *.docx
+
+# Model weights
+*.pt
+*.pth
+*.safetensors
+
+# GPT-2 training outputs and downloaded assets
+/AI+航天动力：理论与实践/GPT-2/gpt2_finetuned_wikitext2/
+/AI+航天动力：理论与实践/GPT-2/gpt2_finetuned_wikitext2_final/
+/AI+航天动力：理论与实践/GPT-2/hf_offline_assets/
+
+# Downloaded training datasets
+/AI+航天动力：理论与实践/CNN/data/
+/AI+航天动力：理论与实践/LLM/aclImdb/

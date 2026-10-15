@@ -1,0 +1,781 @@
+14:01:07.680 INFO  app_lib::utils::resolve:57 T{clash-verge-runtime-4} [ClashVergeRev] Version: 2.5.8
+14:01:07.681 INFO  app_lib::event_handlers:360 T{main} [System] 应用就绪
+14:01:07.852 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-6} [Window] 新窗口创建成功，等待前端渲染后显示
+14:01:07.853 INFO  app_lib::config::port:197 T{clash-verge-runtime-0} [Service] Service is NotInstalled, so no managed core can hold mixed proxy port 7897
+14:01:07.859 INFO  app_lib::core::validate:420 T{clash-verge-runtime-6} [Validate] 生成临时配置文件用于验证
+14:01:07.859 INFO  app_lib::core::validate:351 T{clash-verge-runtime-6} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+14:01:07.859 INFO  app_lib::core::validate:354 T{clash-verge-runtime-6} [Validate] 使用内核: verge-mihomo
+14:01:07.859 INFO  app_lib::core::validate:359 T{clash-verge-runtime-6} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+14:01:07.989 INFO  app_lib::core::validate:379 T{clash-verge-runtime-0} [Validate] -------- 验证结果 --------
+14:01:07.989 INFO  app_lib::core::validate:405 T{clash-verge-runtime-0} [Validate] 验证成功
+14:01:07.989 INFO  app_lib::core::validate:406 T{clash-verge-runtime-0} [Validate] -------- 验证结束 --------
+14:01:07.989 INFO  app_lib::core::tray:494 T{clash-verge-runtime-0} [Tray] 正在从AppHandle创建系统托盘
+14:01:07.995 INFO  app_lib::core::tray:177 T{clash-verge-runtime-0} [Tray] System tray created successfully
+14:01:07.995 INFO  app_lib::core::timer:192 T{clash-verge-runtime-0} [Timer] Refreshing timer tasks map, count: 2
+14:01:07.995 INFO  app_lib::core::timer:166 T{clash-verge-runtime-0} [Timer] Running overdue timer task immediately: uid=RsuR8a7x16om
+14:01:07.995 INFO  app_lib::core::timer:172 T{clash-verge-runtime-0} [Timer] Timer initialization completed
+14:01:07.995 INFO  app_lib::utils::resolve:189 T{clash-verge-runtime-0} [Setup] Silent updater initialized
+14:01:07.995 INFO  app_lib::core::updater:685 T{clash-verge-runtime-0} [System] Silent updater: background task started
+14:01:08.115 INFO  app_lib::core::manager:188 T{clash-verge-runtime-0} [Core] Core running mode changed: NotRunning -> Sidecar
+14:01:08.185 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-4} [Core] Refreshing system proxy guard...
+14:01:08.185 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-4} [Core] System proxy guard is disabled.
+14:01:08.196 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-4} [Config] [订阅更新] 远程订阅，URL: https://ktmcloud001.top/api/v1/client/subscribe?token=***
+14:01:14.812 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-0} [Core] Refreshing system proxy guard...
+14:01:14.812 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-0} [Core] System proxy is disabled.
+14:01:15.892 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-5} [Core] Refreshing system proxy guard...
+14:01:15.892 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-5} [Core] System proxy guard is disabled.
+14:01:17.996 INFO  app_lib::core::updater:611 T{clash-verge-runtime-0} [System] Silent updater: checking for updates...
+14:01:19.138 INFO  app_lib::core::updater:617 T{clash-verge-runtime-1} [System] Silent updater: no update available
+14:01:28.303 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-3} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用Clash代理更新
+14:01:38.415 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-0} [Config] [订阅更新] Clash代理更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): client error (Connect): tls handshake eof，尝试使用系统代理更新
+14:01:43.828 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-1} [Config] [订阅更新] 系统代理更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): client error (Connect): tls handshake eof，所有重试均已失败
+14:01:43.828 ERROR app_lib::core::timer:481 T{clash-verge-runtime-1} [[Timer]] Failed to update profile uid RsuR8a7x16om: failed to fetch remote profile
+not mini app. 
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/opt/QQ/resources/app/package.json
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/opt/QQ/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :51102
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :51102
+[preload] succeeded. /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+[preload] succeeded. /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+resourcesPath: /opt/QQ/resources
+[17613:1013/140204.541691:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.systemd1.Manager.StartTransientUnit: object_path= /org/freedesktop/systemd1: org.freedesktop.systemd1.UnitExists: Unit app-org.chromium.Chromium-17613.scope was already loaded or has a fragment file.
+[I] <MMKV.cpp:233::initializeMMKV> root dir: /home/mteltn/.config/QQ/global/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0x56], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_o3
+[I] <MemoryFile.cpp:98::open> open fd[0x57], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_o3.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_mmkv_o3] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_mmkv_o3] with 2667 actual size, file size 4096, InterProcess 1, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [nt_mmkv_o3] with crc 990874753 sequence 3 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_mmkv_o3] with 2 key-values
+linux-bugly: init bugly ...
+InitBuglyManager
+SetLogger
+fatalSetup
+GetDllPath: 57
+pub_key_path: /home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+[BuglyManager.cpp][InitBuglyManager][212]InitBuglyManager path: /home/mteltn/.config/QQ/crash_files/
+BuglyManager/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+[BuglyService.cpp][registBugly][589]set signal stack
+[BuglyService.cpp][registSignalHandler][520]regist native handler
+registBugly/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+[BuglyService.cpp][setParam][618]setParam, key:appVersion, value:3.2.33-52892..
+setParam/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+StartWithOptions s/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+StartWithOptions e/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+PostDelayedTask s/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+PostDelayedTask e/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+linux-bugly: init bugly done.
+[I] <MMKV.cpp:260::mmkvWithID> prepare to load nt_recent_emoji_mmkv (id 267f26ac2542ad2a5d5aa625a9928c69) from rootPath /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0x97], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_recent_emoji_mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0x98], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_recent_emoji_mmkv.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_recent_emoji_mmkv] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_recent_emoji_mmkv] with 0 actual size, file size 4096, InterProcess 0, meta info version:4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_recent_emoji_mmkv] with 0 key-values
+[I] <MMKV.cpp:260::mmkvWithID> prepare to load nt_mmkv_united_config_no_login_v3 (id nt_mmkv_united_config_no_login_v3) from rootPath /home/mteltn/.config/QQ/global/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0xa5], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_united_config_no_login_v3
+[I] <MemoryFile.cpp:98::open> open fd[0xa6], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_united_config_no_login_v3.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_mmkv_united_config_no_login_v3] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_mmkv_united_config_no_login_v3] with 22978 actual size, file size 32768, InterProcess 1, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [nt_mmkv_united_config_no_login_v3] with crc 163436935 sequence 121 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_mmkv_united_config_no_login_v3] with 394 key-values
+[I] <MMKV.cpp:260::mmkvWithID> prepare to load nt_mmkv_flash_transfer (id 2ba463ec706ece13780902447ac1d7cf) from rootPath /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0xd1], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_mmkv_flash_transfer
+[I] <MemoryFile.cpp:98::open> open fd[0xd2], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_mmkv_flash_transfer.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_mmkv_flash_transfer] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_mmkv_flash_transfer] with 2084 actual size, file size 4096, InterProcess 0, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [nt_mmkv_flash_transfer] with crc 2498895353 sequence 17 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_mmkv_flash_transfer] with 2 key-values
+[I] <MemoryFile.cpp:98::open> open fd[0xeb], /home/mteltn/.config/QQ/global/nt_data/mmkv/mmkv.default
+[I] <MemoryFile.cpp:98::open> open fd[0xed], /home/mteltn/.config/QQ/global/nt_data/mmkv/mmkv.default.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [mmkv.default] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [mmkv.default] with 1984 actual size, file size 4096, InterProcess 0, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [mmkv.default] with crc 1427512092 sequence 15 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [mmkv.default] with 5 key-values
+Warning: maxDynamicUniformBuffersPerPipelineLayout artificially reduced from 500000 to 16 to fit dynamic offset allocation limit.
+Warning: maxDynamicStorageBuffersPerPipelineLayout artificially reduced from 500000 to 16 to fit dynamic offset allocation limit.
+[I] <MMKV_IO.cpp:516::writeActualSize> [nt_mmkv_united_config_no_login_v3] increase sequence to 122, crc 40449337, actualSize 16012
+[I] <MMKV.cpp:1178::sync> MMKV::sync, SyncFlag = 1
+[1][183019872]DroppedFrame(1): host_id=2, time=182118986, latest_seq=29, interval=16666
+[1][183019911]DroppedFrame(2): host_id=2, time=182235648, latest_seq=36, interval=16666
+[1][183019922]DroppedFrame(3): host_id=2, time=182352310, latest_seq=43, interval=16666
+[1][183019931]DroppedFrame(4): host_id=2, time=182468972, latest_seq=50, interval=16666
+[1][183019939]DroppedFrame(5): host_id=2, time=182585634, latest_seq=57, interval=16666
+[1][183019946]DroppedFrame(6): host_id=2, time=182702296, latest_seq=64, interval=16666
+[1][183019956]DroppedFrame(7): host_id=2, time=182818958, latest_seq=71, interval=16666
+[1][183019962]DroppedFrame(8): host_id=2, time=182935620, latest_seq=78, interval=16666
+[1][184036678]DroppedFrame(9): host_id=2, time=183135612, latest_seq=90, interval=16666
+[1][184036704]DroppedFrame(10): host_id=2, time=183252274, latest_seq=97, interval=16666
+[1][184036723]DroppedFrame(11): host_id=2, time=183368936, latest_seq=104, interval=16666
+[1][184036730]DroppedFrame(12): host_id=2, time=183485598, latest_seq=111, interval=16666
+[1][184036751]DroppedFrame(13): host_id=2, time=183602260, latest_seq=118, interval=16666
+[1][184036773]DroppedFrame(14): host_id=2, time=183718922, latest_seq=125, interval=16666
+[1][184036781]DroppedFrame(15): host_id=2, time=183835584, latest_seq=132, interval=16666
+[1][184036788]DroppedFrame(16): host_id=2, time=183952246, latest_seq=139, interval=16666
+14:02:11.202 › [1a133da908a][QQ hotUpdate] ------------ app 启动分界线 ------------
+14:02:11.211 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkHasMultipleQQ:  false
+14:02:11.212 › [1a133da908a][QQ hotUpdate] hotUpdateApi clearOldVersions start
+14:02:11.213 › [1a133da908a][QQ hotUpdate] {
+  "baseVersion": "3.2.31-51102",
+  "curVersion": "3.2.33-52892",
+  "prevVersion": "3.2.32-52194",
+  "onErrorVersions": [],
+  "buildId": "51102",
+  "unzipRetryCount": 0,
+  "readyVersion": "",
+  "readyInstaller": "",
+  "retryTimes": 0,
+  "notarized": false
+}
+14:02:11.213 › [1a133da908a][QQ hotUpdate] dnsDefaultOrder:verbatim
+14:02:11.214 › [1a133da908a][QQ hotUpdate] ----- startAutoUpdate curVersion: 3.2.33-52892 -----
+14:02:11.289 › [1a133da908a][QQ hotUpdate] hotUpdateApi getReadyVersionConfig suc 
+14:02:11.290 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  false
+14:02:11.296 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkHasMultipleQQ:  false
+14:02:11.297 › [1a133da908a][QQ hotUpdate] hotUpdateApi start check  3.2.34-53644  IsOnErrorVersion
+14:02:11.297 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkIsOnErrorVersion result: false
+14:02:11.298 › [1a133da908a][QQ hotUpdate] [startAutoUpdate] is fullUpdate: false
+14:02:11.341 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkHasEnoughSpace start /hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip
+14:02:11.495 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionZipExist is: true  zip: /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+14:02:11.496 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionZipExist is: false  zip: /home/mteltn/.config/QQ/versions/3.2.34-53644.zip.zip
+14:02:11.496 › [1a133da908a][QQ hotUpdate] fileSize/requiredDownloadSize/reservedUnzipSize/requiredSize/freeSpace/hasLocalZip is: 183050148 / 0 / 366100296 / 366100296 / 74117767168 / true
+14:02:11.498 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  false
+14:02:11.499 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  IDLE
+14:02:11.500 › [1a133da908a][QQ hotUpdate] hotUpdateApi start check  3.2.34-53644  IsReadyVersion: false
+14:02:11.500 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionDirExist is: false  dir: /home/mteltn/.config/QQ/versions/3.2.34-53644
+[1][185052849]DroppedFrame(17): host_id=2, time=184152238, latest_seq=151, interval=16666
+[1][185052875]DroppedFrame(18): host_id=2, time=184268900, latest_seq=158, interval=16666
+[1][185052881]DroppedFrame(19): host_id=2, time=184385562, latest_seq=165, interval=16666
+[1][185052887]DroppedFrame(20): host_id=2, time=184502224, latest_seq=172, interval=16666
+[1][185052913]DroppedFrame(21): host_id=2, time=184618886, latest_seq=179, interval=16666
+[1][185052922]DroppedFrame(22): host_id=2, time=184735548, latest_seq=186, interval=16666
+[1][185052928]DroppedFrame(23): host_id=2, time=184852210, latest_seq=193, interval=16666
+[1][185052936]DroppedFrame(24): host_id=2, time=184968872, latest_seq=200, interval=16666
+14:02:12.503 › [1a133da908a][QQ hotUpdate] hotUpdateApi deleteNewVersionDir is: false  dir: /home/mteltn/.config/QQ/versions/3.2.34-53644
+14:02:12.504 › [1a133da908a][QQ hotUpdate] hotUpdateApi clearOldVersions skip, too frequent. lastClearTime: 1791871331204 now: 1791871332504
+14:02:12.504 › [1a133da908a][QQ hotUpdate] hotUpdateApi start initStatus
+14:02:12.504 › [1a133da908a][QQ hotUpdate] onStatusChanged status:  IDLE
+14:02:12.504 › [1a133da908a][QQ hotUpdate] hotUpdateApi start updateInfo:  {
+  packageUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip',
+  fruitadeUrl: '',
+  patchUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.33-52892-3.2.34-53644.patch',
+  newVersion: '3.2.34-53644',
+  curVersion: '3.2.33-52892',
+  newVersionPackageMD5: '25f50a5c24327dc95052b6ea3e648c12',
+  useStreamUnzip: true,
+  tryIpv6first: true
+}
+14:02:12.505 › [1a133da908a][QQ hotUpdate] onUpdateStart updateInfo:  {
+  packageUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip',
+  fruitadeUrl: '',
+  patchUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.33-52892-3.2.34-53644.patch',
+  newVersion: '3.2.34-53644',
+  curVersion: '3.2.33-52892',
+  newVersionPackageMD5: '25f50a5c24327dc95052b6ea3e648c12',
+  useStreamUnzip: true,
+  tryIpv6first: true
+}
+14:02:12.506 › [1a133da908a][QQ hotUpdate] onChainStatusChanged chainName: CHECK_NEW_VERSION_PACKAGE  status:  start
+14:02:12.506 › [1a133da908a][QQ hotUpdate] onUpdateDownloaded /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+14:02:14.440 › [1a133da908a][QQ hotUpdate] onPackageReady packageDirPath:  /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+14:02:14.440 › [1a133da908a][QQ hotUpdate] onPackageReady setMacAppDownloadAuth res { result: 0 }
+14:02:14.440 › [1a133da908a][QQ hotUpdate] onChainStatusChanged chainName: CHECK_NEW_VERSION_PACKAGE  status:  escaped
+14:02:14.440 › [1a133da908a][QQ hotUpdate] onStatusChanged status:  READY
+[BuglyManager.cpp][UploadBugly][107]!!!in UploadBugly.
+[NativeCrashHandler.cpp][getCrashDetailBeanFromRecord][52]!!!! in NativeCrashHandler getCrashDetailBeanFromRecord, open file error!!!,dumpFilePath:/home/mteltn/.config/QQ/crash_files/rqd_record.eup.
+[NativeCrashHandler.cpp][uploadCrashEvent][331]get null crashDetailBean, return!
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/wire_format_lite.cc:577] String field 'opentelemetry.proto.trace.v1.Span.Event.name' contains invalid UTF-8 data when serializing a protocol buffer. Use the 'bytes' type if you intend to send raw bytes. 
+[17613:1013/141616.186193:ERROR:ui/gfx/x/atom_cache.cc:232] Add _NET_WM_WINDOW_TYPE_TOOLBAR to kAtomsToCache
+14:33:24.375 INFO  app_lib::utils::server:229 T{clash-verge-runtime-16} [Window] Restoring the application window from a secondary instance
+14:33:24.414 INFO  app_lib::utils::window_manager:228 T{clash-verge-runtime-16} [Window] 窗口激活成功
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/wire_format_lite.cc:577] String field 'opentelemetry.proto.trace.v1.Span.Event.name' contains invalid UTF-8 data when serializing a protocol buffer. Use the 'bytes' type if you intend to send raw bytes. 
+15:02:12.507 › [1a133da908a][QQ hotUpdate] ----- startAutoUpdate curVersion: 3.2.33-52892 -----
+15:02:12.746 › [1a133da908a][QQ hotUpdate] hotUpdateApi clearReadyVersion suc
+15:02:12.747 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  false
+15:02:12.753 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkHasMultipleQQ:  false
+15:02:12.753 › [1a133da908a][QQ hotUpdate] hotUpdateApi start check  null  IsOnErrorVersion
+15:02:12.754 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkIsOnErrorVersion result: false
+15:02:12.754 › [1a133da908a][QQ hotUpdate] [startAutoUpdate] 无需更新
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/wire_format_lite.cc:577] String field 'opentelemetry.proto.trace.v1.Span.Event.name' contains invalid UTF-8 data when serializing a protocol buffer. Use the 'bytes' type if you intend to send raw bytes. 
+[I 2026-10-13 15:42:19.335 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-13 15:42:19.337 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-13 15:42:19.339 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-13 15:42:19.341 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-13 15:42:19.368 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-13 15:42:19.381 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-13 15:42:19.383 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-13 15:42:19.383 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-13 15:42:19.385 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-13 15:42:19.385 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-13 15:42:19.385 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-13 15:42:19.405 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-13 15:42:19.407 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-13 15:42:19.407 ServerApp] The port 8888 is already in use, trying another port.
+[I 2026-10-13 15:42:19.407 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践
+[I 2026-10-13 15:42:19.407 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-13 15:42:19.407 ServerApp] http://localhost:8889/tree?token=00d216b62f3b62b72092ec88d53de3f7a73d8bb5239f9795
+[I 2026-10-13 15:42:19.407 ServerApp]     http://127.0.0.1:8889/tree?token=00d216b62f3b62b72092ec88d53de3f7a73d8bb5239f9795
+[I 2026-10-13 15:42:19.407 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-13 15:42:19.425 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-62101-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=00d216b62f3b62b72092ec88d53de3f7a73d8bb5239f9795
+        http://127.0.0.1:8889/tree?token=00d216b62f3b62b72092ec88d53de3f7a73d8bb5239f9795
+[I 2026-10-13 15:42:19.782 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-13 15:45:10.376 ServerApp] Creating new notebook in /LLM
+[I 2026-10-13 15:45:12.482 ServerApp] Kernel started: 71268ae1-0a04-4b00-8d35-67b672abdd60
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-13 15:45:12.677 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:45:12.677 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[W 2026-10-13 15:45:12.678 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-13 15:45:12.689 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:45:12.690 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 15:45:12.702 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:45:12.702 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[W 2026-10-13 15:45:19.323 ServerApp] 404 GET /api/contents/LLM/Untitled.ipynb?type=notebook&content=1&hash=1&contentProviderId=undefined&1791877519317 (8e723ca508b64c28aad1d751c761ea8a@127.0.0.1) 0.82ms referer=http://localhost:8889/tree/LLM
+[W 2026-10-13 15:45:19.323 ServerApp] 404 GET /api/contents/LLM/Untitled.ipynb?type=notebook&content=1&hash=1&contentProviderId=undefined&1791877519317 (127.0.0.1): No such file or directory: LLM/Untitled.ipynb
+[I 2026-10-13 15:45:19.572 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:45:19.573 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[W 2026-10-13 15:45:19.666 ServerApp] 404 GET /api/contents/LLM/Untitled.ipynb?type=notebook&content=1&hash=1&contentProviderId=undefined&1791877519642 (8e723ca508b64c28aad1d751c761ea8a@127.0.0.1) 0.76ms referer=http://localhost:8889/notebooks/LLM/Untitled.ipynb
+[W 2026-10-13 15:45:19.667 ServerApp] 404 GET /api/contents/LLM/Untitled.ipynb?type=notebook&content=1&hash=1&contentProviderId=undefined&1791877519642 (127.0.0.1): No such file or directory: LLM/Untitled.ipynb
+[I 2026-10-13 15:45:27.857 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:45:27.857 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 15:46:23.148 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:46:23.148 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[IPKernelApp] ERROR | Failed to open SQLite history /home/mteltn/.ipython/profile_default/history.sqlite (datatype mismatch).
+[IPKernelApp] ERROR | History file was moved to /home/mteltn/.ipython/profile_default/history-corrupt-2026-10-13T07.46.50.537934+00.00.sqlite and a new file created.
+[IPKernelApp] ERROR | Failed to open SQLite history /home/mteltn/.ipython/profile_default/history.sqlite (datatype mismatch).
+[IPKernelApp] ERROR | History file was moved to /home/mteltn/.ipython/profile_default/history-corrupt-2026-10-13T07.46.51.400857+00.00.sqlite and a new file created.
+[I 2026-10-13 15:47:05.080 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:47:05.080 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 15:47:05.270 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:47:05.272 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 15:47:08.450 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 15:47:11.672 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 15:47:11.674 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 15:47:17.639 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 15:47:17.961 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 15:49:17.663 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 15:51:17.690 ServerApp] Saving file at /LLM/LLM.ipynb
+[I] <MMKV_IO.cpp:516::writeActualSize> [nt_mmkv_united_config_no_login_v3] increase sequence to 123, crc 2575064351, actualSize 16072
+[I] <MMKV.cpp:1178::sync> MMKV::sync, SyncFlag = 1
+[I 2026-10-13 15:53:17.714 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 15:55:17.733 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 15:57:17.780 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 15:59:17.823 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:01:17.870 ServerApp] Saving file at /LLM/LLM.ipynb
+16:02:12.507 › [1a133da908a][QQ hotUpdate] ----- startAutoUpdate curVersion: 3.2.33-52892 -----
+16:02:12.622 › [1a133da908a][QQ hotUpdate] hotUpdateApi getReadyVersionConfig suc 
+16:02:12.623 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  false
+16:02:12.629 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkHasMultipleQQ:  false
+16:02:12.630 › [1a133da908a][QQ hotUpdate] hotUpdateApi start check  3.2.34-53644  IsOnErrorVersion
+16:02:12.630 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkIsOnErrorVersion result: false
+16:02:12.631 › [1a133da908a][QQ hotUpdate] [startAutoUpdate] is fullUpdate: false
+16:02:12.665 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkHasEnoughSpace start /hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip
+16:02:12.834 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionZipExist is: true  zip: /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+16:02:12.835 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionZipExist is: false  zip: /home/mteltn/.config/QQ/versions/3.2.34-53644.zip.zip
+16:02:12.835 › [1a133da908a][QQ hotUpdate] fileSize/requiredDownloadSize/reservedUnzipSize/requiredSize/freeSpace/hasLocalZip is: 183050148 / 0 / 366100296 / 366100296 / 72643043328 / true
+16:02:12.836 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  false
+16:02:12.837 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  READY
+16:02:12.838 › [1a133da908a][QQ hotUpdate] hotUpdateApi start check  3.2.34-53644  IsReadyVersion: false
+16:02:12.839 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionDirExist is: true  dir: /home/mteltn/.config/QQ/versions/3.2.34-53644
+16:02:13.842 › [1a133da908a][QQ hotUpdate] hotUpdateApi start initStatus
+16:02:13.842 › [1a133da908a][QQ hotUpdate] onStatusChanged status:  IDLE
+16:02:13.842 › [1a133da908a][QQ hotUpdate] hotUpdateApi start updateInfo:  {
+  packageUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip',
+  fruitadeUrl: '',
+  patchUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.33-52892-3.2.34-53644.patch',
+  newVersion: '3.2.34-53644',
+  curVersion: '3.2.33-52892',
+  newVersionPackageMD5: '25f50a5c24327dc95052b6ea3e648c12',
+  useStreamUnzip: true,
+  tryIpv6first: true
+}
+16:02:13.843 › [1a133da908a][QQ hotUpdate] onUpdateStart updateInfo:  {
+  packageUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip',
+  fruitadeUrl: '',
+  patchUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.33-52892-3.2.34-53644.patch',
+  newVersion: '3.2.34-53644',
+  curVersion: '3.2.33-52892',
+  newVersionPackageMD5: '25f50a5c24327dc95052b6ea3e648c12',
+  useStreamUnzip: true,
+  tryIpv6first: true
+}
+16:02:13.844 › [1a133da908a][QQ hotUpdate] onChainStatusChanged chainName: CHECK_NEW_VERSION_PACKAGE  status:  start
+16:02:13.844 › [1a133da908a][QQ hotUpdate] onUpdateDownloaded /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+16:02:13.844 › [1a133da908a][QQ hotUpdate] onPackageReady packageDirPath:  /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+16:02:13.844 › [1a133da908a][QQ hotUpdate] onPackageReady setMacAppDownloadAuth res { result: 0 }
+16:02:13.844 › [1a133da908a][QQ hotUpdate] onChainStatusChanged chainName: CHECK_NEW_VERSION_PACKAGE  status:  escaped
+16:02:13.844 › [1a133da908a][QQ hotUpdate] onStatusChanged status:  READY
+[I 2026-10-13 16:03:17.918 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:05:17.944 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:07:17.991 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:09:18.015 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:11:18.042 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:13:18.090 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:15:18.140 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:17:18.164 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:19:18.210 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:21:18.232 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:23:18.280 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:25:18.329 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:27:18.376 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:27:21.612 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:28:19.386 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:32:19.920 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 16:56:04.892 ServerApp] Starting buffering for 71268ae1-0a04-4b00-8d35-67b672abdd60:cbabdc7b-91ca-483c-ba57-56cb10a04cee
+[I 2026-10-13 16:56:06.151 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 16:56:06.152 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 16:56:06.206 ServerApp] Starting buffering for 71268ae1-0a04-4b00-8d35-67b672abdd60:700ec6b8-1d29-43c3-add3-63c27bfb5699
+[I 2026-10-13 16:56:31.143 ServerApp] Creating new notebook in /GPT-2
+[I 2026-10-13 16:56:31.467 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 16:56:31.468 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 16:56:31.646 ServerApp] Starting buffering for 71268ae1-0a04-4b00-8d35-67b672abdd60:139da7b5-f358-4c2e-b68d-4cbf8dce392f
+[I 2026-10-13 16:56:32.925 ServerApp] Kernel started: e55bd5a5-d504-478e-82c3-f2a3c8b37e8f
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-13 16:56:33.096 ServerApp] Adapting from protocol version 5.3 (kernel e55bd5a5-d504-478e-82c3-f2a3c8b37e8f) to 5.4 (client).
+[I 2026-10-13 16:56:33.096 ServerApp] Connecting to kernel e55bd5a5-d504-478e-82c3-f2a3c8b37e8f.
+[I 2026-10-13 16:56:42.386 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 16:56:42.386 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 16:56:42.398 ServerApp] Adapting from protocol version 5.3 (kernel e55bd5a5-d504-478e-82c3-f2a3c8b37e8f) to 5.4 (client).
+[I 2026-10-13 16:56:42.399 ServerApp] Connecting to kernel e55bd5a5-d504-478e-82c3-f2a3c8b37e8f.
+[I 2026-10-13 16:56:42.489 ServerApp] Starting buffering for 71268ae1-0a04-4b00-8d35-67b672abdd60:b877a595-84e6-458a-924a-45bede24c669
+[I 2026-10-13 16:57:46.214 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-13 16:57:50.814 ServerApp] Adapting from protocol version 5.3 (kernel 71268ae1-0a04-4b00-8d35-67b672abdd60) to 5.4 (client).
+[I 2026-10-13 16:57:50.815 ServerApp] Connecting to kernel 71268ae1-0a04-4b00-8d35-67b672abdd60.
+[I 2026-10-13 16:57:50.827 ServerApp] Adapting from protocol version 5.3 (kernel e55bd5a5-d504-478e-82c3-f2a3c8b37e8f) to 5.4 (client).
+[I 2026-10-13 16:57:50.828 ServerApp] Connecting to kernel e55bd5a5-d504-478e-82c3-f2a3c8b37e8f.
+[I 2026-10-13 16:57:50.928 ServerApp] Starting buffering for 71268ae1-0a04-4b00-8d35-67b672abdd60:68ff36a5-c271-4717-aab0-fceaaf3bdc39
+[I 2026-10-13 16:57:58.192 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-13 16:58:02.846 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-13 16:58:03.111 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+17:02:12.507 › [1a133da908a][QQ hotUpdate] ----- startAutoUpdate curVersion: 3.2.33-52892 -----
+17:02:12.594 › [1a133da908a][QQ hotUpdate] hotUpdateApi getReadyVersionConfig suc 
+17:02:12.595 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  false
+17:02:12.599 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkHasMultipleQQ:  false
+17:02:12.600 › [1a133da908a][QQ hotUpdate] hotUpdateApi start check  3.2.34-53644  IsOnErrorVersion
+17:02:12.600 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkIsOnErrorVersion result: false
+17:02:12.601 › [1a133da908a][QQ hotUpdate] [startAutoUpdate] is fullUpdate: false
+17:02:12.632 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkHasEnoughSpace start /hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip
+17:02:12.704 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionZipExist is: true  zip: /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+17:02:12.705 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionZipExist is: false  zip: /home/mteltn/.config/QQ/versions/3.2.34-53644.zip.zip
+17:02:12.705 › [1a133da908a][QQ hotUpdate] fileSize/requiredDownloadSize/reservedUnzipSize/requiredSize/freeSpace/hasLocalZip is: 183050148 / 0 / 366100296 / 366100296 / 72074022912 / true
+17:02:12.708 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  false
+17:02:12.711 › [1a133da908a][QQ hotUpdate] hotUpdateApi getUpdateStatus:  READY
+17:02:12.711 › [1a133da908a][QQ hotUpdate] hotUpdateApi start check  3.2.34-53644  IsReadyVersion: false
+17:02:12.712 › [1a133da908a][QQ hotUpdate] hotUpdateApi checkDownloadVersionDirExist is: true  dir: /home/mteltn/.config/QQ/versions/3.2.34-53644
+17:02:13.715 › [1a133da908a][QQ hotUpdate] hotUpdateApi start initStatus
+17:02:13.715 › [1a133da908a][QQ hotUpdate] onStatusChanged status:  IDLE
+17:02:13.715 › [1a133da908a][QQ hotUpdate] hotUpdateApi start updateInfo:  {
+  packageUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip',
+  fruitadeUrl: '',
+  patchUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.33-52892-3.2.34-53644.patch',
+  newVersion: '3.2.34-53644',
+  curVersion: '3.2.33-52892',
+  newVersionPackageMD5: '25f50a5c24327dc95052b6ea3e648c12',
+  useStreamUnzip: true,
+  tryIpv6first: true
+}
+17:02:13.716 › [1a133da908a][QQ hotUpdate] onUpdateStart updateInfo:  {
+  packageUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.34-53644.zip.zip',
+  fruitadeUrl: '',
+  patchUrl: '/hotUpdate_new/release/linux-x64/3.2.34-53644/872cffb7/3.2.33-52892-3.2.34-53644.patch',
+  newVersion: '3.2.34-53644',
+  curVersion: '3.2.33-52892',
+  newVersionPackageMD5: '25f50a5c24327dc95052b6ea3e648c12',
+  useStreamUnzip: true,
+  tryIpv6first: true
+}
+17:02:13.716 › [1a133da908a][QQ hotUpdate] onChainStatusChanged chainName: CHECK_NEW_VERSION_PACKAGE  status:  start
+17:02:13.716 › [1a133da908a][QQ hotUpdate] onUpdateDownloaded /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+17:02:13.716 › [1a133da908a][QQ hotUpdate] onPackageReady packageDirPath:  /home/mteltn/.config/QQ/versions/3.2.34-53644.zip
+17:02:13.717 › [1a133da908a][QQ hotUpdate] onPackageReady setMacAppDownloadAuth res { result: 0 }
+17:02:13.717 › [1a133da908a][QQ hotUpdate] onChainStatusChanged chainName: CHECK_NEW_VERSION_PACKAGE  status:  escaped
+17:02:13.717 › [1a133da908a][QQ hotUpdate] onStatusChanged status:  READY
+17:06:01.049 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-3} [Core] Refreshing system proxy guard...
+17:06:01.049 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-3} [Core] System proxy is disabled.
+17:08:02.427 INFO  app_lib::utils::server:229 T{clash-verge-runtime-18} [Window] Restoring the application window from a secondary instance
+17:08:02.458 INFO  app_lib::utils::window_manager:228 T{clash-verge-runtime-18} [Window] 窗口激活成功
+17:08:09.362 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-0} [Core] Refreshing system proxy guard...
+17:08:09.362 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-0} [Core] System proxy guard is disabled.
+[I 2026-10-13 17:19:19.518 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-13 17:19:21.298 ServerApp] Starting buffering for e55bd5a5-d504-478e-82c3-f2a3c8b37e8f:005d5fba-ca21-42b6-a34d-da5cd46a58fe
+[C 2026-10-13 17:19:48.322 ServerApp] received signal 15, stopping
+[I 2026-10-13 17:19:48.322 ServerApp] Shutting down 5 extensions
+[I 2026-10-13 17:19:48.322 ServerApp] Shutting down 2 kernels
+[I 2026-10-13 17:19:48.323 ServerApp] Kernel shutdown: 71268ae1-0a04-4b00-8d35-67b672abdd60
+[I 2026-10-13 17:19:48.323 ServerApp] Kernel shutdown: e55bd5a5-d504-478e-82c3-f2a3c8b37e8f
+[I 2026-10-13 17:21:13.636 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-13 17:21:13.638 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-13 17:21:13.641 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-13 17:21:13.643 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-13 17:21:13.659 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-13 17:21:13.667 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-13 17:21:13.668 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-13 17:21:13.669 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-13 17:21:13.669 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-13 17:21:13.670 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-13 17:21:13.670 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-13 17:21:13.683 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-13 17:21:13.684 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-13 17:21:13.684 ServerApp] The port 8888 is already in use, trying another port.
+[I 2026-10-13 17:21:13.684 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践
+[I 2026-10-13 17:21:13.684 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-13 17:21:13.684 ServerApp] http://localhost:8889/tree?token=eb590db45495c208091b9ffa193d252ce2aeca47a4aaeb16
+[I 2026-10-13 17:21:13.684 ServerApp]     http://127.0.0.1:8889/tree?token=eb590db45495c208091b9ffa193d252ce2aeca47a4aaeb16
+[I 2026-10-13 17:21:13.684 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-13 17:21:13.700 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-73540-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=eb590db45495c208091b9ffa193d252ce2aeca47a4aaeb16
+        http://127.0.0.1:8889/tree?token=eb590db45495c208091b9ffa193d252ce2aeca47a4aaeb16
+[I 2026-10-13 17:21:13.977 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-13 17:21:43.061 ServerApp] Kernel started: d5a06905-96c9-4962-bbe7-7f6611f6f428
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-13 17:21:43.266 ServerApp] Adapting from protocol version 5.3 (kernel d5a06905-96c9-4962-bbe7-7f6611f6f428) to 5.4 (client).
+[I 2026-10-13 17:21:43.267 ServerApp] Connecting to kernel d5a06905-96c9-4962-bbe7-7f6611f6f428.
+[W 2026-10-13 17:21:43.268 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-13 17:21:43.278 ServerApp] Adapting from protocol version 5.3 (kernel d5a06905-96c9-4962-bbe7-7f6611f6f428) to 5.4 (client).
+[I 2026-10-13 17:21:43.279 ServerApp] Connecting to kernel d5a06905-96c9-4962-bbe7-7f6611f6f428.
+[I 2026-10-13 17:21:43.291 ServerApp] Adapting from protocol version 5.3 (kernel d5a06905-96c9-4962-bbe7-7f6611f6f428) to 5.4 (client).
+[I 2026-10-13 17:21:43.291 ServerApp] Connecting to kernel d5a06905-96c9-4962-bbe7-7f6611f6f428.
+[I 2026-10-13 17:21:45.927 ServerApp] Adapting from protocol version 5.3 (kernel d5a06905-96c9-4962-bbe7-7f6611f6f428) to 5.4 (client).
+[I 2026-10-13 17:21:45.928 ServerApp] Connecting to kernel d5a06905-96c9-4962-bbe7-7f6611f6f428.
+[I 2026-10-13 17:23:42.926 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-13 17:25:31.903 ServerApp] Adapting from protocol version 5.3 (kernel d5a06905-96c9-4962-bbe7-7f6611f6f428) to 5.4 (client).
+[I 2026-10-13 17:25:31.903 ServerApp] Connecting to kernel d5a06905-96c9-4962-bbe7-7f6611f6f428.
+[I 2026-10-13 17:25:32.132 ServerApp] Adapting from protocol version 5.3 (kernel d5a06905-96c9-4962-bbe7-7f6611f6f428) to 5.4 (client).
+[I 2026-10-13 17:25:32.134 ServerApp] Connecting to kernel d5a06905-96c9-4962-bbe7-7f6611f6f428.
+[I 2026-10-13 17:27:32.041 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-13 17:30:21.208 ServerApp] Adapting from protocol version 5.3 (kernel d5a06905-96c9-4962-bbe7-7f6611f6f428) to 5.4 (client).
+[I 2026-10-13 17:30:21.209 ServerApp] Connecting to kernel d5a06905-96c9-4962-bbe7-7f6611f6f428.
+[I 2026-10-13 17:30:21.555 ServerApp] Kernel started: 3a7f57bb-e633-482f-af12-6e0a6b0752ef
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-13 17:30:21.730 ServerApp] Adapting from protocol version 5.3 (kernel 3a7f57bb-e633-482f-af12-6e0a6b0752ef) to 5.4 (client).
+[I 2026-10-13 17:30:21.731 ServerApp] Connecting to kernel 3a7f57bb-e633-482f-af12-6e0a6b0752ef.
+[I 2026-10-13 17:30:47.317 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-13 17:30:48.702 ServerApp] Starting buffering for 3a7f57bb-e633-482f-af12-6e0a6b0752ef:9268ed87-cf37-4cff-be07-6dcaf5e9be8a
+[I 2026-10-13 17:30:49.699 ServerApp] Starting buffering for d5a06905-96c9-4962-bbe7-7f6611f6f428:75760641-72a1-4376-9290-4c43d775ae1f
+17:38:12.812 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-5} [Core] Refreshing system proxy guard...
+17:38:12.812 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-5} [Core] System proxy is disabled.
+17:39:14.929 › [1a133da908a][QQ hotUpdate] setLauncherCounts suc 0
+[I] <MMKV.cpp:344::close> close [nt_mmkv_flash_transfer]
+[I] <MMKV.cpp:315::clearMemoryCache> clearMemoryCache [nt_mmkv_flash_transfer]
+[I] <MemoryFile.cpp:104::close> closing fd[0xd1], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_mmkv_flash_transfer
+[I] <MemoryFile.cpp:104::close> closing fd[0xd2], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_mmkv_flash_transfer.crc
+[I] <MMKV.cpp:157::~MMKV> destruct [nt_mmkv_flash_transfer]
+X connection to :1 broken (explicit kill or server shutdown).
+[C 2026-10-13 17:39:15.159 ServerApp] received signal 15, stopping
+[I 2026-10-13 17:39:15.160 ServerApp] Shutting down 5 extensions
+[I 2026-10-13 17:39:15.160 ServerApp] Shutting down 2 kernels
+[I 2026-10-13 17:39:15.160 ServerApp] Kernel shutdown: d5a06905-96c9-4962-bbe7-7f6611f6f428
+[I 2026-10-13 17:39:15.161 ServerApp] Kernel shutdown: 3a7f57bb-e633-482f-af12-6e0a6b0752ef
+[I 2026-10-13 17:50:10.729 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-13 17:50:10.731 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-13 17:50:10.733 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-13 17:50:10.735 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-13 17:50:10.762 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-13 17:50:10.783 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-13 17:50:10.784 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-13 17:50:10.785 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-13 17:50:10.788 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-13 17:50:10.788 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-13 17:50:10.789 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-13 17:50:10.810 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-13 17:50:10.811 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-13 17:50:10.812 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践
+[I 2026-10-13 17:50:10.812 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-13 17:50:10.812 ServerApp] http://localhost:8888/tree?token=1cb13bb8e08a70ce73770466e8d8ccbe277e589cbcec75f2
+[I 2026-10-13 17:50:10.812 ServerApp]     http://127.0.0.1:8888/tree?token=1cb13bb8e08a70ce73770466e8d8ccbe277e589cbcec75f2
+[I 2026-10-13 17:50:10.812 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-13 17:50:10.829 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-11296-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=1cb13bb8e08a70ce73770466e8d8ccbe277e589cbcec75f2
+        http://127.0.0.1:8888/tree?token=1cb13bb8e08a70ce73770466e8d8ccbe277e589cbcec75f2
+[I 2026-10-13 17:50:11.202 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-13 17:50:18.839 ServerApp] Kernel started: f15aca49-e4d9-4da8-963e-eb900cf2a8e9
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-13 17:50:19.048 ServerApp] Adapting from protocol version 5.3 (kernel f15aca49-e4d9-4da8-963e-eb900cf2a8e9) to 5.4 (client).
+[I 2026-10-13 17:50:19.049 ServerApp] Connecting to kernel f15aca49-e4d9-4da8-963e-eb900cf2a8e9.
+[W 2026-10-13 17:50:19.050 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-13 17:50:19.062 ServerApp] Adapting from protocol version 5.3 (kernel f15aca49-e4d9-4da8-963e-eb900cf2a8e9) to 5.4 (client).
+[I 2026-10-13 17:50:19.062 ServerApp] Connecting to kernel f15aca49-e4d9-4da8-963e-eb900cf2a8e9.
+[I 2026-10-13 17:50:19.075 ServerApp] Adapting from protocol version 5.3 (kernel f15aca49-e4d9-4da8-963e-eb900cf2a8e9) to 5.4 (client).
+[I 2026-10-13 17:50:19.075 ServerApp] Connecting to kernel f15aca49-e4d9-4da8-963e-eb900cf2a8e9.
+[I 2026-10-13 17:50:23.394 ServerApp] Adapting from protocol version 5.3 (kernel f15aca49-e4d9-4da8-963e-eb900cf2a8e9) to 5.4 (client).
+[I 2026-10-13 17:50:23.395 ServerApp] Connecting to kernel f15aca49-e4d9-4da8-963e-eb900cf2a8e9.
+18:21:53.950 INFO  app_lib::utils::resolve:57 T{clash-verge-runtime-3} [ClashVergeRev] Version: 2.5.8
+18:21:53.950 INFO  app_lib::event_handlers:360 T{main} [System] 应用就绪
+18:21:54.115 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-3} [Window] 新窗口创建成功，等待前端渲染后显示
+18:21:54.117 INFO  app_lib::config::port:197 T{clash-verge-runtime-3} [Service] Service is NotInstalled, so no managed core can hold mixed proxy port 7897
+18:21:54.124 INFO  app_lib::core::validate:420 T{clash-verge-runtime-3} [Validate] 生成临时配置文件用于验证
+18:21:54.124 INFO  app_lib::core::validate:351 T{clash-verge-runtime-6} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+18:21:54.124 INFO  app_lib::core::validate:354 T{clash-verge-runtime-6} [Validate] 使用内核: verge-mihomo
+18:21:54.124 INFO  app_lib::core::validate:359 T{clash-verge-runtime-6} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+18:21:54.269 INFO  app_lib::core::validate:379 T{clash-verge-runtime-6} [Validate] -------- 验证结果 --------
+18:21:54.269 INFO  app_lib::core::validate:405 T{clash-verge-runtime-6} [Validate] 验证成功
+18:21:54.269 INFO  app_lib::core::validate:406 T{clash-verge-runtime-6} [Validate] -------- 验证结束 --------
+18:21:54.269 INFO  app_lib::core::tray:494 T{clash-verge-runtime-6} [Tray] 正在从AppHandle创建系统托盘
+18:21:54.275 INFO  app_lib::core::tray:177 T{clash-verge-runtime-6} [Tray] System tray created successfully
+18:21:54.275 INFO  app_lib::core::timer:192 T{clash-verge-runtime-6} [Timer] Refreshing timer tasks map, count: 2
+18:21:54.275 INFO  app_lib::core::timer:166 T{clash-verge-runtime-6} [Timer] Running overdue timer task immediately: uid=RsuR8a7x16om
+18:21:54.276 INFO  app_lib::core::timer:172 T{clash-verge-runtime-6} [Timer] Timer initialization completed
+18:21:54.276 INFO  app_lib::utils::resolve:189 T{clash-verge-runtime-6} [Setup] Silent updater initialized
+18:21:54.276 INFO  app_lib::core::updater:685 T{clash-verge-runtime-6} [System] Silent updater: background task started
+18:21:54.397 INFO  app_lib::core::manager:188 T{clash-verge-runtime-6} [Core] Core running mode changed: NotRunning -> Sidecar
+18:21:54.439 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-6} [Core] Refreshing system proxy guard...
+18:21:54.439 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-6} [Core] System proxy is disabled.
+18:21:54.477 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-6} [Config] [订阅更新] 远程订阅，URL: https://ktmcloud001.top/api/v1/client/subscribe?token=***
+18:22:00.004 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-4} [Core] Refreshing system proxy guard...
+18:22:00.004 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-4} [Core] System proxy guard is disabled.
+18:22:04.277 INFO  app_lib::core::updater:611 T{clash-verge-runtime-1} [System] Silent updater: checking for updates...
+18:22:14.583 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-1} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用Clash代理更新
+18:22:16.443 INFO  app_lib::core::updater:617 T{clash-verge-runtime-7} [System] Silent updater: no update available
+18:22:34.951 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-1} [Config] [订阅更新] Clash代理更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用系统代理更新
+18:22:55.078 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-4} [Config] [订阅更新] 系统代理更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，所有重试均已失败
+18:22:55.078 ERROR app_lib::core::timer:481 T{clash-verge-runtime-4} [[Timer]] Failed to update profile uid RsuR8a7x16om: failed to fetch remote profile
+[I 2026-10-13 18:33:39.582 ServerApp] 302 GET / (@127.0.0.1) 0.31ms
+[I 2026-10-13 18:33:39.589 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 0.54ms
+[W 2026-10-13 18:33:47.543 ServerApp] 401 POST /login?next=%2Ftree%3F (@127.0.0.1) 0.70ms referer=http://127.0.0.1:8888/login?next=%2Ftree%3F
+[I 2026-10-13 18:38:56.227 ServerApp] 302 GET / (@127.0.0.1) 0.25ms
+[I 2026-10-13 18:38:56.233 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 1.06ms
+[W 2026-10-13 18:39:04.928 ServerApp] 401 POST /login?next=%2Ftree%3F (@127.0.0.1) 0.85ms referer=http://127.0.0.1:8888/login?next=%2Ftree%3F
+[W 2026-10-13 18:39:49.363 ServerApp] 401 POST /login?next=%2Ftree%3F (@127.0.0.1) 0.68ms referer=http://127.0.0.1:8888/login?next=%2Ftree%3F
+[I 2026-10-13 18:39:55.367 ServerApp] 302 GET / (@127.0.0.1) 0.31ms
+[I 2026-10-13 18:39:55.371 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 0.41ms
+[W 2026-10-13 18:40:03.819 ServerApp] 401 POST /login?next=%2Ftree%3F (@127.0.0.1) 0.62ms referer=http://127.0.0.1:8888/login?next=%2Ftree%3F
+[I 2026-10-13 19:10:59.335 ServerApp] Starting buffering for f15aca49-e4d9-4da8-963e-eb900cf2a8e9:d60acf88-2cfe-433d-94f3-6b29d235b03e
+[I 2026-10-13 19:19:34.843 ServerApp] 302 GET / (@127.0.0.1) 0.23ms
+[I 2026-10-13 19:19:34.847 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 0.36ms
+[I 2026-10-13 19:19:54.720 JupyterNotebookApp] 302 GET /tree? (@127.0.0.1) 0.43ms
+[I 2026-10-13 19:24:20.009 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.23ms
+[I 2026-10-13 19:24:20.012 JupyterNotebookApp] 302 GET /tree?token=[secret] (@127.0.0.1) 0.38ms
+[I 2026-10-13 19:24:29.091 ServerApp] 302 GET /?token=[secret] (@127.0.0.1) 0.33ms
+[I 2026-10-13 19:24:29.099 JupyterNotebookApp] 302 GET /tree?token=[secret] (@127.0.0.1) 0.61ms
+[W 2026-10-13 19:24:40.228 ServerApp] 401 POST /login?next=%2Ftree%3Ftoken%3D593bf06ef00a94f60e3f13669868d8176e8b3b463309c8b6 (@127.0.0.1) 0.92ms referer=http://127.0.0.1:8888/login?next=%2Ftree%3Ftoken%3D593bf06ef00a94f60e3f13669868d8176e8b3b463309c8b6
+21:03:59.232 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-5} [Core] Refreshing system proxy guard...
+21:03:59.232 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-5} [Core] System proxy is disabled.
+22:03:34.348 INFO  app_lib::config::config:305 T{clash-verge-runtime-6} [Config] save all draft data finished
+22:03:34.377 INFO  app_lib::core::manager:202 T{clash-verge-runtime-1} [Core] Core running mode changed: Sidecar -> NotRunning
+22:03:34.377 INFO  app_lib::feat::window:200 T{clash-verge-runtime-1} [System] Interactive cleanup complete - core stopped: true, all cleanup successful: true
+22:03:34.377 INFO  app_lib::feat::window:142 T{clash-verge-runtime-1} [System] 资源清理完成，退出代码: 0
+22:03:34.377 INFO  app_lib::utils::server:324 T{clash-verge-runtime-1} [Window] shutting down embedded server
+22:03:34.387 INFO  app_lib:493 T{main} [System] Application exited
+[C 2026-10-13 22:11:44.886 ServerApp] received signal 15, stopping
+[I 2026-10-13 22:11:44.887 ServerApp] Shutting down 5 extensions
+[I 2026-10-13 22:11:44.888 ServerApp] Shutting down 1 kernel
+[I 2026-10-13 22:11:44.888 ServerApp] Kernel shutdown: f15aca49-e4d9-4da8-963e-eb900cf2a8e9
+08:25:35.309 INFO  app_lib::utils::resolve:57 T{clash-verge-runtime-2} [ClashVergeRev] Version: 2.5.8
+08:25:35.310 INFO  app_lib::event_handlers:360 T{main} [System] 应用就绪
+08:25:35.484 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-3} [Window] 新窗口创建成功，等待前端渲染后显示
+08:25:35.486 INFO  app_lib::config::port:197 T{clash-verge-runtime-7} [Service] Service is NotInstalled, so no managed core can hold mixed proxy port 7897
+08:25:35.494 INFO  app_lib::core::validate:420 T{clash-verge-runtime-3} [Validate] 生成临时配置文件用于验证
+08:25:35.494 INFO  app_lib::core::validate:351 T{clash-verge-runtime-3} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+08:25:35.494 INFO  app_lib::core::validate:354 T{clash-verge-runtime-3} [Validate] 使用内核: verge-mihomo
+08:25:35.494 INFO  app_lib::core::validate:359 T{clash-verge-runtime-3} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+08:25:35.631 INFO  app_lib::core::validate:379 T{clash-verge-runtime-3} [Validate] -------- 验证结果 --------
+08:25:35.631 INFO  app_lib::core::validate:405 T{clash-verge-runtime-3} [Validate] 验证成功
+08:25:35.631 INFO  app_lib::core::validate:406 T{clash-verge-runtime-3} [Validate] -------- 验证结束 --------
+08:25:35.632 INFO  app_lib::core::tray:494 T{clash-verge-runtime-3} [Tray] 正在从AppHandle创建系统托盘
+08:25:35.638 INFO  app_lib::core::tray:177 T{clash-verge-runtime-3} [Tray] System tray created successfully
+08:25:35.638 INFO  app_lib::core::timer:192 T{clash-verge-runtime-3} [Timer] Refreshing timer tasks map, count: 2
+08:25:35.638 INFO  app_lib::core::timer:166 T{clash-verge-runtime-3} [Timer] Running overdue timer task immediately: uid=RsuR8a7x16om
+08:25:35.638 INFO  app_lib::core::timer:172 T{clash-verge-runtime-3} [Timer] Timer initialization completed
+08:25:35.638 INFO  app_lib::utils::resolve:189 T{clash-verge-runtime-3} [Setup] Silent updater initialized
+08:25:35.638 INFO  app_lib::core::updater:685 T{clash-verge-runtime-3} [System] Silent updater: background task started
+08:25:35.768 INFO  app_lib::core::manager:188 T{clash-verge-runtime-3} [Core] Core running mode changed: NotRunning -> Sidecar
+08:25:35.798 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-3} [Core] Refreshing system proxy guard...
+08:25:35.798 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-3} [Core] System proxy is disabled.
+08:25:35.840 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-2} [Config] [订阅更新] 远程订阅，URL: https://ktmcloud001.top/api/v1/client/subscribe?token=***
+08:25:41.598 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-0} [Core] Refreshing system proxy guard...
+08:25:41.598 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-0} [Core] System proxy guard is disabled.
+08:25:45.640 INFO  app_lib::core::updater:611 T{clash-verge-runtime-1} [System] Silent updater: checking for updates...
+08:25:45.935 INFO  app_lib::core::updater:617 T{clash-verge-runtime-1} [System] Silent updater: no update available
+08:25:55.945 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-5} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用Clash代理更新
+08:26:16.051 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-5} [Config] [订阅更新] Clash代理更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用系统代理更新
+08:26:36.175 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-5} [Config] [订阅更新] 系统代理更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，所有重试均已失败
+08:26:36.175 ERROR app_lib::core::timer:481 T{clash-verge-runtime-5} [[Timer]] Failed to update profile uid RsuR8a7x16om: failed to fetch remote profile
+Opening in existing browser session.
+[1:1:0100/000000.278932:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[135137:135137:0100/000000.283753:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
+[I 2026-10-14 10:21:29.960 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-14 10:21:29.962 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-14 10:21:29.964 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-14 10:21:29.966 ServerApp] notebook | extension was successfully linked.
+[W 2026-10-14 10:21:29.992 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_nbextensions_configurator. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2026-10-14 10:21:29.992 ServerApp] jupyter_nbextensions_configurator | extension was found and enabled by notebook_shim. Consider moving the extension to Jupyter Server's extension paths.
+[I 2026-10-14 10:21:29.992 ServerApp] jupyter_nbextensions_configurator | extension was successfully linked.
+[I 2026-10-14 10:21:29.992 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-14 10:21:30.014 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-14 10:21:30.016 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-14 10:21:30.016 ServerApp] [jupyter_nbextensions_configurator] enabled 0.6.4
+[I 2026-10-14 10:21:30.016 ServerApp] jupyter_nbextensions_configurator | extension was successfully loaded.
+[I 2026-10-14 10:21:30.017 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-14 10:21:30.020 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-14 10:21:30.020 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-14 10:21:30.020 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-14 10:21:30.046 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-14 10:21:30.047 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-14 10:21:30.048 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践
+[I 2026-10-14 10:21:30.048 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-14 10:21:30.048 ServerApp] http://localhost:8888/tree?token=3821bb4f92fed251b79d45f3813475fe8ec9392d2b04ba5d
+[I 2026-10-14 10:21:30.048 ServerApp]     http://127.0.0.1:8888/tree?token=3821bb4f92fed251b79d45f3813475fe8ec9392d2b04ba5d
+[I 2026-10-14 10:21:30.048 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-14 10:21:30.066 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-22075-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=3821bb4f92fed251b79d45f3813475fe8ec9392d2b04ba5d
+        http://127.0.0.1:8888/tree?token=3821bb4f92fed251b79d45f3813475fe8ec9392d2b04ba5d
+[I 2026-10-14 10:21:30.438 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-14 10:21:41.887 ServerApp] Kernel started: 8d46450a-9230-4cd8-a5ce-37c2a456a2d0
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-14 10:21:42.091 ServerApp] Adapting from protocol version 5.3 (kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0) to 5.4 (client).
+[I 2026-10-14 10:21:42.092 ServerApp] Connecting to kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0.
+[W 2026-10-14 10:21:42.092 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-14 10:21:42.105 ServerApp] Adapting from protocol version 5.3 (kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0) to 5.4 (client).
+[I 2026-10-14 10:21:42.105 ServerApp] Connecting to kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0.
+[I 2026-10-14 10:21:42.117 ServerApp] Adapting from protocol version 5.3 (kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0) to 5.4 (client).
+[I 2026-10-14 10:21:42.118 ServerApp] Connecting to kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0.
+[I 2026-10-14 10:21:42.391 ServerApp] Adapting from protocol version 5.3 (kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0) to 5.4 (client).
+[I 2026-10-14 10:21:42.393 ServerApp] Connecting to kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0.
+[I 2026-10-14 10:21:50.250 ServerApp] Starting buffering for 8d46450a-9230-4cd8-a5ce-37c2a456a2d0:7b43479c-0c5a-486c-b86d-f3d5ca973b34
+[I 2026-10-14 10:21:55.415 ServerApp] Adapting from protocol version 5.3 (kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0) to 5.4 (client).
+[I 2026-10-14 10:21:55.416 ServerApp] Connecting to kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0.
+[I 2026-10-14 10:21:55.545 ServerApp] Starting buffering for 8d46450a-9230-4cd8-a5ce-37c2a456a2d0:035052d4-7479-42c1-a4ff-3dac5125e555
+[I 2026-10-14 10:21:55.730 ServerApp] Kernel started: 48198438-3e47-446e-bd14-28fd0985a0fb
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-14 10:21:55.906 ServerApp] Adapting from protocol version 5.3 (kernel 48198438-3e47-446e-bd14-28fd0985a0fb) to 5.4 (client).
+[I 2026-10-14 10:21:55.907 ServerApp] Connecting to kernel 48198438-3e47-446e-bd14-28fd0985a0fb.
+[I 2026-10-14 10:23:55.583 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:25:49.812 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:26:31.936 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:27:58.463 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:28:20.302 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:28:39.749 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:30:39.795 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:32:40.395 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:34:41.393 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:36:41.442 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:38:41.468 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:40:41.517 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:42:41.568 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:44:41.617 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:46:41.643 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:47:08.670 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:49:08.719 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:51:09.391 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:53:10.388 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:55:11.393 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:57:12.391 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:57:43.936 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:57:55.967 ServerApp] Saving file at /LLM/LLM.ipynb
+[I 2026-10-14 10:58:01.040 ServerApp] Starting buffering for 48198438-3e47-446e-bd14-28fd0985a0fb:b1a40fd0-ffa1-4a14-a4dc-fc425f2b46cc
+[I 2026-10-14 10:58:03.342 ServerApp] Copying 'LLM/LLM.ipynb' to '/LLM'
+[W 2026-10-14 10:58:09.072 ServerApp] delete /LLM/LLM-Copy1.ipynb
+[I 2026-10-14 10:58:16.143 ServerApp] Adapting from protocol version 5.3 (kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0) to 5.4 (client).
+[I 2026-10-14 10:58:16.144 ServerApp] Connecting to kernel 8d46450a-9230-4cd8-a5ce-37c2a456a2d0.
+[I 2026-10-14 10:58:16.156 ServerApp] Adapting from protocol version 5.3 (kernel 48198438-3e47-446e-bd14-28fd0985a0fb) to 5.4 (client).
+[I 2026-10-14 10:58:16.157 ServerApp] Connecting to kernel 48198438-3e47-446e-bd14-28fd0985a0fb.
+[I 2026-10-14 10:58:16.356 ServerApp] Starting buffering for 8d46450a-9230-4cd8-a5ce-37c2a456a2d0:6e8ed256-f447-47ff-9ef1-b1146ced1fdc
+[I 2026-10-14 10:58:16.357 ServerApp] Starting buffering for 48198438-3e47-446e-bd14-28fd0985a0fb:7dc689ad-28b1-489d-8a59-ff96b32a6d60
+[I 2026-10-14 10:58:16.488 ServerApp] Kernel started: 28f7fba6-34c3-4f8d-8da7-4aee0c21a2de
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-14 10:58:16.655 ServerApp] Adapting from protocol version 5.3 (kernel 28f7fba6-34c3-4f8d-8da7-4aee0c21a2de) to 5.4 (client).
+[I 2026-10-14 10:58:16.656 ServerApp] Connecting to kernel 28f7fba6-34c3-4f8d-8da7-4aee0c21a2de.
+[I 2026-10-14 10:59:16.233 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 10:59:23.884 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:01:16.256 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:02:46.109 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:02:49.383 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:02:57.290 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:03:00.006 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:03:03.197 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:05:03.220 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:06:09.965 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:08:09.990 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:08:23.349 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:08:25.549 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:09:15.278 ServerApp] Saving file at /GPT-2/GPT-2.ipynb
+[I 2026-10-14 11:09:17.443 ServerApp] Starting buffering for 28f7fba6-34c3-4f8d-8da7-4aee0c21a2de:f12f5e6b-327e-47fa-a528-38a85a3daa96
+[C 2026-10-14 11:09:41.052 ServerApp] received signal 15, stopping
+[I 2026-10-14 11:09:41.052 ServerApp] Shutting down 6 extensions
+[I 2026-10-14 11:09:41.053 ServerApp] Shutting down 3 kernels
+[I 2026-10-14 11:09:41.053 ServerApp] Kernel shutdown: 48198438-3e47-446e-bd14-28fd0985a0fb
+[I 2026-10-14 11:09:41.053 ServerApp] Discarding 117 buffered messages for 28f7fba6-34c3-4f8d-8da7-4aee0c21a2de:f12f5e6b-327e-47fa-a528-38a85a3daa96
+[I 2026-10-14 11:09:41.053 ServerApp] Kernel shutdown: 28f7fba6-34c3-4f8d-8da7-4aee0c21a2de
+[I 2026-10-14 11:09:41.053 ServerApp] Kernel shutdown: 8d46450a-9230-4cd8-a5ce-37c2a456a2d0
+[I 2026-10-14 12:11:28.379 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-14 12:11:28.381 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-14 12:11:28.383 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-14 12:11:28.385 ServerApp] notebook | extension was successfully linked.
+[W 2026-10-14 12:11:28.402 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_nbextensions_configurator. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2026-10-14 12:11:28.402 ServerApp] jupyter_nbextensions_configurator | extension was found and enabled by notebook_shim. Consider moving the extension to Jupyter Server's extension paths.
+[I 2026-10-14 12:11:28.402 ServerApp] jupyter_nbextensions_configurator | extension was successfully linked.
+[I 2026-10-14 12:11:28.402 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-14 12:11:28.412 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-14 12:11:28.414 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-14 12:11:28.414 ServerApp] [jupyter_nbextensions_configurator] enabled 0.6.4
+[I 2026-10-14 12:11:28.414 ServerApp] jupyter_nbextensions_configurator | extension was successfully loaded.
+[I 2026-10-14 12:11:28.415 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-14 12:11:28.416 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-14 12:11:28.416 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-14 12:11:28.417 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-14 12:11:28.430 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-14 12:11:28.432 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-14 12:11:28.432 ServerApp] The port 8888 is already in use, trying another port.
+[I 2026-10-14 12:11:28.432 ServerApp] The port 8889 is already in use, trying another port.
+[I 2026-10-14 12:11:28.432 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践
+[I 2026-10-14 12:11:28.432 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-14 12:11:28.432 ServerApp] http://localhost:8890/tree?token=bc0a283cd7e13fbaf6073fbbab3d9884db976cd0495b580e
+[I 2026-10-14 12:11:28.432 ServerApp]     http://127.0.0.1:8890/tree?token=bc0a283cd7e13fbaf6073fbbab3d9884db976cd0495b580e
+[I 2026-10-14 12:11:28.432 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-14 12:11:28.447 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-102107-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/tree?token=bc0a283cd7e13fbaf6073fbbab3d9884db976cd0495b580e
+        http://127.0.0.1:8890/tree?token=bc0a283cd7e13fbaf6073fbbab3d9884db976cd0495b580e
+[I 2026-10-14 12:11:28.723 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-14 12:12:43.517 ServerApp] Kernel started: b0409288-3a80-4f69-92db-2588a2ccb2e9
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-14 12:12:43.706 ServerApp] Adapting from protocol version 5.3 (kernel b0409288-3a80-4f69-92db-2588a2ccb2e9) to 5.4 (client).
+[I 2026-10-14 12:12:43.706 ServerApp] Connecting to kernel b0409288-3a80-4f69-92db-2588a2ccb2e9.
+[W 2026-10-14 12:12:43.707 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-14 12:12:43.719 ServerApp] Adapting from protocol version 5.3 (kernel b0409288-3a80-4f69-92db-2588a2ccb2e9) to 5.4 (client).
+[I 2026-10-14 12:12:43.719 ServerApp] Connecting to kernel b0409288-3a80-4f69-92db-2588a2ccb2e9.
+[I 2026-10-14 12:12:43.732 ServerApp] Adapting from protocol version 5.3 (kernel b0409288-3a80-4f69-92db-2588a2ccb2e9) to 5.4 (client).
+[I 2026-10-14 12:12:43.732 ServerApp] Connecting to kernel b0409288-3a80-4f69-92db-2588a2ccb2e9.
+[I 2026-10-14 12:12:50.387 ServerApp] Adapting from protocol version 5.3 (kernel b0409288-3a80-4f69-92db-2588a2ccb2e9) to 5.4 (client).
+[I 2026-10-14 12:12:50.388 ServerApp] Connecting to kernel b0409288-3a80-4f69-92db-2588a2ccb2e9.
+[I 2026-10-14 12:18:24.168 ServerApp] Starting buffering for b0409288-3a80-4f69-92db-2588a2ccb2e9:8e5cf060-907a-49cc-8d6e-61f5ae550750
+[C 2026-10-14 22:04:24.828 ServerApp] received signal 15, stopping
+[I 2026-10-14 22:04:24.828 ServerApp] Shutting down 6 extensions
+[I 2026-10-14 22:04:24.828 ServerApp] Shutting down 1 kernel
+[I 2026-10-14 22:04:24.829 ServerApp] Kernel shutdown: b0409288-3a80-4f69-92db-2588a2ccb2e9

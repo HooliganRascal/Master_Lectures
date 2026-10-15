@@ -19,3 +19,87 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [20675:20706:1013/114859.075781:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
 [20675:20706:1013/115248.287574:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
 [20675:20706:1013/120053.196748:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Opening in existing browser session.
+[1:1:0100/000000.800658:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[40177:40177:0100/000000.805683:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
+Opening in existing browser session.
+[1:1:0100/000000.585764:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[118206:118206:0100/000000.588786:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
+Opening in existing browser session.
+[1:1:0100/000000.174126:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[118273:118273:0100/000000.174968:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[97168:97196:1015/090041.788940:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[97168:97196:1015/090506.984119:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[97168:97196:1015/090950.435399:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[97168:97196:1015/091514.828943:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[97168:97196:1015/092208.856946:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[97168:97168:1015/092713.381620:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[97168:97168:1015/092713.381673:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[97168:97196:1015/093310.955386:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+09:34:36.833 INFO  app_lib::utils::resolve:57 T{clash-verge-runtime-7} [ClashVergeRev] Version: 2.5.8
+09:34:36.834 INFO  app_lib::event_handlers:360 T{main} [System] 应用就绪
+09:34:37.027 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-7} [Window] 新窗口创建成功，等待前端渲染后显示
+09:34:37.029 INFO  app_lib::config::port:197 T{clash-verge-runtime-7} [Service] Service is NotInstalled, so no managed core can hold mixed proxy port 7897
+09:34:37.037 INFO  app_lib::core::validate:420 T{clash-verge-runtime-1} [Validate] 生成临时配置文件用于验证
+09:34:37.037 INFO  app_lib::core::validate:351 T{clash-verge-runtime-7} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+09:34:37.037 INFO  app_lib::core::validate:354 T{clash-verge-runtime-7} [Validate] 使用内核: verge-mihomo
+09:34:37.037 INFO  app_lib::core::validate:359 T{clash-verge-runtime-7} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+09:34:37.186 INFO  app_lib::core::validate:379 T{clash-verge-runtime-7} [Validate] -------- 验证结果 --------
+09:34:37.186 INFO  app_lib::core::validate:405 T{clash-verge-runtime-7} [Validate] 验证成功
+09:34:37.186 INFO  app_lib::core::validate:406 T{clash-verge-runtime-7} [Validate] -------- 验证结束 --------
+09:34:37.187 INFO  app_lib::core::tray:494 T{clash-verge-runtime-1} [Tray] 正在从AppHandle创建系统托盘
+09:34:37.195 INFO  app_lib::core::tray:177 T{clash-verge-runtime-1} [Tray] System tray created successfully
+09:34:37.195 INFO  app_lib::core::timer:192 T{clash-verge-runtime-1} [Timer] Refreshing timer tasks map, count: 2
+09:34:37.195 INFO  app_lib::core::timer:166 T{clash-verge-runtime-1} [Timer] Running overdue timer task immediately: uid=RsuR8a7x16om
+09:34:37.195 INFO  app_lib::core::timer:172 T{clash-verge-runtime-1} [Timer] Timer initialization completed
+09:34:37.195 INFO  app_lib::utils::resolve:189 T{clash-verge-runtime-1} [Setup] Silent updater initialized
+09:34:37.195 INFO  app_lib::core::updater:685 T{clash-verge-runtime-1} [System] Silent updater: background task started
+09:34:37.321 INFO  app_lib::core::manager:188 T{clash-verge-runtime-5} [Core] Core running mode changed: NotRunning -> Sidecar
+09:34:37.349 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-5} [Core] Refreshing system proxy guard...
+09:34:37.349 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-5} [Core] System proxy is disabled.
+09:34:37.397 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-6} [Config] [订阅更新] 远程订阅，URL: https://ktmcloud001.top/api/v1/client/subscribe?token=***
+09:34:42.918 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-3} [Core] Refreshing system proxy guard...
+09:34:42.918 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-3} [Core] System proxy guard is disabled.
+09:34:47.197 INFO  app_lib::core::updater:611 T{clash-verge-runtime-0} [System] Silent updater: checking for updates...
+09:34:52.252 INFO  app_lib::core::updater:617 T{clash-verge-runtime-4} [System] Silent updater: no update available
+09:34:57.502 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-4} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用Clash代理更新
+09:35:18.055 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-4} [Config] [订阅更新] Clash代理更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用系统代理更新
+09:35:28.201 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-0} [Config] [订阅更新] 系统代理更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): client error (Connect): tls handshake eof，所有重试均已失败
+09:35:28.201 ERROR app_lib::core::timer:481 T{clash-verge-runtime-0} [[Timer]] Failed to update profile uid RsuR8a7x16om: failed to fetch remote profile
+[97215:97223:1015/093555.825515:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[97215:97223:1015/093555.826460:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[97215:97223:1015/093555.848505:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[97215:97223:1015/093555.849385:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[97215:97223:1015/093557.049431:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[97215:97223:1015/093557.050367:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[350868:350898:1015/104321.669595:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[350868:350898:1015/104344.757456:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[350868:350898:1015/104442.400310:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[9695:9726:1015/191803.478272:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/191803.484673:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9695:9726:1015/191825.084459:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9695:9726:1015/191827.455090:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/191919.346227:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9695:9726:1015/191921.405598:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/192110.083911:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9695:9726:1015/192110.275923:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/192404.824236:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9695:9726:1015/192448.222205:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/193051.459941:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9695:9726:1015/193102.540644:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/193720.818260:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/194102.542050:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/194222.116613:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/194224.850964:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/195102.543578:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[9695:9726:1015/200102.545621:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+Fontconfig error: Cannot load default config file: File not found
+[9695:9695:1015/200652.804189:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[9695:9695:1015/200655.289346:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Fontconfig error: Cannot load default config file: File not found
+[9695:9695:1015/201142.718453:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[9695:9695:1015/201142.718506:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[9695:9695:1015/203834.036012:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).

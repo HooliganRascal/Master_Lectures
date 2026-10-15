@@ -1,0 +1,29 @@
+[I 2026-10-13 17:20:29.638 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-13 17:20:29.640 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-13 17:20:29.642 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-13 17:20:29.644 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-13 17:20:29.672 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-13 17:20:29.682 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-13 17:20:29.683 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-13 17:20:29.684 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-13 17:20:29.685 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-13 17:20:29.685 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-13 17:20:29.685 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-13 17:20:29.704 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-13 17:20:29.706 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-13 17:20:29.706 ServerApp] The port 8888 is already in use, trying another port.
+[I 2026-10-13 17:20:29.706 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践/LLM/model
+[I 2026-10-13 17:20:29.706 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-13 17:20:29.706 ServerApp] http://localhost:8889/tree?token=048b3354e38c3bdddf22407ca8da9875da137eb4cb4189b4
+[I 2026-10-13 17:20:29.706 ServerApp]     http://127.0.0.1:8889/tree?token=048b3354e38c3bdddf22407ca8da9875da137eb4cb4189b4
+[I 2026-10-13 17:20:29.706 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-13 17:20:29.723 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-73370-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=048b3354e38c3bdddf22407ca8da9875da137eb4cb4189b4
+        http://127.0.0.1:8889/tree?token=048b3354e38c3bdddf22407ca8da9875da137eb4cb4189b4
+[I 2026-10-13 17:20:30.071 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[C 2026-10-13 17:21:02.665 ServerApp] received signal 15, stopping
+[I 2026-10-13 17:21:02.665 ServerApp] Shutting down 5 extensions

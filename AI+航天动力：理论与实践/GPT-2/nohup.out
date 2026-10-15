@@ -1,0 +1,111 @@
+[I 2026-10-14 11:10:54.628 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-14 11:10:54.630 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-14 11:10:54.632 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-14 11:10:54.634 ServerApp] notebook | extension was successfully linked.
+[W 2026-10-14 11:10:54.651 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_nbextensions_configurator. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2026-10-14 11:10:54.651 ServerApp] jupyter_nbextensions_configurator | extension was found and enabled by notebook_shim. Consider moving the extension to Jupyter Server's extension paths.
+[I 2026-10-14 11:10:54.651 ServerApp] jupyter_nbextensions_configurator | extension was successfully linked.
+[I 2026-10-14 11:10:54.651 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-14 11:10:54.661 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-14 11:10:54.662 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-14 11:10:54.662 ServerApp] [jupyter_nbextensions_configurator] enabled 0.6.4
+[I 2026-10-14 11:10:54.662 ServerApp] jupyter_nbextensions_configurator | extension was successfully loaded.
+[I 2026-10-14 11:10:54.663 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-14 11:10:54.665 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-14 11:10:54.665 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-14 11:10:54.665 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-14 11:10:54.681 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-14 11:10:54.683 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-14 11:10:54.683 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践/GPT-2
+[I 2026-10-14 11:10:54.683 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-14 11:10:54.683 ServerApp] http://localhost:8888/tree?token=ff29fe3d2cd3c91f9b183b8226d299d1ef36b5d6c9b72237
+[I 2026-10-14 11:10:54.683 ServerApp]     http://127.0.0.1:8888/tree?token=ff29fe3d2cd3c91f9b183b8226d299d1ef36b5d6c9b72237
+[I 2026-10-14 11:10:54.683 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-14 11:10:54.698 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-89138-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=ff29fe3d2cd3c91f9b183b8226d299d1ef36b5d6c9b72237
+        http://127.0.0.1:8888/tree?token=ff29fe3d2cd3c91f9b183b8226d299d1ef36b5d6c9b72237
+[I 2026-10-14 11:10:54.986 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-14 11:11:00.487 ServerApp] Kernel started: 57b2f612-56f7-45dd-9bb3-1abe5cacec65
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-14 11:11:00.668 ServerApp] Adapting from protocol version 5.3 (kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65) to 5.4 (client).
+[I 2026-10-14 11:11:00.668 ServerApp] Connecting to kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65.
+[W 2026-10-14 11:11:00.669 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-14 11:11:00.681 ServerApp] Adapting from protocol version 5.3 (kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65) to 5.4 (client).
+[I 2026-10-14 11:11:00.681 ServerApp] Connecting to kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65.
+[I 2026-10-14 11:11:00.694 ServerApp] Adapting from protocol version 5.3 (kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65) to 5.4 (client).
+[I 2026-10-14 11:11:00.694 ServerApp] Connecting to kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65.
+[W 2026-10-14 11:11:00.740 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x753986498b50>
+[I 2026-10-14 11:11:06.396 ServerApp] Adapting from protocol version 5.3 (kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65) to 5.4 (client).
+[I 2026-10-14 11:11:06.396 ServerApp] Connecting to kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65.
+[I 2026-10-14 11:12:45.337 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:14:45.363 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:16:45.412 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:18:45.437 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:20:45.464 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:22:45.487 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:23:01.054 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:25:01.104 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:25:16.076 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:25:17.649 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:25:22.803 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:25:25.637 ServerApp] Starting buffering for 57b2f612-56f7-45dd-9bb3-1abe5cacec65:a1ddbd42-c325-4a86-9eeb-dd10ccc644f9
+[I 2026-10-14 11:25:26.468 ServerApp] Adapting from protocol version 5.3 (kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65) to 5.4 (client).
+[I 2026-10-14 11:25:26.469 ServerApp] Connecting to kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65.
+[I 2026-10-14 11:25:26.582 ServerApp] Starting buffering for 57b2f612-56f7-45dd-9bb3-1abe5cacec65:82eb5e44-ef3d-4e02-a698-078411fe6517
+[I 2026-10-14 11:25:33.284 ServerApp] Adapting from protocol version 5.3 (kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65) to 5.4 (client).
+[I 2026-10-14 11:25:33.285 ServerApp] Connecting to kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65.
+[I 2026-10-14 11:25:33.470 ServerApp] Starting buffering for 57b2f612-56f7-45dd-9bb3-1abe5cacec65:3a6f7ab8-ce11-470f-9517-8c5c52f95296
+[I 2026-10-14 11:25:33.587 ServerApp] Adapting from protocol version 5.3 (kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65) to 5.4 (client).
+[I 2026-10-14 11:25:33.588 ServerApp] Connecting to kernel 57b2f612-56f7-45dd-9bb3-1abe5cacec65.
+[I 2026-10-14 11:27:33.416 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:29:33.440 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:31:33.462 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:33:33.482 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:35:33.506 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:37:33.528 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:41:33.547 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:58:06.350 ServerApp] Saving file at /GPT-2.ipynb
+[I 2026-10-14 11:58:08.379 ServerApp] Starting buffering for 57b2f612-56f7-45dd-9bb3-1abe5cacec65:e0339452-7793-4a39-b343-bcecdbe74c74
+[I 2026-10-14 12:11:15.479 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-14 12:11:15.481 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-14 12:11:15.483 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-14 12:11:15.485 ServerApp] notebook | extension was successfully linked.
+[W 2026-10-14 12:11:15.502 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_nbextensions_configurator. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2026-10-14 12:11:15.502 ServerApp] jupyter_nbextensions_configurator | extension was found and enabled by notebook_shim. Consider moving the extension to Jupyter Server's extension paths.
+[I 2026-10-14 12:11:15.502 ServerApp] jupyter_nbextensions_configurator | extension was successfully linked.
+[I 2026-10-14 12:11:15.502 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-14 12:11:15.510 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-14 12:11:15.511 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-14 12:11:15.511 ServerApp] [jupyter_nbextensions_configurator] enabled 0.6.4
+[I 2026-10-14 12:11:15.511 ServerApp] jupyter_nbextensions_configurator | extension was successfully loaded.
+[I 2026-10-14 12:11:15.511 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-14 12:11:15.512 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-14 12:11:15.512 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-14 12:11:15.512 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-14 12:11:15.526 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-14 12:11:15.527 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-14 12:11:15.527 ServerApp] The port 8888 is already in use, trying another port.
+[I 2026-10-14 12:11:15.528 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践/GPT-2
+[I 2026-10-14 12:11:15.528 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-14 12:11:15.528 ServerApp] http://localhost:8889/tree?token=3ba0ffb8a8ca151cd21d81ac363d626bb8b80c3356ec8db3
+[I 2026-10-14 12:11:15.528 ServerApp]     http://127.0.0.1:8889/tree?token=3ba0ffb8a8ca151cd21d81ac363d626bb8b80c3356ec8db3
+[I 2026-10-14 12:11:15.528 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-14 12:11:15.543 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-101984-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=3ba0ffb8a8ca151cd21d81ac363d626bb8b80c3356ec8db3
+        http://127.0.0.1:8889/tree?token=3ba0ffb8a8ca151cd21d81ac363d626bb8b80c3356ec8db3
+[I 2026-10-14 12:11:15.836 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[C 2026-10-14 22:04:24.827 ServerApp] received signal 15, stopping
+[C 2026-10-14 22:04:24.828 ServerApp] received signal 15, stopping
+[I 2026-10-14 22:04:24.828 ServerApp] Shutting down 6 extensions
+[I 2026-10-14 22:04:24.828 ServerApp] Shutting down 6 extensions
+[I 2026-10-14 22:04:24.828 ServerApp] Shutting down 1 kernel
+[I 2026-10-14 22:04:24.829 ServerApp] Kernel shutdown: 57b2f612-56f7-45dd-9bb3-1abe5cacec65

@@ -67,3 +67,18 @@ error: could not open document
 Opening in existing browser session.
 [65914:65914:0100/000000.128968:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
 [1:1:0100/000000.136871:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[20207:20238:1019/083359.514714:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[20253:20261:1019/083703.580040:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[20253:20261:1019/083703.991905:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[20207:20238:1019/083820.473220:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[20207:20238:1019/084317.818057:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[71728:71759:1019/085523.387551:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[71728:71759:1019/085948.928546:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[71728:71728:1019/090423.919920:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[71728:71728:1019/090423.919968:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[71728:71759:1019/090431.945017:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[71728:71759:1019/091027.551411:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[71728:71759:1019/091747.515664:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[71728:71759:1019/092755.101822:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

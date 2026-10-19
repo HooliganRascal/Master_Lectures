@@ -103,3 +103,63 @@ Fontconfig error: Cannot load default config file: File not found
 [9695:9695:1015/201142.718453:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
 [9695:9695:1015/201142.718506:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
 [9695:9695:1015/203834.036012:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+Opening in existing browser session.
+[1:1:0100/000000.153657:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[385502:385502:0100/000000.159860:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
+not mini app. 
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/opt/QQ/resources/app/package.json
+app_package_filename :/opt/QQ/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :51102
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :51102
+[preload] succeeded. /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+[preload] succeeded. /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+resourcesPath: /opt/QQ/resources
+[451875:1017/143514.773797:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.systemd1.Manager.StartTransientUnit: object_path= /org/freedesktop/systemd1: org.freedesktop.systemd1.UnitExists: Unit app-org.chromium.Chromium-451875.scope was already loaded or has a fragment file.
+[I] <MMKV.cpp:233::initializeMMKV> root dir: /home/mteltn/.config/QQ/global/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0x53], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_o3
+[I] <MemoryFile.cpp:98::open> open fd[0x54], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_o3.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_mmkv_o3] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_mmkv_o3] with 2847 actual size, file size 4096, InterProcess 1, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [nt_mmkv_o3] with crc 2635042861 sequence 3 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_mmkv_o3] with 2 key-values
+14:35:18.245 › [1a148925f5a][QQ hotUpdate] setLauncherCounts suc 1
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[617918:617949:1018/172311.412179:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[617918:617949:1018/172734.078660:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[617963:617971:1018/173105.626512:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[617918:617949:1018/173229.822124:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[617963:617971:1018/173349.145435:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[617918:617949:1018/173808.171515:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[617918:617949:1018/174518.536764:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[617918:617949:1018/175314.668381:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[617918:617949:1018/175816.446727:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[617918:617949:1018/175816.447901:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[617918:617918:1018/180316.622822:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[617918:617918:1018/180316.622859:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[617918:617918:1018/181625.929433:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[617918:617918:1018/181833.178127:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[617918:617918:1018/181833.460466:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[617963:617971:1018/183756.806003:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[617918:617918:1018/184233.386032:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Fontconfig error: Cannot load default config file: File not found
+[617963:617971:1018/185223.099186:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[11701:11701:1019/082726.775790:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[60190:60221:1019/085042.698018:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

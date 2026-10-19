@@ -82,3 +82,45 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [71728:71759:1019/091027.551411:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [71728:71759:1019/091747.515664:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [71728:71759:1019/092755.101822:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[71774:71782:1019/095420.866354:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[18598:18629:1019/102927.071019:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18629:1019/103350.987940:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18629:1019/103845.087993:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18598:1019/104336.604853:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[18598:18598:1019/104336.605031:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[18598:18629:1019/104415.137683:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18629:1019/105057.602320:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18629:1019/105500.665055:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[18598:18629:1019/110148.902248:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18629:1019/115925.030374:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18629:1019/120345.502951:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18629:1019/120836.708822:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18598:18629:1019/121325.289195:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[9875:9906:1019/131346.617534:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9875:9906:1019/131809.333393:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9875:9906:1019/132257.868420:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9875:9875:1019/132450.602535:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[9875:9875:1019/132450.602691:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[9875:9906:1019/132834.411401:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Fontconfig error: Cannot load default config file: File not found
+[9875:9906:1019/133524.375857:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[9875:9906:1019/134539.969297:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[22123:22123:1019/152041.098778:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[22123:22123:1019/152041.098877:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[22123:22154:1019/152204.614662:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[22123:22154:1019/152627.124009:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[22123:22154:1019/153117.327543:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[22123:22154:1019/153640.665212:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[22123:22154:1019/154327.738431:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[22123:22154:1019/154741.545237:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[22123:22154:1019/155448.979626:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[22123:22154:1019/175736.233225:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[22123:22123:1019/193112.606111:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:652] Message 1 rejected by interface blink.mojom.WidgetHost
+[22123:22154:1019/194405.696303:ERROR:google_apis/gcm/engine/mcs_client.cc:750] Received close command, resetting connection.
+[22123:22123:1019/201449.605714:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[22170:22177:1019/210056.431332:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[22170:22177:1019/210107.005332:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[22170:22177:1019/210222.131903:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100

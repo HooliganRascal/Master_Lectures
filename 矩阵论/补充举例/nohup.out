@@ -1,3 +1,571 @@
 Opening in existing browser session.
 [175003:175003:0100/000000.077281:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
 [1:1:0100/000000.085795:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+not mini app. 
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/opt/QQ/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :51102
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/opt/QQ/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :51102
+[preload] succeeded. /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+[preload] succeeded. /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+resourcesPath: /opt/QQ/resources
+[234948:1019/113555.143148:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.systemd1.Manager.StartTransientUnit: object_path= /org/freedesktop/systemd1: org.freedesktop.systemd1.UnitExists: Unit app-org.chromium.Chromium-234948.scope was already loaded or has a fragment file.
+[I] <MMKV.cpp:233::initializeMMKV> root dir: /home/mteltn/.config/QQ/global/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0x56], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_o3
+[I] <MemoryFile.cpp:98::open> open fd[0x57], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_o3.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_mmkv_o3] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_mmkv_o3] with 2955 actual size, file size 4096, InterProcess 1, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [nt_mmkv_o3] with crc 966197264 sequence 3 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_mmkv_o3] with 2 key-values
+linux-bugly: init bugly ...
+InitBuglyManager
+SetLogger
+fatalSetup
+GetDllPath: 57
+pub_key_path: /home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+[BuglyManager.cpp][InitBuglyManager][212]InitBuglyManager path: /home/mteltn/.config/QQ/crash_files/
+BuglyManager/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+[BuglyService.cpp][registBugly][589]set signal stack
+[BuglyService.cpp][registSignalHandler][520]regist native handler
+registBugly/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+[BuglyService.cpp][setParam][618]setParam, key:appVersion, value:3.2.33-52892..
+setParam/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+StartWithOptions s/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+StartWithOptions e/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+PostDelayedTask s/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+PostDelayedTask e/home/mteltn/.config/QQ/versions/3.2.33-52892/pub.key
+linux-bugly: init bugly done.
+[I] <MMKV.cpp:260::mmkvWithID> prepare to load nt_recent_emoji_mmkv (id 267f26ac2542ad2a5d5aa625a9928c69) from rootPath /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0x98], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_recent_emoji_mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0x99], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_recent_emoji_mmkv.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_recent_emoji_mmkv] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_recent_emoji_mmkv] with 0 actual size, file size 4096, InterProcess 0, meta info version:4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_recent_emoji_mmkv] with 0 key-values
+[I] <MMKV.cpp:260::mmkvWithID> prepare to load nt_mmkv_united_config_no_login_v3 (id nt_mmkv_united_config_no_login_v3) from rootPath /home/mteltn/.config/QQ/global/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0xa6], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_united_config_no_login_v3
+[I] <MemoryFile.cpp:98::open> open fd[0xa7], /home/mteltn/.config/QQ/global/nt_data/mmkv/nt_mmkv_united_config_no_login_v3.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_mmkv_united_config_no_login_v3] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_mmkv_united_config_no_login_v3] with 28278 actual size, file size 32768, InterProcess 1, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [nt_mmkv_united_config_no_login_v3] with crc 4143048195 sequence 131 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_mmkv_united_config_no_login_v3] with 394 key-values
+[I] <MMKV.cpp:260::mmkvWithID> prepare to load nt_mmkv_flash_transfer (id 2ba463ec706ece13780902447ac1d7cf) from rootPath /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv
+[I] <MemoryFile.cpp:98::open> open fd[0xed], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_mmkv_flash_transfer
+[I] <MemoryFile.cpp:98::open> open fd[0xee], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_mmkv_flash_transfer.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [nt_mmkv_flash_transfer] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [nt_mmkv_flash_transfer] with 395 actual size, file size 4096, InterProcess 0, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [nt_mmkv_flash_transfer] with crc 793835276 sequence 18 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [nt_mmkv_flash_transfer] with 2 key-values
+[I] <MemoryFile.cpp:98::open> open fd[0x10e], /home/mteltn/.config/QQ/global/nt_data/mmkv/mmkv.default
+[I] <MemoryFile.cpp:98::open> open fd[0x111], /home/mteltn/.config/QQ/global/nt_data/mmkv/mmkv.default.crc
+[I] <MMKV_IO.cpp:213::loadMetaInfoAndCheck> meta file [mmkv.default] has flag [0]
+[I] <MMKV_IO.cpp:87::loadFromFile> loading [mmkv.default] with 3584 actual size, file size 4096, InterProcess 0, meta info version:4
+[I] <MMKV_IO.cpp:92::loadFromFile> loading [mmkv.default] with crc 285231569 sequence 15 version 4
+[I] <MMKV_IO.cpp:136::loadFromFile> loaded [mmkv.default] with 5 key-values
+[I] <MMKV_IO.cpp:516::writeActualSize> [nt_mmkv_united_config_no_login_v3] increase sequence to 132, crc 2651073769, actualSize 16012
+[I] <MMKV.cpp:1178::sync> MMKV::sync, SyncFlag = 1
+Warning: maxDynamicUniformBuffersPerPipelineLayout artificially reduced from 500000 to 16 to fit dynamic offset allocation limit.
+Warning: maxDynamicStorageBuffersPerPipelineLayout artificially reduced from 500000 to 16 to fit dynamic offset allocation limit.
+[I] <MMKV_IO.cpp:516::writeActualSize> [nt_mmkv_global_misc] increase sequence to 228, crc 1887298843, actualSize 1034
+[I] <MMKV.cpp:1178::sync> MMKV::sync, SyncFlag = 1
+[1][4394005155]DroppedFrame(1): host_id=2, time=4393104531, latest_seq=31, interval=16666
+[1][4394005199]DroppedFrame(2): host_id=2, time=4393221193, latest_seq=38, interval=16666
+[1][4394005210]DroppedFrame(3): host_id=2, time=4393337855, latest_seq=45, interval=16666
+[1][4394005218]DroppedFrame(4): host_id=2, time=4393454517, latest_seq=52, interval=16666
+[1][4394005226]DroppedFrame(5): host_id=2, time=4393571179, latest_seq=59, interval=16666
+[1][4394005232]DroppedFrame(6): host_id=2, time=4393687841, latest_seq=66, interval=16666
+[1][4394005240]DroppedFrame(7): host_id=2, time=4393804503, latest_seq=73, interval=16666
+[1][4394005246]DroppedFrame(8): host_id=2, time=4393921165, latest_seq=80, interval=16666
+[1][4395021559]DroppedFrame(9): host_id=2, time=4394121157, latest_seq=92, interval=16666
+[1][4395021600]DroppedFrame(10): host_id=2, time=4394237819, latest_seq=99, interval=16666
+[1][4395021608]DroppedFrame(11): host_id=2, time=4394354481, latest_seq=106, interval=16666
+[1][4395021615]DroppedFrame(12): host_id=2, time=4394471143, latest_seq=113, interval=16666
+[1][4395021636]DroppedFrame(13): host_id=2, time=4394587805, latest_seq=120, interval=16666
+[1][4395021649]DroppedFrame(14): host_id=2, time=4394704467, latest_seq=127, interval=16666
+[1][4395021662]DroppedFrame(15): host_id=2, time=4394821129, latest_seq=134, interval=16666
+[1][4395021676]DroppedFrame(16): host_id=2, time=4394937791, latest_seq=141, interval=16666
+11:36:01.666 › [1a1523ae920][QQ hotUpdate] ------------ app 启动分界线 ------------
+11:36:01.672 › [1a1523ae920][QQ hotUpdate] hotUpdateApi checkHasMultipleQQ:  false
+11:36:01.672 › [1a1523ae920][QQ hotUpdate] hotUpdateApi clearOldVersions start
+11:36:01.676 › [1a1523ae920][QQ hotUpdate] {
+  "baseVersion": "3.2.31-51102",
+  "curVersion": "3.2.33-52892",
+  "prevVersion": "3.2.32-52194",
+  "onErrorVersions": [],
+  "buildId": "51102",
+  "unzipRetryCount": 0,
+  "readyVersion": "",
+  "readyInstaller": "",
+  "retryTimes": 0,
+  "notarized": false
+}
+11:36:01.676 › [1a1523ae920][QQ hotUpdate] dnsDefaultOrder:verbatim
+11:36:01.693 › [1a1523ae920][QQ hotUpdate] ----- startAutoUpdate curVersion: 3.2.33-52892 -----
+11:36:01.772 › [1a1523ae920][QQ hotUpdate] hotUpdateApi clearReadyVersion suc
+11:36:01.772 › [1a1523ae920][QQ hotUpdate] hotUpdateApi getUpdateStatus:  false
+11:36:01.778 › [1a1523ae920][QQ hotUpdate] hotUpdateApi checkHasMultipleQQ:  false
+11:36:01.779 › [1a1523ae920][QQ hotUpdate] hotUpdateApi start check  null  IsOnErrorVersion
+11:36:01.779 › [1a1523ae920][QQ hotUpdate] hotUpdateApi checkIsOnErrorVersion result: false
+11:36:01.780 › [1a1523ae920][QQ hotUpdate] [startAutoUpdate] 无需更新
+[1][4396038644]DroppedFrame(17): host_id=2, time=4395137783, latest_seq=153, interval=16666
+[1][4396038677]DroppedFrame(18): host_id=2, time=4395254445, latest_seq=160, interval=16666
+[1][4396038685]DroppedFrame(19): host_id=2, time=4395371107, latest_seq=167, interval=16666
+[1][4396038698]DroppedFrame(20): host_id=2, time=4395487769, latest_seq=174, interval=16666
+[1][4396038706]DroppedFrame(21): host_id=2, time=4395604431, latest_seq=181, interval=16666
+[1][4396038713]DroppedFrame(22): host_id=2, time=4395721093, latest_seq=188, interval=16666
+[1][4396038721]DroppedFrame(23): host_id=2, time=4395837755, latest_seq=195, interval=16666
+[1][4396038730]DroppedFrame(24): host_id=2, time=4395954417, latest_seq=202, interval=16666
+[BuglyManager.cpp][UploadBugly][107]!!!in UploadBugly.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:NATIVE_RQD_REPORT, size:17.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:rqd_rv, size:6.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:1.0, size:3.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:intStateStr, size:11.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:ep:232768,et:232768,sig:5,sino:0,sico:128,spd:0,sud:0,ets:1792296518,etms:199314, size:80.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:errorAddr, size:9.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:(nil), size:5.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:codeMsg, size:7.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:UNKNOWN_SIGTRAP, size:15.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:tombPath, size:8.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:/home/mteltn/.config/QQ/crash_files//tomb_1792296518199.txt, size:59.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:signalName, size:10.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:SIGTRAP, size:7.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:errnoMsg, size:8.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:Success, size:7.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:stack, size:5.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:$$00    pc 0000000006ddf205    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$01    pc 0000000006dded09    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$02    pc 0000000006ddf279    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$03    pc 0000000006dc3577    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$04    pc 0000000008020307    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$05    pc 00000000080ceff5    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$06    pc 000000000005d91a    /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0 [x86_64::0029e72a04fb73e3b34fc142e8383293]
+$$07    pc 00000000000bca8b    /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0 [x86_64::0029e72a04fb73e3b34fc142e8383293]
+$$08    pc 000000000005cad3    /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0 (g_main_context_iteration+51) [x86_64::0029e72a04fb73e3b34fc142e8383293]
+$$09    pc 0000000006eaf1ad    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$10    pc 0000000006e48389    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$11    pc 0000000006e0e597    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$12    pc 000000000575658f    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$13    pc 0000000005758282    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$14    pc 0000000005753e2a    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$15    pc 00000000031546f1    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$16    pc 0000000003157c07    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$17    pc 00000000031579c3    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$18    pc 000000000314d819    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$19    pc 000000000314d8f9    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$20    pc 0000000002a9a5ca    /opt/QQ/qq [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+$$21    pc 000000000002a1ca    /usr/lib/x86_64-linux-gnu/libc.so.6 [x86_64::8e66555c8141ab2a08a8465ff6e0ea65]
+$$22    pc 000000000002a28b    /usr/lib/x86_64-linux-gnu/libc.so.6 (__libc_start_main+139) [x86_64::8e66555c8141ab2a08a8465ff6e0ea65]
+$$23    pc 000000000265002a    /opt/QQ/qq (_start+42) [x86_64::ca9ac130b84d8a0683c0a53ad4786e5e]
+, size:2273.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:threadName, size:10.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:main_232768, size:11.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:deviceId, size:8.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:unknown, size:7.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:processName, size:11.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:qq_232768, size:9.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:soVersion, size:9.
+[NativeCrashHandler.cpp][getStringList][280]!!!! getChar:testbuildnum, size:12.
+[NativeCrashHandler.cpp][getCustomInfo][509]find custom line :CustomInfo: .
+[NativeCrashHandler.cpp][getNativeCrashInfos][487]NativeCrashHandler, getNativeCrashInfos crashInfos:CustomInfo: 
+Register infos:
+  r8=0x0000000000000000       r9=0x0000000000000000       r10=0x0000000000000000      r11=0x0000000000000246
+  r12=0x00007ffef6452640      r13=0x00007ffef6452af1      r14=0x00007ffef6452b68      r15=0x00007ffef6452af0
+  rdi=0x00006540de03ce70      rsi=0x0000000000000000      rbp=0x00007ffef6452a70      rbx=0x000000000000006f
+  rdx=0x0000000000000000      rax=0x00006540ddf50250      rcx=0x0000000000000000      rsp=0x00007ffef6452610
+  rip=0x00006540d8acb205      eflags=0x0000000000000246   cs=0x002b000000000033       err=0x0000000000000000
+  trapno=0x0000000000000003   oldmask=0x0000000000000000  cr2=0x0000000000000000      
+
+System SO infos:
+  6540d433c000-6540dd802000 r-xp 0264f000 103:07 8651541                   /opt/QQ/qq
+  6540e0000000-654100000000 rwxp 00000000 00:00 0                          [anon:v8]
+  7b2c252ca000-7b2c25537000 r-xp 000c9000 103:07 8651607                   /opt/QQ/resources/app/libparent-ipc-core-x64.so
+  7b2c36323000-7b2c36462000 r-xp 00122000 103:07 10369764                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libcrbase.so
+  7b2c3652d000-7b2c3653d000 rwxp 00000000 00:00 0 
+  7b2c3658d000-7b2c365c5000 r-xp 00010000 103:07 13774292                  /usr/lib/x86_64-linux-gnu/libibus-1.0.so.5.0.529
+  7b2c3669d000-7b2c367e5000 r-xp 0009d000 103:07 13786618                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+  7b2c3697e000-7b2c369a3000 r-xp 00011000 103:07 10371235                  /home/mteltn/.config/QQ/versions/3.2.33-52892/sharp-linux-x64.node
+  7b2c36af2000-7b2c37518000 r-xp 000f2000 103:07 10371234                  /home/mteltn/.config/QQ/versions/3.2.33-52892/sharp-lib/libvips-cpp.so.42
+  7b2c37cd1000-7b2c37d9f000 r-xp 000b1000 103:07 10369762                  /home/mteltn/.config/QQ/versions/3.2.33-52892/ipc.node
+  7b2c37db2000-7b2c37dbb000 r-xp 00002000 103:07 10369768                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libunwind.so.8
+  7b2c37dd0000-7b2c37df2000 r-xp 00005000 103:07 10369766                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libssh2.so.1
+  7b2c3a755000-7b2c40b19000 r-xp 02954000 103:07 10371236                  /home/mteltn/.config/QQ/versions/3.2.33-52892/wrapper.node
+  7b2c40e9c000-7b2c40ea0000 r-xp 00003000 103:07 13776032                  /usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so
+  7b2c40f17000-7b2c40fef000 r-xp 00072000 103:07 10369763                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libbugly.so
+  7b2c41653000-7b2c41662000 r-xp 00021000 103:07 13776248                  /usr/lib/x86_64-linux-gnu/libnssckbi.so
+  7b2c416c7000-7b2c4175a000 r-xp 00004000 103:07 13776246                  /usr/lib/x86_64-linux-gnu/libfreeblpriv3.so
+  7b2c417b3000-7b2c418be000 r-xp 00020000 103:07 13763188                  /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+  7b2c418fd000-7b2c4190c000 r-xp 00002000 103:07 10369767                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libunwind-x86_64.so.8
+  7b2c4191c000-7b2c4191d000 r-xp 00001000 103:07 13804530                  /usr/lib/x86_64-linux-gnu/librt.so.1
+  7b2c41936000-7b2c41975000 r-xp 00006000 103:07 13776254                  /usr/lib/x86_64-linux-gnu/libsoftokn3.so
+  7b2c46291000-7b2c46296000 r-xp 00002000 103:07 13763112                  /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+  7b2c462a3000-7b2c462a5000 r-xp 00001000 103:07 13774432                  /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+  7b2c462c1000-7b2c462c7000 r-xp 00004000 103:07 13774420                  /usr/lib/x86_64-linux-gnu/libnotify.so.4.0.0
+  7b2c4b99d000-7b2c4b9b5000 r-xp 00003000 103:07 13774642                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+  7b2c4b9d5000-7b2c4b9dc000 r-xp 00004000 103:07 13773449                  /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+  7b2c4d287000-7b2c4d376000 r-xp 00087000 103:07 10369770                  /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+  7b2c53af8000-7b2c53afb000 r-xp 00002000 103:07 13774446                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+  7b2c53b02000-7b2c53b07000 r-xp 00002000 103:07 13774353                  /usr/lib/x86_64-linux-gnu/libltdl.so.7.3.2
+  7b2c53b1d000-7b2c53b39000 r-xp 00012000 103:07 13764331                  /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+  7b2c53c87000-7b2c53d74000 r-xp 00087000 103:07 8651611                   /opt/QQ/resources/app/major.node
+  7b2c59ed2000-7b2c59ee0000 r-xp 00004000 103:07 13774591                  /usr/lib/x86_64-linux-gnu/libtdb.so.1.4.10
+  7b2c59ef1000-7b2c59f0f000 r-xp 0000a000 103:07 13763653                  /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+  7b2ce8a57000-7b2ce8a5c000 r-xp 00002000 103:07 13774644                  /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.8
+  7b2ce8a62000-7b2ce8a6d000 r-xp 00003000 103:07 13774064                  /usr/lib/x86_64-linux-gnu/libcanberra.so.0.2.5
+  7b2ce8a74000-7b2ce8a76000 r-xp 00002000 103:07 13774063                  /usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0.1.9
+  7b2ce8a7b000-7b2ce8a7e000 r-xp 00002000 103:07 13776044                  /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk3-module.so
+  7b2ce8a82000-7b2ce8a83000 r-xp 00001000 103:07 13776901                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+  7b2ce9518000-7b2ce9521000 r-xp 00002000 103:07 13774371                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
+  7b2ce9526000-7b2ce9527000 r-xp 00001000 103:07 13774048                  /usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.1.0
+  7b2ce954b000-7b2ce9554000 r-xp 00003000 103:07 13804529                  /usr/lib/x86_64-linux-gnu/libresolv.so.2
+  7b2ce955c000-7b2ce955e000 r-xp 00002000 103:07 13774337                  /usr/lib/x86_64-linux-gnu/libkeyutils.so.1.10
+  7b2ce9567000-7b2ce957d000 r-xp 00004000 103:07 13774232                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+  7b2ce958c000-7b2ce9598000 r-xp 00004000 103:07 13774051                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
+  7b2ce95a0000-7b2ce95a4000 r-xp 00002000 103:07 13774092                  /usr/lib/x86_64-linux-gnu/libdatrie.so.1.4.0
+  7b2ce95ab000-7b2ce95f8000 r-xp 00004000 103:07 13774332                  /usr/lib/x86_64-linux-gnu/libjpeg.so.8.2.2
+  7b2ce962d000-7b2ce964a000 r-xp 00003000 103:07 13775748                  /usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+  7b2ce9653000-7b2ce9654000 r-xp 00001000 103:07 13773915                  /usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+  7b2ce9659000-7b2ce965f000 r-xp 00002000 103:07 13773907                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+  7b2ce9664000-7b2ce9665000 r-xp 00001000 103:07 13774659                  /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.22.0
+  7b2ce966a000-7b2ce966c000 r-xp 00002000 103:07 13774658                  /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.22.0
+  7b2ce9677000-7b2ce967d000 r-xp 00005000 103:07 13774657                  /usr/lib/x86_64-linux-gnu/libwayland-client.so.0.22.0
+  7b2ce9685000-7b2ce968d000 r-xp 00001000 103:07 13774049                  /usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.1.0
+  7b2ce9694000-7b2ce96a2000 r-xp 00002000 103:07 13775765                  /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+  7b2ce96b0000-7b2ce9713000 r-xp 0000a000 103:07 13774216                  /usr/lib/x86_64-linux-gnu/libgmp.so.10.5.0
+  7b2ce9732000-7b2ce9746000 r-xp 00008000 103:07 13774285                  /usr/lib/x86_64-linux-gnu/libhogweed.so.6.8
+  7b2ce977e000-7b2ce97ad000 r-xp 0000c000 103:07 13774406                  /usr/lib/x86_64-linux-gnu/libnettle.so.8.8
+  7b2ce97cc000-7b2ce97da000 r-xp 00003000 103:07 13763397                  /usr/lib/x86_64-linux-gnu/libtasn1.so.6.6.3
+  7b2ce97f0000-7b2ce9827000 r-xp 00011000 103:07 13774624                  /usr/lib/x86_64-linux-gnu/libunistring.so.5.0.0
+  7b2ce998e000-7b2ce9992000 r-xp 00002000 103:07 13774307                  /usr/lib/x86_64-linux-gnu/libidn2.so.0.4.0
+  7b2ce99e6000-7b2ce9ab8000 r-xp 00038000 103:07 13763495                  /usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.1
+  7b2ce9b55000-7b2ce9b5b000 r-xp 00003000 103:07 13766606                  /usr/lib/x86_64-linux-gnu/libkrb5support.so.0.1
+  7b2ce9b63000-7b2ce9b64000 r-xp 00002000 103:07 13774080                  /usr/lib/x86_64-linux-gnu/libcom_err.so.2.1
+  7b2ce9b6b000-7b2ce9b86000 r-xp 00004000 103:07 13766587                  /usr/lib/x86_64-linux-gnu/libk5crypto.so.3.1
+  7b2ce9bb3000-7b2ce9c14000 r-xp 00020000 103:07 13766612                  /usr/lib/x86_64-linux-gnu/libkrb5.so.3.3
+  7b2ce9c60000-7b2ce9d07000 r-xp 00004000 103:07 13774715                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+  7b2ce9d19000-7b2ce9d3b000 r-xp 00003000 103:07 13774815                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+  7b2ce9d4d000-7b2ce9d68000 r-xp 00003000 103:07 13774356                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+  7b2ce9d7b000-7b2ce9e70000 r-xp 0000f000 103:07 13765965                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+  7b2ce9ebc000-7b2ce9ee0000 r-xp 00007000 103:07 13763168                  /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+  7b2ce9ef3000-7b2ce9ef9000 r-xp 00003000 103:07 13763679                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+  7b2ce9eff000-7b2ce9f01000 r-xp 00002000 103:07 13773909                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+  7b2ce9f08000-7b2ce9f0a000 r-xp 00001000 103:07 13773904                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+  7b2ce9f12000-7b2ce9f1e000 r-xp 00005000 103:07 13764384                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
+  7b2ce9f26000-7b2ce9f2a000 r-xp 00002000 103:07 13774595                  /usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+  7b2ce9f32000-7b2ce9f3e000 r-xp 00003000 103:07 13773914                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+  7b2ce9fa2000-7b2cea008000 r-xp 00060000 103:07 13774144                  /usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+  7b2cea06f000-7b2cea08a000 r-xp 00008000 103:07 13773689                  /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10
+  7b2cea099000-7b2cea09b000 r-xp 00004000 103:07 13774058                  /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11800.0
+  7b2cea0a3000-7b2cea0a7000 r-xp 00002000 103:07 13774179                  /usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+  7b2cea0c7000-7b2cea0d4000 r-xp 00008000 103:07 13774463                  /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5200.1
+  7b2cea0e5000-7b2cea1b3000 r-xp 0000b000 103:07 13774282                  /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.60830.0
+  7b2cea1ec000-7b2cea1f4000 r-xp 00005000 103:07 13774462                  /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.5200.1
+  7b2cea222000-7b2cea2a6000 r-xp 0002a000 103:07 13774199                  /usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2409.32
+  7b2cea2fd000-7b2cea38a000 r-xp 0000a000 103:07 13774484                  /usr/lib/x86_64-linux-gnu/libpixman-1.so.0.42.2
+  7b2cea3a7000-7b2cea3ac000 r-xp 00005000 103:07 13774690                  /usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+  7b2cea3b3000-7b2cea3ba000 r-xp 00002000 103:07 13773920                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+  7b2cea3ca000-7b2cea45b000 r-xp 0000d000 103:07 13767272                  /usr/lib/x86_64-linux-gnu/libfreetype.so.6.20.1
+  7b2cea491000-7b2cea4c0000 r-xp 00008000 103:07 13774165                  /usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.1
+  7b2cea4df000-7b2cea507000 r-xp 00005000 103:07 13776873                  /usr/lib/x86_64-linux-gnu/libpng16.so.16.43.0
+  7b2cea545000-7b2cea67f000 r-xp 00033000 103:07 13773534                  /usr/lib/x86_64-linux-gnu/libgnutls.so.30.37.1
+  7b2cea711000-7b2cea71a000 r-xp 00004000 103:07 13765473                  /usr/lib/x86_64-linux-gnu/libavahi-client.so.3.2.9
+  7b2cea736000-7b2cea7c5000 r-xp 00016000 103:07 13763612                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+  7b2cea828000-7b2cea9b1000 r-xp 00028000 103:07 13804515                  /usr/lib/x86_64-linux-gnu/libc.so.6
+  7b2ceaa16000-7b2ceaa17000 r-xp 00001000 103:07 13774693                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+  7b2ceaa21000-7b2ceaa27000 r-xp 00003000 103:07 13765487                  /usr/lib/x86_64-linux-gnu/libavahi-common.so.3.5.4
+  7b2ceaa38000-7b2ceaa72000 r-xp 0000c000 103:07 13766602                  /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2.2
+  7b2ceaa86000-7b2ceaaa3000 r-xp 00006000 103:07 13774546                  /usr/lib/x86_64-linux-gnu/libselinux.so.1
+  7b2ceaab6000-7b2ceaaea000 r-xp 00009000 103:07 13763228                  /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+  7b2ceaafc000-7b2ceab6a000 r-xp 00002000 103:07 13774475                  /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+  7b2ceab98000-7b2ceabbc000 r-xp 00004000 103:07 13800659                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+  7b2ceabd2000-7b2ceac51000 r-xp 00010000 103:07 13804519                  /usr/lib/x86_64-linux-gnu/libm.so.6
+  7b2ceacbb000-7b2ceacd4000 r-xp 00010000 103:07 13774016                  /usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+  7b2cead10000-7b2ceadaf000 r-xp 0002b000 103:07 13772393                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+  7b2ceadf4000-7b2ceae16000 r-xp 00005000 103:07 13773295                  /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+  7b2ceae27000-7b2ceae47000 r-xp 00005000 103:07 13774702                  /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+  7b2ceae76000-7b2ceae89000 r-xp 0000b000 103:07 13774699                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+  7b2ceae98000-7b2ceaeb7000 r-xp 00004000 103:07 13766394                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+  7b2ceaedb000-7b2ceaf6c000 r-xp 00019000 103:07 13776883                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+  7b2ceb083000-7b2ceb431000 r-xp 00083000 103:07 13774265                  /usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32
+  7b2ceb7cf000-7b2ceb7d0000 r-xp 00001000 103:07 13774487                  /usr/lib/x86_64-linux-gnu/libplds4.so
+  7b2ceb7d5000-7b2ceb7d7000 r-xp 00002000 103:07 13774486                  /usr/lib/x86_64-linux-gnu/libplc4.so
+  7b2ceb7de000-7b2ceb7e0000 r-xp 00002000 103:07 13765406                  /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+  7b2ceb7e5000-7b2ceb7ec000 r-xp 00002000 103:07 13774159                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+  7b2ceb7f3000-7b2ceb7f5000 r-xp 00002000 103:07 13766553                  /usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+  7b2ceb7fa000-7b2ceb801000 r-xp 00002000 103:07 13773919                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+  7b2ceb809000-7b2ceb814000 r-xp 00004000 103:07 13773910                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+  7b2ceb82c000-7b2ceb865000 r-xp 00013000 103:07 13774461                  /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.5200.1
+  7b2ceb898000-7b2ceb989000 r-xp 00014000 103:07 13774060                  /usr/lib/x86_64-linux-gnu/libcairo.so.2.11800.0
+  7b2ceb9e5000-7b2ceba43000 r-xp 0001d000 103:07 13764810                  /usr/lib/x86_64-linux-gnu/libcups.so.2
+  7b2ceba75000-7b2ceba8f000 r-xp 0000c000 103:07 13774012                  /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+  7b2cebab0000-7b2cebac0000 r-xp 0000b000 103:07 13774011                  /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.25209.1
+  7b2cebadb000-7b2cebb0b000 r-xp 0000c000 103:07 13774094                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+  7b2cebb26000-7b2cebb3e000 r-xp 00008000 103:07 13776252                  /usr/lib/x86_64-linux-gnu/libsmime3.so
+  7b2cebb53000-7b2cebb65000 r-xp 0000c000 103:07 13776251                  /usr/lib/x86_64-linux-gnu/libnssutil3.so
+  7b2cebb91000-7b2cebc72000 r-xp 00018000 103:07 13776247                  /usr/lib/x86_64-linux-gnu/libnss3.so
+  7b2cebcb3000-7b2cebcd5000 r-xp 0000b000 103:07 13774424                  /usr/lib/x86_64-linux-gnu/libnspr4.so
+  7b2cebd20000-7b2cebe37000 r-xp 00039000 103:07 13765403                  /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+  7b2cebed5000-7b2cebf75000 r-xp 0001e000 103:07 13765405                  /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+  7b2cec086000-7b2cec270000 r-xp 00085000 103:07 8651533                   /opt/QQ/libffmpeg.so
+  7b2cec41a000-7b2cec41d000 r-xp 00002000 103:07 13773911                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+  7b2cec423000-7b2cec424000 r-xp 00001000 103:07 13773908                  /usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+  7b2cec428000-7b2cec429000 r-xp 00001000 103:07 13773906                  /usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+  7b2cec43f000-7b2cec476000 r-xp 0000f000 103:07 13765410                  /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+  7b2cec496000-7b2cec497000 r-xp 00001000 103:07 13804528                  /usr/lib/x86_64-linux-gnu/libpthread.so.0
+  7b2cec49b000-7b2cec49c000 r-xp 00001000 103:07 13804517                  /usr/lib/x86_64-linux-gnu/libdl.so.2
+  7b2cec4e3000-7b2cec50c000 r-xp 0000e000 103:07 8651534                   /opt/QQ/liblinux_compat.so
+  7b2cec515000-7b2cec526000 r-xp 00003000 103:07 8651538                   /opt/QQ/libz.so.1
+  7b2cec537000-7b2cec539000 r-xp 00000000 00:00 0                          [vdso]
+  7b2cec53a000-7b2cec565000 r-xp 00001000 103:07 13804512                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
+  
+.
+[NativeCrashHandler.cpp][parseCrashDetailBean][239]!!!! parseCrashDetailBean crashInfo:CustomInfo: 
+Register infos:
+  r8=0x0000000000000000       r9=0x0000000000000000       r10=0x0000000000000000      r11=0x0000000000000246
+  r12=0x00007ffef6452640      r13=0x00007ffef6452af1      r14=0x00007ffef6452b68      r15=0x00007ffef6452af0
+  rdi=0x00006540de03ce70      rsi=0x0000000000000000      rbp=0x00007ffef6452a70      rbx=0x000000000000006f
+  rdx=0x0000000000000000      rax=0x00006540ddf50250      rcx=0x0000000000000000      rsp=0x00007ffef6452610
+  rip=0x00006540d8acb205      eflags=0x0000000000000246   cs=0x002b000000000033       err=0x0000000000000000
+  trapno=0x0000000000000003   oldmask=0x0000000000000000  cr2=0x0000000000000000      
+
+System SO infos:
+  6540d433c000-6540dd802000 r-xp 0264f000 103:07 8651541                   /opt/QQ/qq
+  6540e0000000-654100000000 rwxp 00000000 00:00 0                          [anon:v8]
+  7b2c252ca000-7b2c25537000 r-xp 000c9000 103:07 8651607                   /opt/QQ/resources/app/libparent-ipc-core-x64.so
+  7b2c36323000-7b2c36462000 r-xp 00122000 103:07 10369764                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libcrbase.so
+  7b2c3652d000-7b2c3653d000 rwxp 00000000 00:00 0 
+  7b2c3658d000-7b2c365c5000 r-xp 00010000 103:07 13774292                  /usr/lib/x86_64-linux-gnu/libibus-1.0.so.5.0.529
+  7b2c3669d000-7b2c367e5000 r-xp 0009d000 103:07 13786618                  /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.33
+  7b2c3697e000-7b2c369a3000 r-xp 00011000 103:07 10371235                  /home/mteltn/.config/QQ/versions/3.2.33-52892/sharp-linux-x64.node
+  7b2c36af2000-7b2c37518000 r-xp 000f2000 103:07 10371234                  /home/mteltn/.config/QQ/versions/3.2.33-52892/sharp-lib/libvips-cpp.so.42
+  7b2c37cd1000-7b2c37d9f000 r-xp 000b1000 103:07 10369762                  /home/mteltn/.config/QQ/versions/3.2.33-52892/ipc.node
+  7b2c37db2000-7b2c37dbb000 r-xp 00002000 103:07 10369768                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libunwind.so.8
+  7b2c37dd0000-7b2c37df2000 r-xp 00005000 103:07 10369766                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libssh2.so.1
+  7b2c3a755000-7b2c40b19000 r-xp 02954000 103:07 10371236                  /home/mteltn/.config/QQ/versions/3.2.33-52892/wrapper.node
+  7b2c40e9c000-7b2c40ea0000 r-xp 00003000 103:07 13776032                  /usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules/im-ibus.so
+  7b2c40f17000-7b2c40fef000 r-xp 00072000 103:07 10369763                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libbugly.so
+  7b2c41653000-7b2c41662000 r-xp 00021000 103:07 13776248                  /usr/lib/x86_64-linux-gnu/libnssckbi.so
+  7b2c416c7000-7b2c4175a000 r-xp 00004000 103:07 13776246                  /usr/lib/x86_64-linux-gnu/libfreeblpriv3.so
+  7b2c417b3000-7b2c418be000 r-xp 00020000 103:07 13763188                  /usr/lib/x86_64-linux-gnu/libsqlite3.so.0.8.6
+  7b2c418fd000-7b2c4190c000 r-xp 00002000 103:07 10369767                  /home/mteltn/.config/QQ/versions/3.2.33-52892/libunwind-x86_64.so.8
+  7b2c4191c000-7b2c4191d000 r-xp 00001000 103:07 13804530                  /usr/lib/x86_64-linux-gnu/librt.so.1
+  7b2c41936000-7b2c41975000 r-xp 00006000 103:07 13776254                  /usr/lib/x86_64-linux-gnu/libsoftokn3.so
+  7b2c46291000-7b2c46296000 r-xp 00002000 103:07 13763112                  /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+  7b2c462a3000-7b2c462a5000 r-xp 00001000 103:07 13774432                  /usr/lib/x86_64-linux-gnu/libnss_mdns4_minimal.so.2
+  7b2c462c1000-7b2c462c7000 r-xp 00004000 103:07 13774420                  /usr/lib/x86_64-linux-gnu/libnotify.so.4.0.0
+  7b2c4b99d000-7b2c4b9b5000 r-xp 00003000 103:07 13774642                  /usr/lib/x86_64-linux-gnu/libvorbis.so.0.4.9
+  7b2c4b9d5000-7b2c4b9dc000 r-xp 00004000 103:07 13773449                  /usr/lib/x86_64-linux-gnu/gio/modules/libdconfsettings.so
+  7b2c4d287000-7b2c4d376000 r-xp 00087000 103:07 10369770                  /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+  7b2c53af8000-7b2c53afb000 r-xp 00002000 103:07 13774446                  /usr/lib/x86_64-linux-gnu/libogg.so.0.8.5
+  7b2c53b02000-7b2c53b07000 r-xp 00002000 103:07 13774353                  /usr/lib/x86_64-linux-gnu/libltdl.so.7.3.2
+  7b2c53b1d000-7b2c53b39000 r-xp 00012000 103:07 13764331                  /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+  7b2c53c87000-7b2c53d74000 r-xp 00087000 103:07 8651611                   /opt/QQ/resources/app/major.node
+  7b2c59ed2000-7b2c59ee0000 r-xp 00004000 103:07 13774591                  /usr/lib/x86_64-linux-gnu/libtdb.so.1.4.10
+  7b2c59ef1000-7b2c59f0f000 r-xp 0000a000 103:07 13763653                  /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+  7b2ce8a57000-7b2ce8a5c000 r-xp 00002000 103:07 13774644                  /usr/lib/x86_64-linux-gnu/libvorbisfile.so.3.3.8
+  7b2ce8a62000-7b2ce8a6d000 r-xp 00003000 103:07 13774064                  /usr/lib/x86_64-linux-gnu/libcanberra.so.0.2.5
+  7b2ce8a74000-7b2ce8a76000 r-xp 00002000 103:07 13774063                  /usr/lib/x86_64-linux-gnu/libcanberra-gtk3.so.0.1.9
+  7b2ce8a7b000-7b2ce8a7e000 r-xp 00002000 103:07 13776044                  /usr/lib/x86_64-linux-gnu/gtk-3.0/modules/libcanberra-gtk3-module.so
+  7b2ce8a82000-7b2ce8a83000 r-xp 00001000 103:07 13776901                  /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1.0.0
+  7b2ce9518000-7b2ce9521000 r-xp 00002000 103:07 13774371                  /usr/lib/x86_64-linux-gnu/libmd.so.0.1.0
+  7b2ce9526000-7b2ce9527000 r-xp 00001000 103:07 13774048                  /usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1.1.0
+  7b2ce954b000-7b2ce9554000 r-xp 00003000 103:07 13804529                  /usr/lib/x86_64-linux-gnu/libresolv.so.2
+  7b2ce955c000-7b2ce955e000 r-xp 00002000 103:07 13774337                  /usr/lib/x86_64-linux-gnu/libkeyutils.so.1.10
+  7b2ce9567000-7b2ce957d000 r-xp 00004000 103:07 13774232                  /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.34.0
+  7b2ce958c000-7b2ce9598000 r-xp 00004000 103:07 13774051                  /usr/lib/x86_64-linux-gnu/libbsd.so.0.12.1
+  7b2ce95a0000-7b2ce95a4000 r-xp 00002000 103:07 13774092                  /usr/lib/x86_64-linux-gnu/libdatrie.so.1.4.0
+  7b2ce95ab000-7b2ce95f8000 r-xp 00004000 103:07 13774332                  /usr/lib/x86_64-linux-gnu/libjpeg.so.8.2.2
+  7b2ce962d000-7b2ce964a000 r-xp 00003000 103:07 13775748                  /usr/lib/x86_64-linux-gnu/libgraphite2.so.3.2.1
+  7b2ce9653000-7b2ce9654000 r-xp 00001000 103:07 13773915                  /usr/lib/x86_64-linux-gnu/libXinerama.so.1.0.0
+  7b2ce9659000-7b2ce965f000 r-xp 00002000 103:07 13773907                  /usr/lib/x86_64-linux-gnu/libXcursor.so.1.0.2
+  7b2ce9664000-7b2ce9665000 r-xp 00001000 103:07 13774659                  /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1.22.0
+  7b2ce966a000-7b2ce966c000 r-xp 00002000 103:07 13774658                  /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0.22.0
+  7b2ce9677000-7b2ce967d000 r-xp 00005000 103:07 13774657                  /usr/lib/x86_64-linux-gnu/libwayland-client.so.0.22.0
+  7b2ce9685000-7b2ce968d000 r-xp 00001000 103:07 13774049                  /usr/lib/x86_64-linux-gnu/libbrotlidec.so.1.1.0
+  7b2ce9694000-7b2ce96a2000 r-xp 00002000 103:07 13775765                  /usr/lib/x86_64-linux-gnu/libbz2.so.1.0.4
+  7b2ce96b0000-7b2ce9713000 r-xp 0000a000 103:07 13774216                  /usr/lib/x86_64-linux-gnu/libgmp.so.10.5.0
+  7b2ce9732000-7b2ce9746000 r-xp 00008000 103:07 13774285                  /usr/lib/x86_64-linux-gnu/libhogweed.so.6.8
+  7b2ce977e000-7b2ce97ad000 r-xp 0000c000 103:07 13774406                  /usr/lib/x86_64-linux-gnu/libnettle.so.8.8
+  7b2ce97cc000-7b2ce97da000 r-xp 00003000 103:07 13763397                  /usr/lib/x86_64-linux-gnu/libtasn1.so.6.6.3
+  7b2ce97f0000-7b2ce9827000 r-xp 00011000 103:07 13774624                  /usr/lib/x86_64-linux-gnu/libunistring.so.5.0.0
+  7b2ce998e000-7b2ce9992000 r-xp 00002000 103:07 13774307                  /usr/lib/x86_64-linux-gnu/libidn2.so.0.4.0
+  7b2ce99e6000-7b2ce9ab8000 r-xp 00038000 103:07 13763495                  /usr/lib/x86_64-linux-gnu/libp11-kit.so.0.3.1
+  7b2ce9b55000-7b2ce9b5b000 r-xp 00003000 103:07 13766606                  /usr/lib/x86_64-linux-gnu/libkrb5support.so.0.1
+  7b2ce9b63000-7b2ce9b64000 r-xp 00002000 103:07 13774080                  /usr/lib/x86_64-linux-gnu/libcom_err.so.2.1
+  7b2ce9b6b000-7b2ce9b86000 r-xp 00004000 103:07 13766587                  /usr/lib/x86_64-linux-gnu/libk5crypto.so.3.1
+  7b2ce9bb3000-7b2ce9c14000 r-xp 00020000 103:07 13766612                  /usr/lib/x86_64-linux-gnu/libkrb5.so.3.3
+  7b2ce9c60000-7b2ce9d07000 r-xp 00004000 103:07 13774715                  /usr/lib/x86_64-linux-gnu/libzstd.so.1.5.5
+  7b2ce9d19000-7b2ce9d3b000 r-xp 00003000 103:07 13774815                  /usr/lib/x86_64-linux-gnu/liblzma.so.5.4.5
+  7b2ce9d4d000-7b2ce9d68000 r-xp 00003000 103:07 13774356                  /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.4
+  7b2ce9d7b000-7b2ce9e70000 r-xp 0000f000 103:07 13765965                  /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.4.3
+  7b2ce9ebc000-7b2ce9ee0000 r-xp 00007000 103:07 13763168                  /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+  7b2ce9ef3000-7b2ce9ef9000 r-xp 00003000 103:07 13763679                  /usr/lib/x86_64-linux-gnu/libcap.so.2.66
+  7b2ce9eff000-7b2ce9f01000 r-xp 00002000 103:07 13773909                  /usr/lib/x86_64-linux-gnu/libXdmcp.so.6.0.0
+  7b2ce9f08000-7b2ce9f0a000 r-xp 00001000 103:07 13773904                  /usr/lib/x86_64-linux-gnu/libXau.so.6.0.0
+  7b2ce9f12000-7b2ce9f1e000 r-xp 00005000 103:07 13764384                  /usr/lib/x86_64-linux-gnu/libdrm.so.2.125.0
+  7b2ce9f26000-7b2ce9f2a000 r-xp 00002000 103:07 13774595                  /usr/lib/x86_64-linux-gnu/libthai.so.0.3.1
+  7b2ce9f32000-7b2ce9f3e000 r-xp 00003000 103:07 13773914                  /usr/lib/x86_64-linux-gnu/libXi.so.6.1.0
+  7b2ce9fa2000-7b2cea008000 r-xp 00060000 103:07 13774144                  /usr/lib/x86_64-linux-gnu/libepoxy.so.0.0.0
+  7b2cea06f000-7b2cea08a000 r-xp 00008000 103:07 13773689                  /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0.4200.10
+  7b2cea099000-7b2cea09b000 r-xp 00004000 103:07 13774058                  /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2.11800.0
+  7b2cea0a3000-7b2cea0a7000 r-xp 00002000 103:07 13774179                  /usr/lib/x86_64-linux-gnu/libfribidi.so.0.4.0
+  7b2cea0c7000-7b2cea0d4000 r-xp 00008000 103:07 13774463                  /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0.5200.1
+  7b2cea0e5000-7b2cea1b3000 r-xp 0000b000 103:07 13774282                  /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0.60830.0
+  7b2cea1ec000-7b2cea1f4000 r-xp 00005000 103:07 13774462                  /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0.5200.1
+  7b2cea222000-7b2cea2a6000 r-xp 0002a000 103:07 13774199                  /usr/lib/x86_64-linux-gnu/libgdk-3.so.0.2409.32
+  7b2cea2fd000-7b2cea38a000 r-xp 0000a000 103:07 13774484                  /usr/lib/x86_64-linux-gnu/libpixman-1.so.0.42.2
+  7b2cea3a7000-7b2cea3ac000 r-xp 00005000 103:07 13774690                  /usr/lib/x86_64-linux-gnu/libxcb-render.so.0.0.0
+  7b2cea3b3000-7b2cea3ba000 r-xp 00002000 103:07 13773920                  /usr/lib/x86_64-linux-gnu/libXrender.so.1.3.0
+  7b2cea3ca000-7b2cea45b000 r-xp 0000d000 103:07 13767272                  /usr/lib/x86_64-linux-gnu/libfreetype.so.6.20.1
+  7b2cea491000-7b2cea4c0000 r-xp 00008000 103:07 13774165                  /usr/lib/x86_64-linux-gnu/libfontconfig.so.1.12.1
+  7b2cea4df000-7b2cea507000 r-xp 00005000 103:07 13776873                  /usr/lib/x86_64-linux-gnu/libpng16.so.16.43.0
+  7b2cea545000-7b2cea67f000 r-xp 00033000 103:07 13773534                  /usr/lib/x86_64-linux-gnu/libgnutls.so.30.37.1
+  7b2cea711000-7b2cea71a000 r-xp 00004000 103:07 13765473                  /usr/lib/x86_64-linux-gnu/libavahi-client.so.3.2.9
+  7b2cea736000-7b2cea7c5000 r-xp 00016000 103:07 13763612                  /usr/lib/x86_64-linux-gnu/libsystemd.so.0.38.0
+  7b2cea828000-7b2cea9b1000 r-xp 00028000 103:07 13804515                  /usr/lib/x86_64-linux-gnu/libc.so.6
+  7b2ceaa16000-7b2ceaa17000 r-xp 00001000 103:07 13774693                  /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0.0.0
+  7b2ceaa21000-7b2ceaa27000 r-xp 00003000 103:07 13765487                  /usr/lib/x86_64-linux-gnu/libavahi-common.so.3.5.4
+  7b2ceaa38000-7b2ceaa72000 r-xp 0000c000 103:07 13766602                  /usr/lib/x86_64-linux-gnu/libgssapi_krb5.so.2.2
+  7b2ceaa86000-7b2ceaaa3000 r-xp 00006000 103:07 13774546                  /usr/lib/x86_64-linux-gnu/libselinux.so.1
+  7b2ceaab6000-7b2ceaaea000 r-xp 00009000 103:07 13763228                  /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+  7b2ceaafc000-7b2ceab6a000 r-xp 00002000 103:07 13774475                  /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.11.2
+  7b2ceab98000-7b2ceabbc000 r-xp 00004000 103:07 13800659                  /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+  7b2ceabd2000-7b2ceac51000 r-xp 00010000 103:07 13804519                  /usr/lib/x86_64-linux-gnu/libm.so.6
+  7b2ceacbb000-7b2ceacd4000 r-xp 00010000 103:07 13774016                  /usr/lib/x86_64-linux-gnu/libatspi.so.0.0.1
+  7b2cead10000-7b2ceadaf000 r-xp 0002b000 103:07 13772393                  /usr/lib/x86_64-linux-gnu/libasound.so.2.0.0
+  7b2ceadf4000-7b2ceae16000 r-xp 00005000 103:07 13773295                  /usr/lib/x86_64-linux-gnu/libudev.so.1.7.8
+  7b2ceae27000-7b2ceae47000 r-xp 00005000 103:07 13774702                  /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0.0.0
+  7b2ceae76000-7b2ceae89000 r-xp 0000b000 103:07 13774699                  /usr/lib/x86_64-linux-gnu/libxcb.so.1.1.0
+  7b2ceae98000-7b2ceaeb7000 r-xp 00004000 103:07 13766394                  /usr/lib/x86_64-linux-gnu/libexpat.so.1.9.1
+  7b2ceaedb000-7b2ceaf6c000 r-xp 00019000 103:07 13776883                  /usr/lib/x86_64-linux-gnu/libX11.so.6.4.0
+  7b2ceb083000-7b2ceb431000 r-xp 00083000 103:07 13774265                  /usr/lib/x86_64-linux-gnu/libgtk-3.so.0.2409.32
+  7b2ceb7cf000-7b2ceb7d0000 r-xp 00001000 103:07 13774487                  /usr/lib/x86_64-linux-gnu/libplds4.so
+  7b2ceb7d5000-7b2ceb7d7000 r-xp 00002000 103:07 13774486                  /usr/lib/x86_64-linux-gnu/libplc4.so
+  7b2ceb7de000-7b2ceb7e0000 r-xp 00002000 103:07 13765406                  /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0.8000.0
+  7b2ceb7e5000-7b2ceb7ec000 r-xp 00002000 103:07 13774159                  /usr/lib/x86_64-linux-gnu/libffi.so.8.1.4
+  7b2ceb7f3000-7b2ceb7f5000 r-xp 00002000 103:07 13766553                  /usr/lib/x86_64-linux-gnu/libgbm.so.1.0.0
+  7b2ceb7fa000-7b2ceb801000 r-xp 00002000 103:07 13773919                  /usr/lib/x86_64-linux-gnu/libXrandr.so.2.2.0
+  7b2ceb809000-7b2ceb814000 r-xp 00004000 103:07 13773910                  /usr/lib/x86_64-linux-gnu/libXext.so.6.4.0
+  7b2ceb82c000-7b2ceb865000 r-xp 00013000 103:07 13774461                  /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0.5200.1
+  7b2ceb898000-7b2ceb989000 r-xp 00014000 103:07 13774060                  /usr/lib/x86_64-linux-gnu/libcairo.so.2.11800.0
+  7b2ceb9e5000-7b2ceba43000 r-xp 0001d000 103:07 13764810                  /usr/lib/x86_64-linux-gnu/libcups.so.2
+  7b2ceba75000-7b2ceba8f000 r-xp 0000c000 103:07 13774012                  /usr/lib/x86_64-linux-gnu/libatk-bridge-2.0.so.0.0.0
+  7b2cebab0000-7b2cebac0000 r-xp 0000b000 103:07 13774011                  /usr/lib/x86_64-linux-gnu/libatk-1.0.so.0.25209.1
+  7b2cebadb000-7b2cebb0b000 r-xp 0000c000 103:07 13774094                  /usr/lib/x86_64-linux-gnu/libdbus-1.so.3.32.4
+  7b2cebb26000-7b2cebb3e000 r-xp 00008000 103:07 13776252                  /usr/lib/x86_64-linux-gnu/libsmime3.so
+  7b2cebb53000-7b2cebb65000 r-xp 0000c000 103:07 13776251                  /usr/lib/x86_64-linux-gnu/libnssutil3.so
+  7b2cebb91000-7b2cebc72000 r-xp 00018000 103:07 13776247                  /usr/lib/x86_64-linux-gnu/libnss3.so
+  7b2cebcb3000-7b2cebcd5000 r-xp 0000b000 103:07 13774424                  /usr/lib/x86_64-linux-gnu/libnspr4.so
+  7b2cebd20000-7b2cebe37000 r-xp 00039000 103:07 13765403                  /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0.8000.0
+  7b2cebed5000-7b2cebf75000 r-xp 0001e000 103:07 13765405                  /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0.8000.0
+  7b2cec086000-7b2cec270000 r-xp 00085000 103:07 8651533                   /opt/QQ/libffmpeg.so
+  7b2cec41a000-7b2cec41d000 r-xp 00002000 103:07 13773911                  /usr/lib/x86_64-linux-gnu/libXfixes.so.3.1.0
+  7b2cec423000-7b2cec424000 r-xp 00001000 103:07 13773908                  /usr/lib/x86_64-linux-gnu/libXdamage.so.1.1.0
+  7b2cec428000-7b2cec429000 r-xp 00001000 103:07 13773906                  /usr/lib/x86_64-linux-gnu/libXcomposite.so.1.0.0
+  7b2cec43f000-7b2cec476000 r-xp 0000f000 103:07 13765410                  /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0.8000.0
+  7b2cec496000-7b2cec497000 r-xp 00001000 103:07 13804528                  /usr/lib/x86_64-linux-gnu/libpthread.so.0
+  7b2cec49b000-7b2cec49c000 r-xp 00001000 103:07 13804517                  /usr/lib/x86_64-linux-gnu/libdl.so.2
+  7b2cec4e3000-7b2cec50c000 r-xp 0000e000 103:07 8651534                   /opt/QQ/liblinux_compat.so
+  7b2cec515000-7b2cec526000 r-xp 00003000 103:07 8651538                   /opt/QQ/libz.so.1
+  7b2cec537000-7b2cec539000 r-xp 00000000 00:00 0                          [vdso]
+  7b2cec53a000-7b2cec565000 r-xp 00001000 103:07 13804512                  /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+  ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
+  
+.
+[NativeCrashHandler.cpp][parseCrashDetailBean][242]!!!! parseCrashDetailBean backupRecordPath:/home/mteltn/.config/QQ/crash_files/backup_record.txt.
+[NativeCrashHandler.cpp][parseCrashDetailBean][245]!!!! parseCrashDetailBean sysLogPath:.
+[NativeCrashHandler.cpp][parseCrashDetailBean][250]!!!! parseCrashDetailBean sysLog:.
+[NativeCrashHandler.cpp][praseCrashDetailBeanToExceptionUpload][442]free ram: 0
+[NativeCrashHandler.cpp][uploadCrashEvent][348]request package sendDatas length:20041.
+[NativeCrashHandler.cpp][uploadCrashEvent][359]read from RequestPkg platformId:1.
+[NativeCrashHandler.cpp][uploadCrashEvent][376]begin to postSyncUploadTask.
+[UploadManager.cpp][postSyncUploadTask][50]!!!inpostSyncUploadTask.
+[UploadManager.cpp][uploadTaskRunner][205]!!!uploadTaskRunner.
+[UploadTask.cpp][UploadTaskImpl][140]!!!UploadTask.
+[UploadTask.cpp][UploadTaskImpl][149]!!!!! UploadTask mReqBytes reqBytes.size():20353, mReqBytes size:20353.
+[UploadTask.cpp][uploadInner][381][Upload] uploadInner mReqBytes size: 20353
+[UploadTask.cpp][uploadInner][399][Upload] Run upload task with cmd: 830
+[UploadTask.cpp][uploadInner][460][Upload] size before zip:20353
+to compress src: 
+to compress src size: 20353
+compressed: 1f ffffff8b 08 00 00 00 00 00 00 03 ffffffbd 5c 4d ffffff8c 24 47 56 ffffffae fffffff6 ffffffb0 ffffffc3 6e ffffffcf ffffff88 ffffffb5 ffffffd7 ffffffcb 00 12 48 7d 58 59 33 1a ffffffaa 3b fffffffe 33 72 fffffff8 11 16 ffffff8b 2d ffffff83 ffffffb0 59 1b 4c 0b ffffffcb 6a 45 44 46 56 ffffffa7 ffffffbb 2a ffffffab 26 33 ffffffab ffffffa7 7b 24 0e 70 ffffffd8 13 67 ffffff84 ffffffb8 71 ffffffdb 03 67 ffffff9f 38 73 ffffffe2 ffffffcc ffffff81 1b 17 24 6e 48 48 ffffffa3 ffffffdd ffffffdb 46 66 56 55 ffffffbe ffffffc8 ffffffac ffffffce ffffffde 70 21 4a ffffff9a ffffffae ffffff89 ffffffca ffffffca fffffff8 ffffffde 7b fffffff1 fffffffe 23 ffffffb2 26 ffffff93 4f fffffffe ffffffe6 ffffffed 07 ffffffbf fffffffd ffffffbb 7f 70 fffffff4 fffffff9 77 3e 7d ffffff99 7c 66 ffffff8b 6b 5b ffffffa4 ffffffbf 54 ffffffde ffffffe6 ffffffe6 ffffffaf 27 47 ffffff9f fffffffc ffffffd5 ffffffb7 27 47 0f 1f 26 ffffffb6 52 ffffffd9 fffffffc ffffffb7 ffffffdc fffffff8 ffffff8f ffffff8f 27 47 4f ffffff8e ffffffd3 44 50 ffffff99 08 2e ffffffc4 7b ffffffef ffffff9a ffffffe5 ffffffe2 ffffffb4 ffffffb2 ffffffb9 ffffffb1 79 75 fffffffa fffffff2 ffffffe5 3c ffffffcb ffffffd7 37 ffffffe2 31 3d 25 ffffffa7 ffffff94 4e 39 ffffff91 31 fffffff9 60 fffffff2 fffffff9 ffffffb7 fffffff0 29 3a 45 ffffffea ffffffc1 ffffffef ffffffbb 29 3f fffffffe ffffffe8 3b ffffff93 ffffffa3 ffffffe3 ffffff87 0f 30 ffffffc2 ffffffef 4e 26 47 ffffffff fffffff4 ffffffa7 ffffffe4 6f ffffffa3 fffffff7 7e fffffffd ffffffb3 ffffff8f 3e fffffffc fffffff3 4f ffffffdf ffffffff ffffffb3 ffffffa7 7f fffffff1 fffffff1 ffffff9f 7c fffffffc ffffffc9 5f 7e 7c ffffffb1 19 3f 13 ffffff93 0f ffffffbe fffffff5 34 ffffffcf ffffffe6 ffffffcf 3e 7f ffffffb4 50 59 7e 41 28 ffffff89 ffffff84 ffffff9c 4d 26 ffffffdf fffffffe ffffffcf 1f fffffffc 00 ffffffa1 13 fffffff7 5a ffffff99 13 ffffffb4 7d ffffff89 24 49 09 ffffffe2 fffffff5 ffffffc7 67 ffffffcb 55 75 fffffff6 ffffffa3 1f ffffff9d ffffffbd 7c 79 fffffff2 ffffffc5 ffffff8d 14 17 ffffff82 ffffffbd 78 61 54 ffffffac 0c ffffffa6 48 4b ffffff96 48 ffffff85 ffffff84 ffffffa4 06 29 4e 55 ffffffc2 22 29 2c ffffffb7 5f 1e ffffffbb 49 fffffff1 ffffff9e 49 6d ffffff82 ffffffe2 ffffff83 26 25 7b 29 ffffff8d 0e ffffff9b ffffff94 0e 27 35 ffffff94 47 ffffffd1 41 ffffff93 ffffffb2 fffffffe ffffffa4 12 11 44 ffffffd1 61 ffffff93 fffffff2 ffffffe1 ffffffa4 ffffffc6 ffffffa6 ffffffe9 61 0b 25 fffffffa ffffff93 22 ffffffc4 ffffff93 18 ffffffab 66 ffffffd2 75 59 ffffff9c ffffffcd 33 7d ffffffd6 ffffffce 38 6d fffffff4 72 3a ffffffcb ffffffd7 fffffff5 ffffff87 33 fffffff7 6f 4a ffffff9c 4a ffffff96 4b fffffff7 47 ffffffba fffffffb 4e 51 ffffff87 ffffff8d 10 ffffff89 6d 44 14 62 ffffffa9 ffffff8e ffffffa8 ffffffa5 ffffff9a ffffffb2 ffffffd4 60 46 ffffffac ffffffa4 ffffff92 ffffff92 ffffff98 36 ffffffd8 ffffffd1 10 5b 1b 25 fffffff5 ffffffff 07 ffffffb6 ffffffdc ffffffc3 ffffffb7 51 09 fffffffd 66 ffffffd8 4f 67 17 ffffff8d 65 ffffff99 65 5e ffffffd9 ffffff9b ffffffea 22 ffffffab 6c ffffffa1 ffffffaa 6c ffffff99 3f ffffffe7 fffffff8 59 20 65 fffffff1 40 21 ffffffad 4a ffffffb1 4a 0e 59 66 3c 34 72 ffffffcb 1c ffffffe8 41 ffffffa6 ffffff83 ffffff87 46 6e ffffff91 ffffffe5 fffffff1 41 5a ffffff8e 07 46 ffffffce 23 2e ffffffb8 4c 0f ffffff9a 74 60 ffffffe4 6e 52 49 24 39 68 ffffffd2 ffffff81 ffffff91 ffffffbb 49 ffffffa9 25 ffffffea ffffffa0 49 07 46 4e 31 67 22 ffffffc5 07 4d 3a 30 72 37 69 64 0e 73 47 78 60 ffffffbd fffffff5 ffffffa4 ffffffb1 ffffffa1 07 4d 3a 30 4b ffffff8a ffffffdd ffffffb7 fffffff1 61 7a 3a ffffffb0 ffffffa8 66 ffffffd2 fffffff4 ffffffa0 49 ffffffc9 ffffffc0 ffffffa2 ffffff88 ffffffbb ffffffcb ffffffb9 ffffff90 ffffff83 26 1d 58 54 3d 2d 36 fffffff7 7b 63 53 ffffffbb 23 ffffffd1 ffffffa1 49 2b 04 ffffffe7 ffffffdc 48 ffffffcc ffffffb0 ffffffd2 ffffffce ffffffe3 48 25 ffffff99 ffffffe0 69 5a ffffff9b ffffffa8 12 ffffffbc 41 1b ffffff98 5a ffffff8d 46 7e 01 ffffffff ffffffbb 41 7b 7a 71 51 0f 2e ffffffca 4a 15 55 ffffffe3 00 ffffff9f 63 1a 3f 0b ffffffa4 62 60 ffffff9b 44 fffffff0 ffffff9a ffffff90 ffffff9e 20 ffffff9f ffffffb6 30 ffffffcf 19 79 16 22 ffffffd4 ffffff9b ffffffc7 3f ffffff9e fffffffc ffffffe3 ffffffc3 ffffffc9 6f 3c 7e fffffff4 ffffffcf 5f 1f ffffffd3 ffffff98 62 29 62 2e fffffff1 ffffffbf fffffffe fffffff2 3a ffffffbf ffffffca ffffff97 ffffffaf fffffff2 ffffffff 78 38 79 32 79 6f ffffffe2 52 ffffffa4 ffffffc9 fffffff9 ffffffe3 47 ffffffff fffffffd fffffff8 67 ffffffdf 7d fffffffc ffffffb3 ffffffb7 5d 6e ffffffe5 32 ffffffb4 5f 31 ffffff85 2a 2f 3f ffffffca ffffffd3 65 79 5a ffffffdd 54 ffffffd3 ffffffc9 ffffffd1 0f ffffffff ffffffe5 0f ffffffd7 65 ffffffb5 5c ffffffd4 ffffff9f ffffffbd 38 39 fffffffe ffffffd4 ffffffce ffffffb2 ffffffd2 79 fffffffa ffffff93 ffffffac fffffffe ffffffce ffffff8b ffffffe3 ffffff93 ffffff93 42 fffffffe 1e ffffffba 41 ffffffbd ffffffd7 49 fffffffb 2a ffffffe2 ffffff91 6b 18 ffffffdd 79 ffffffb1 ffffffc0 ffffffb8 7f ffffff8d 30 51 ffffff83 61 ffffffb2 ffffffb9 10 ffffffa5 ffffffa9 4d 05 ffffffe3 44 ffffffb0 ffffffdd 4d ffffffb4 7f 4d ffffffb5 4e ffffffa4 ffffffbe ffffffc6 fffffffa ffffffd7 ffffffb4 ffffff90 ffffffdb 6b 7c 78 1f ffffffaa ffffffc1 ffffff92 6c 73 41 70 ffffff86 12 ffffff8b ffffffa8 ffffffb1 ffffffd1 16 ffffffac ffffffcc ffffffee ffffffa6 5e ffffffaf 06 13 ffffffee ffffffee ffffffd3 37 ffffff83 fffffffb 44 ffffffda ffffff80 0d 2f ffffffec 26 54 37 ffffff90 ffffff90 24 ffffffe5 ffffff88 fffffff0 ffffffed 35 33 72 5f 39 20 44 ffffffe0 ffffff86 ffffffb3 6c 05 27 ffffff94 ffffffca ffffffe8 4d fffffff6 7b 72 62 ffffffd3 ffffffb9 ffffff9a ffffff95 7b ffffffc4 ffffffef ffffffae ffffff99 fffffff6 73 ffffffa2 ffffffbb 0b ffffff94 6e ffffffd6 ffffffd3 16 ffffffc5 1e 42 1c 58 55 ffffffa8 55 ffffffbe 1c 5e ffffffab 6f 5c ffffffce ffffff93 ffffff85 2a ffffffaf fffffff6 72 60 0a 72 27 67 ffffffc7 ffffffc7 ffffff9f ffffffdd 3a 35 5c ffffff9c 7c fffffff6 49 ffffffa7 ffffff89 0d 2f ffffff8c 3a 7b 40 68 ffffffda 4a ffffffaa ffffffce 41 ffffffdd 3d ffffffc5 fffffff4 66 75 ffffffe2 ffffff8c ffffff8c ffffffa5 fffffff5 08 23 fffffffa ffffffc2 05 02 29 ffffffb8 ffffff8b 33 1b 05 fffffff1 5e ffffff9d 09 6e 66 ffffffb5 1b fffffff0 7a 56 ffffffbc ffffffa3 ffffffa4 78 55 ffffffcf ffffffba 1d 21 fffffff4 ffffffa2 fffffffe ffffffbb 67 ffffffba ffffffcd ffffffeb 0b ffffff95 2f fffffff3 17 ffffffd7 fffffff2 4b 37 69 ffffffa4 ffffff89 21 ffffff9c 18 55 4f ffffffda 0e 38 ffffff8d 3a 52 11 32 71 ffffff8f 54 ffffffd1 ffffffc6 ffffffae 3b 48 2d 6c ffffffb9 5c 17 ffffffc6 ffffff96 67 6a ffffffb5 ffffffaa fffffffd ffffffd5 4a 15 ffffffae ffffffb2 ffffff9a 66 2b 33 35 ffffffcb ffffffc2 4e 6f 04 73 1e 6c 03 4d 05 25 74 0b 4d 05 13 40 4a 08 13 02 ffffffa0 ffffffdd ffffff9b ffffff88 23 ffffffc1 fffffff6 40 5f 2e 17 fffffff6 6c 51 ffffffd9 79 ffffff95 ffffff9f ffffff9d ffffffba 34 30 ffffffcd 66 35 29 ffffffae 0e 2c 5d 1a 58 ffffff9e ffffffc1 62 ffffffae 71 ffffffa1 ffffff85 56 ffffffa5 ffffff85 54 70 ffffff92 74 54 70 ffffff9a ffffffdc 2d ffffffd5 ffffffee 16 09 6f 31 1c ffffffca ffffffac 59 ffffff9a 1d ffffffe1 34 ffffff8a 18 ffffff89 ffffffc9 1e ffffffc2 ffffffc7 fffffffc 7c ffffffa6 ffffffd7 ffffffe5 14 ffffffb7 ffffffb9 2e 77 6f ffffff9c ffffffc4 3b 6c 11 03 ffffffec ffffffc8 7a ffffffd8 ffffffcd 25 ffffff80 2d ffffff85 ffffffc0 32 10 ffffffbb ffffffac 12 fffffff3 fffffffc 79 13 68 1c 32 ffffffa5 3b ffffffe0 38 ffffffb2 1d 70 ffffffac ffffffa8 ffffffc7 34 fffffff6 57 2b ffffffc2 ffffff84 fffffff2 43 57 ffffffab ffffffbc 54 ffffffc5 6a 43 5c ffffffad 39 fffffff9 32 ffffffb1 3b 6a 54 4a 76 ffffffd4 44 1c 4b 48 4d 4a ffffff86 ffffffd4 1c ffffffac 3b 5b 6a 74 2d ffffffa4 ffffffeb 6c 55 4e ffffffcd 6a 55 ffffff8b ffffff89 ffffff91 2d 51 ffffff91 49 70 47 54 12 ffffffa7 ffffff90 28 ffffff8d ffffff87 0a ffffffbd 4f 2f ffffff82 ffffff88 72 ffffff96 ffffffe5 ffffff89 25 4a 34 10 4b ffffffa2 35 ffffffa4 00 ffffffed 31 ffffffa9 7d ffffffda 11 6a 52 ffffffeb fffffffc 55 ffffff96 27 ffffffb5 28 64 47 47 ffffff82 00 1d 29 fffffff1 ffffffe8 ffffffe0 43 3a ffffffc4 ffffffff 01 1d 65 79 49 6a 2a fffffff0 ffffff96 0a 15 71 ffffffbe ffffffa5 ffffff82 ffffffb9 05 ffffff88 ffffff81 1b ffffff8e ffffff9d 47 1d 28 ffffffc9 ffffffc1 54 ffffffbc 72 61 66 65 0b ffffffb8 26 ffffffce 71 ffffffc7 ffffffa6 ffffffa3 ffffffc2 2a ffffffe4 ffffffc9 ffffff82 fffffff6 ffffffbc ffffff85 40 34 ffffffc8 5b ffffffcc ffffffaa ffffffab 29 3d 45 ffffff8e 0c 57 0f ffffff9f 65 ffffff8b ffffffc5 32 59 ffffffcf ffffff9d 07 ffffffce 16 ffffffd3 ffffffda ffffff8b 74 ffffff8e ffffff8e ffffffa1 14 47 1d 1d 2e 14 43 3a ffffffa2 3d ffffffba 41 0f ffffff95 ffffff86 23 58 ffffffaf 67 fffffff3 5b 40 04 76 1e 76 47 04 16 ffffff9e ffffffcf 47 04 fffffff7 ffffff85 41 58 ffffffa8 fffffffb ffffffca ffffffcb ffffffd2 5c ffffffe9 ffffffcc ffffff83 34 1d ffffffdf 38 ffffffe2 ffffffca ffffff93 3f 1b 42 ffffffee ffffffd3 ffffff82 31 ffffffc8 ffffffb4 ffffffb0 56 ffffffcf 57 45 76 4d 21 6c ffffffa4 01 ffffffa7 52 5b ffffff8f ffffffd3 5e ffffff90 10 2e 3f 0e 76 ffffffd4 2f ffffffe7 59 65 ffffffe9 ffffffa6 1f 72 2a 76 ffffffc0 32 4d 3a ffffffe0 18 ffffff99 fffffffb 7c ffffffc0 ffffff9e ffffff90 fffffffe 0d 7d ffffffc0 ffffffb4 ffffffa5 13 ffffffba 02 47 01 36 ffffff80 1c ffffff9c 78 ffffffe4 fffffff8 2b 2e 11 73 ffffffea 11 28 ffffff87 ffffffa2 ffffff82 46 ffffffef 20 ffffffa8 00 78 ffffff91 17 20 ffffff91 18 2c 37 ffffffdf 17 19 46 ffffffe5 ffffffbe 4c ffffffab ffffffe5 55 0e ffffffd7 5a ffffff90 78 ffffffe7 fffffff8 ffffffeb ffffff81 ffffffb8 5b ffffffe4 ffffffcd 5a ffffffe3 ffffffd0 ffffff84 60 ffffffbd ffffffce 1a 07 ffffff8b 4f ffffff9d ffffff9d 77 ffffffa8 ffffff8a 02 54 ffffffc5 47 24 ffffffeb ffffffd2 10 16 ffffffe6 58 5a 5b ffffffba 58 24 79 ffffffc9 2e 16 59 ffffff9e 2d ffffffd4 ffffffbc 26 ffffff81 74 fffffff0 06 32 6d ffffffbc ffffffcc 71 60 57 ffffff8c ffffff91 ffffffd0 ffffff85 ffffffcd ffffff97 55 ffffff96 ffffffde 36 21 ffffffb6 76 6e 5b 5c 1d 77 19 ffffff90 1b 68 ffffff9f ffffffed ffffffbe 3f 65 ffffff82 ffffff85 ffffffb2 7d ffffffbd 2c 74 56 ffffffb6 76 ffffffc5 4e ffffffe3 0e 37 ffffffe1 00 37 31 ffffffa3 fffffffc 52 ffffffc6 ffffffe2 10 ffffffdc 59 ffffffb6 3c ffffffdb fffffffa 6e fffffff7 ffffff85 ffffffa4 ffffffb6 ffffffb9 ffffffd2 56 55 ffffff96 ffffffcf ffffffa0 13 4f ffffff88 ffffffec ffffff9c 59 ffffffe2 ffffff94 09 12 ffffffd1 5c fffffff2 ffffff8d 3b ffffffda 27 fffffff4 20 ffffffe3 5e ffffffa8 ffffffaf ffffff96 5e 40 73 65 7e 2a ffffffb7 34 ffffffd4 ffffff83 ffffff91 24 ffffffa3 59 fffffff8 60 ffffff87 ffffffba ffffff9c ffffffcd ffffffb6 5e ffffff8d ffffffef 40 35 22 1d ffffffa8 46 ffffffd1 38 28 ffffffe5 fffffffb ffffffa2 ffffffd7 18 ffffffe8 ffffffbc 4a 1a fffffffd ffffff8e ffffff9c ffffff89 ffffff91 0e 15 27 00 ffffff95 ffffffc6 10 15 fffffff7 0d ffffffdb ffffff95 7d 7b 2a ffffffb9 ffffff91 35 ffffffbf 4e ffffff9b ffffffc5 ffffffae ffffffdf ffffffcd ffffffd2 ffffff85 ffffffee ffffffbc 5b 69 4e 4d ffffffb7 ffffffd2 ffffffae 2a ffffff89 ffffffd8 ffffff9d 2b ffffffdd 14 66 78 ffffffac ffffff86 fffffff4 0b ffffffb3 ffffffe1 ffffff8a ffffffc6 36 ffffffe9 ffffff84 1b 5b ffffff8b 46 55 ffffff9b fffffff1 38 ffffff88 4d fffffff7 61 ffffff95 ffffffe8 ffffffd6 7d ffffffb1 53 ffffff8c 3a ffffffd4 14 77 ffffffa8 29 fffffff2 12 12 ffffffa4 fffffffa 5e 53 ffffff84 2d 69 ffffffcf ffffffa0 6a 19 27 5e 42 64 ffffffa5 ffffffe2 3b 09 ffffffd7 ffffff83 ffffff91 40 ffffffd9 3a ffffff92 ffffffd0 48 ffffffd1 3a ffffff92 34 ffffff9b ffffffd7 fffffff5 ffffffa6 53 2b ffffffba ffffff8b ffffff8a 0e 4e 10 ffffff80 2d fffffffc ffffffa8 38 70 62 68 6f ffffffed 3b ffffffda 2a 54 ffffffb9 ffffffb6 45 ffffffa1 5a 43 22 3b 43 72 60 ffffff8d 2a 6d ffffff91 ffffffa3 ffffffd1 58 55 23 ffffff87 1a ffffffd2 16 79 ffffffea 52 ffffffd3 4d 76 ffffff82 77 5e ffffffb4 46 ffffffd4 10 ffffffde ffffff8e ffffffc2 0b 14 26 fffffff4 6d 36 0c 16 ffffffde 23 67 ffffffda 5e fffffff0 ffffff94 40 ffffffc2 ffffff85 ffffff90 5e 59 3b 08 ffffffa2 22 46 ffffffa1 ffffffaa 7f ffffff8e fffffff1 fffffff4 ffffffc6 6c ffffffd4 ffffffbf 0b 63 36 6e ffffff8b ffffffd6 ffffffe9 66 ffffffd0 ffffffe6 ffffffbe 23 0e 2d 0a 05 5e 24 5b ffffffe1 03 4c 22 20 66 34 ffffffca 2c 43 ffffffc1 ffffffd9 ffffffb7 2e ffffff96 ffffffd5 3c ffffffdb fffffff9 32 ffffff87 ffffffed ffffffa1 33 0d ffffffd0 39 1b ffffffd1 fffffff9 3a 13 24 41 01 ffffffb4 ffffffce 04 ffffff9d ffffff9b ffffff9b 5f ffffffc3 24 ffffffa5 ffffff86 31 10 73 5c ffffffdd ffffff9c 03 ffffffdf ffffff97 0c ffffff8f 61 5e ffffffd9 ffffffdb 75 ffffff95 ffffffcd ffffffcb 0d ffffffb7 ffffff80 59 11 01 ffffffe0 ffffffc8 37 fffffff0 ffffff81 4b 25 ffffffc1 ffffffc9 ffffffd9 6c 35 ffffff9b 3a ffffffbd 76 ffffff9e ffffffbc 59 65 ffffffca ffffffa0 ffffffa0 25 64 3a ffffff96 ffffffe3 ffffffd8 ffffff88 ffffff87 ffffffaa ffffff96 2e ffffffb7 ffffffba 45 76 ffffff89 ffffffb7 03 6a 4a ffffffdb 2d ffffffaa 62 ffffffe3 ffffffa2 46 ffffffc1 5d ffffffb1 44 55 45 66 ffffffb7 71 04 70 ffffffab ffffffa0 5a ffffffa5 fffffff7 70 4b ffffff83 25 fffffffd ffffffd5 ffffffca 36 fffffff9 ffffff88 74 6e ffffffb4 53 2c ffffffd1 ffffffb5 0d ffffffdd ffffff80 ffffffa9 11 65 ffffff8e 22 1e 05 ffffff9b ffffffd2 ffffffac 50 ffffffab 4b 57 ffffffe0 ffffff91 36 76 40 41 ffffff83 1a ffffffba 1e fffffff8 ffffff82 ffffffee 5b 31 ffffff8d fffffff1 ffffffbe 4e ffffffdc ffffffa8 ffffffcb ffffffca 72 5b ffffffa8 ffffff85 1a fffffffa 2c ffffffc1 63 ffffff88 ffffff9c ffffff8e 2e ffffffb1 ffffffcb ffffff96 42 ffffffad ffffffe9 ffffffdc ffffffac ffffff8b ffffffb2 55 ffffffe9 1a 18 48 5b 30 00 2c ffffffee 29 75 1c ffffff99 ffffff81 ffffffc0 ffffffaf ffffffd4 ffffffed 5c ffffffb9 02 ffffffd6 ffffffce ffffffe6 2d 38 21 ffffff90 6d ffffffa1 20 fffffffa 7d ffffff89 02 0f 5d ffffffeb 2d 7a ffffffc7 3d ffffffea 11 10 01 67 22 7a ffffffce ffffff84 0f 09 08 ffffff95 fffffffb ffffff8e ffffff80 79 56 1f ffffff85 ffffffda 43 ffffff80 ffffffe4 ffffff80 00 39 56 ffffffc4 37 ffffff81 23 54 fffffffe 6d ffffffe0 48 ffffffac 19 46 0d 11 ffffffc3 ffffffa5 57 64 54 fffffff8 3c 12 ffffffa1 ffffffda ffffffae 5f ffffff93 ffffffad ffffffbe ffffffb1 0e 54 03 5f 16 61 3f 2b 50 7d 7e 09 0e 2d 71 66 ffffff8b ffffffa6 77 ffffff8c 51 ffffffdd ffffffdf ffffffdf ffffffa1 46 ffffff94 00 54 ffffffe6 ffffffa7 66 72 ffffff80 2a 43 59 ffffffbd 5c ffffffce 5e 59 ffffff9b ffffffb4 ffffffcd 7d ffffffd9 ffffffc1 76 ffffff9d 7d 37 50 fffffffe ffffffe2 ffffff9a 3e 2c 43 ffffffa1 ffffffcc ffffffe6 ffffffae ffffff8e 6d 73 60 09 51 0d 08 52 51 32 ffffffea 40 05 ffffffa5 71 ffffffa8 4e 57 ffffffaa ffffffcc 71 ffffffcb ffffffaa 38 ffffffa5 1d 6c 0a 56 56 fffffffa 29 10 1e 7a 12 12 ffffff9a 78 ffffffaf fffffff3 ffffffac 74 71 2a ffffff9f 6d 37 6f ffffffba ffffffe5 ffffff8d 25 ffffff90 73 1c ffffff8f 6b 32 ffffffa3 ffffffc1 ffffffde 33 4b 72 ffffffb2 6d 5b 00 54 0b 72 3e ffffffa5 ffffffbd fffffff0 48 65 5f ffffffce 2c 0e 55 ffffffaa ffffff95 4b 70 ffffffaf ffffffb2 ffffff8d ffffffd3 ffffffa0 20 4c 69 0e 7c ffffff86 ffffffe6 7a 74 ffffff81 ffffff85 08 56 ffffffab ffffffab 42 fffffff3 72 ffffffbd 5a 2d ffffff8b 0d 38 ffffff80 16 20 42 6a 71 5f 2a 22 43 5b 53 2e ffffffc3 ffffffbd 70 ffffffc9 57 ffffff93 6a 7a ffffffb0 20 13 ffffffd1 ffffffd2 ffffffb7 5f ffffffd6 ffffffe7 ffffff98 ffffffcb ffffffe0 64 ffffff93 ffffff9b ffffffe2 76 55 2d ffffffdb ffffff94 00 ffffffe0 6a ffffffc0 ffffffae ffffffc1 1e ffffffbb ffffff83 56 ffffffb3 10 ffffffc1 ffffffed ffffffc7 5a ffffffd2 ffffff9b 12 76 ffffff87 69 04 ffffffb0 ffffffa3 04 ffffffdd ffffffd3 fffffffd ffffff8b ffffff82 ffffff93 ffffff90 ffffffd7 65 ffffffb5 69 79 fffffff2 ffffffae 78 ffffff8d 13 0c 12 ffffff90 ffffff84 ffffff8e ffffffea ffffff94 ffffffcb ffffffb9 ffffff82 51 ffffffe7 ffffffaf ffffffdb ffffffb4 ffffff87 3b 13 02 ffffffa8 0c ffffffe4 7a ffffff89 ffffff90 ffffffe3 ffffffa8 ffffff94 ffffff87 6a fffffff2 fffffffc 35 6b 59 ffffff8d 41 08 4a 40 ffffffa1 1c ffffffdb 08 79 ffffffa0 69 6f 51 79 1c 1c fffffff7 66 ffffff8d 2e 35 2a 5c 3b ffffff8c 6e 65 ffffffad 06 ffffff8e ffffffb9 ffffffdf 0c ffffff8a 7a ffffffc0 14 ffffffef ffffffdd 43 1c 0d ffffffb8 fffffff3 ffffffab 6d 37 1b ffffffc6 79 ffffff9b 02 25 ffffffb6 69 3c 26 64 41 45 14 ffffff9a 62 18 ffffffb5 6a ffffffed 55 08 ffffff80 ffffff99 76 ffffff98 29 1a ffffffaf ffffffc1 5d 3e 1b ffffff8a 79 ffffff9e 2c ffffffcc 6a ffffffbb ffffff97 ffffffde ffffffb1 ffffff9a 22 09 61 fffffffd ffffffd0 37 4c ffffffe0 51 68 0c 3a 57 ffffffeb 3d ffffffa0 18 24 17 29 fffffff6 2b ffffffe1 5e 0e 29 18 ffffff95 ffffffa1 ffffffa0 49 ffffffb1 ffffffd8 fffffff8 43 02 73 ffffff9a 14 ffffffb6 1c 52 ffffffa2 46 45 ffffffcc 78 70 fffffff8 ffffffa9 2e 55 36 ffffff8c 3d 29 ffffffcc ffffffa4 52 6a ffffffc7 ffffff94 ffffffa9 2e ffffff91 ffffff82 25 ffffff9c ffffffb5 02 ffffff86 0a ffffff9c ffffffaa 0e 53 6d fffffff2 ffffffb5 2d ffffffa6 40 7d 4e 71 70 3b ffffffd1 ffffffae ffffff96 37 ffffffb7 2d ffffffab 60 5d 15 12 29 ffffff80 ffffff95 ffffffbe ffffff80 fffffffb 49 23 15 32 54 ffffff87 67 ffffffc9 ffffffd5 ffffffc5 2a ffffffbb ffffffd1 ffffffeb ffffffb4 3b 7e ffffffcd 1c ffffffa7 ffffffa0 ffffffd9 ffffffa1 50 1c 03 1a 62 ffffffdf 2d ffffffef 69 38 ffffff84 ffffffba 0c ffffffa3 ffffffb2 62 39 ffffff9d 2d fffffff5 57 ffffffd6 54 1b 2d ffffffab ffffffdb 67 50 0c ffffffdd 66 58 3d ffffffb8 67 7f 00 07 ffffffbb ffffff8f ffffffb4 ffffffa8 13 ffffffac 6c ffffff90 5f 29 ffffffd4 6d 2f ffffffbb 41 ffffffc2 46 ffffffe5 ffffffcf 58 70 3f 75 ffffffa5 fffffff2 ffffffd9 32 ffffffad ffffffc8 fffffff6 40 50 7d 1c 08 ffffff81 64 47 21 ffffffdb ffffffe5 59 0a 6b ffffffbf 56 ffffffd1 7d 02 36 ffffffa7 ffffffaf 03 08 ffffffb8 54 45 ffffffaa ffffffd7 ffffffaf 5f ffffffb7 ffffffe0 02 49 0a ffffffe5 ffffff8e ffffffad 01 ffffffe8 ffffffa9 ffffffcf fffffffe ffffffa0 34 65 7b ffffffcf ffffffbc ffffffdc ffffffcb 7e ffffffbb fffffffe 77 09 ffffff80 10 60 78 44 79 69 17 19 14 6b 38 fffffffe 06 16 30 ffffffdd 74 ffffffb2 09 43 fffffff1 29 25 1d 74 ffffffb7 ffffffd7 6e 15 ffffffed 19 ffffffdf 00 ffffff9a 05 3b 55 67 78 0b ffffff95 4f fffffff1 ffffffd6 ffffffec ffffffba ffffff96 ffffff88 ffffffa2 0a ffffffe8 1d 55 66 5c fffffff0 22 0e ffffffcd 71 6f ffffff8c ffffff9e 16 36 4f 6c 31 fffffff4 39 14 24 ffffff9c 6e 30 ffffffee ffffffd4 69 1c ffffffbc fffffff5 7b ffffffde 01 ffffffc3 2d 6f ffffff87 ffffffd5 ffffff9d 56 ffffffb4 ffffff8a fffffff5 6a ffffff8a ffffffde ffffffe9 37 11 ffffff91 28 54 ffffffdb ffffffea ffffffb3 1c ffffffd5 ffffffed ffffffca ffffffb6 ffffffde ffffff9d 40 2d 63 ffffffdd 1e ffffffbf 1b 18 3f 2d 1a ffffffd8 39 0e ffffffce ffffffc7 ffffffd2 65 5e ffffffb5 ffffff9b ffffffb1 ffffff9b ffffffdc ffffff88 40 fffffff0 04 38 79 ffffffde ffffffcb ffffffb6 fffffffb ffffff8b 2d 64 14 ffffffec 64 fffffff2 19 16 0d ffffffae 38 65 50 ffffffe0 ffffff9c 01 ffffffe7 22 22 ffffffaf ffffffe3 47 07 ffffff81 ffffff94 ffffffef 3d 67 37 6a 5b fffffff9 ffffffba 6a ffffffbb ffffffe7 ffffffce ffffffab ffffffd0 08 ffffffb0 1c 61 20 ffffffef 08 ffffff8f 1e ffffffdb 11 ffffff9c 05 ffffffb3 ffffffac ffffffae ffffffd5 65 06 3a 5e 75 ffffff8f 35 ffffffee ffffffd0 ffffffbb 53 24 6e ffffffd0 3b ffffffe2 ffffffd9 3b 45 ffffffe2 ffffffb2 ffffffd1 ffffffe0 ffffff92 ffffffaa 6c ffffff8e 0e 6f ffffffda ffffffe8 54 02 ffffff89 4b ffffffd2 25 ffffff87 2a ffffffd6 5e 4e 4a 7c 3d ffffffab 77 49 ffffff82 4b ffffff9c fffffff6 21 ffffff82 1d ffffff9c ffffffc2 ffffff80 51 ffffff85 ffffffef ffffffd9 12 12 71 ffffffa8 ffffff98 6b 37 52 5e 2e ffffff86 3e 44 11 ffffffb0 ffffffbe ffffffaa ffffffb7 17 ffffffd5 ffffffcf fffffff7 39 0b 2e ffffff96 37 ffffffeb ffffffbb ffffffdb ffffff8b ffffffa2 75 51 ffffffd7 ffffffa1 53 20 65 15 fffffff9 ffffffbd ffffff98 5e ffffffcf ffffffab 6e 4e 04 6f ffffffcf ffffff94 ffffffa5 5a 65 17 ffffffdb ffffffca 19 3a 6e 25 ffffffa1 ffffffc4 fffffffd ffffff83 ffffffb4 ffffff83 03 4a ffffff8c 07 1f ffffff9f 28 6d 33 ffffff84 ffffffa7 ffffffa2 1c ffffff8e ffffff86 ffffffa0 ffffffd6 ffffffb7 ffffffa6 ffffffb8 ffffffaf ffffffcf ffffff84 ffffff84 66 68 ffffff8b ffffffe5 ffffffba 35 23 ffffffaf ffffffa8 53 2a 05 ffffffd9 ffffff81 16 fffffff7 64 ffffffff 2c 0a 6e 3e ffffff99 ffffffc2 ffffff92 ffffffa9 ffffffdc fffffff4 7f 30 ffffff90 ffffffb2 ffffff8e ffffffc1 02 6b 3d 76 5a 47 ffffffd6 ffffff8f 20 04 27 05 ffffffc6 5c ffffff94 ffffffbe ffffff8c 75 02 fffffff2 10 ffffffc3 3d ffffffcb ffffffed 1d 0b 6f 2c 37 14 72 ffffffe1 5b ffffffae ffffffd1 1a ffffffc0 fffffff9 ffffff89 ffffffe7 fffffff0 14 3a 0a ffffffee 51 ffffffab ffffffaa 5c 65 5b ffffffbb ffffffed ffffffb8 6c ffffffce 38 6f 61 13 ffffffe5 45 04 ffffffd2 4f 37 09 0d 76 18 ffffffaa 74 ffffffaa ffffff94 ffffffb4 46 03 fffffffd 45 ffffff92 76 fffffffb 00 ffffffca 62 ffffffbf ffffffb9 ffffffd6 0f ffffff81 ffffff94 04 17 ffffff92 ffffffeb ffffffc4 5e ffffffb7 0a 1c 75 5d 6a 65 09 ffffffc8 ffffffb2 2c 1b 0f ffffffbc ffffffee 72 ffffffa8 ffffff9f ffffffb8 ffffffb9 ffffffd2 ffffff9d ffffff8b fffffff2 1d ffffffa4 ffffff8d ffffff80 ffffffc9 5a ffffffe9 37 44 06 79 ffffffbd 08 4e 6b 77 ffffffa7 12 ffffffa0 ffffffc1 5a 68 36 56 ffffff8f ffffffb6 fffffff5 ffffff84 ffffffa0 71 70 11 7b ffffffb3 52 ffffffd5 ffffffb6 ffffffd9 ffffffd5 29 ffffff95 4d ffffff80 2e ffffffa7 fffffffe 0e 1b ffffffee ffffffb9 27 ffffff97 ffffffdf ffffffc8 50 ffffffa5 3a ffffffc7 ffffff9b ffffffad 00 50 ffffffb9 69 24 ffffffbb 2c 56 33 ffffffea ffffffd9 ffffffab 1c ffffffb4 fffffff5 48 78 ffffff87 ffffffad ffffffba ffffffab 6e ffffffd0 ffffff91 ffffffe9 fffffff2 39 ffffffdd ffffffec ffffffe7 ffffff8d 1e ffffffdd 0c 0e 7e ffffffab 79 52 ffffff82 67 6d 6a 0c 0e 01 ffffffef 29 ffffff8f ffffff99 0c 75 16 ffffffab ffffffb9 ffffffe9 ffffffe1 59 ffffff80 ffffffd7 6b 22 fffffff6 0f ffffffce fffffff1 fffffff0 3d ffffffa5 59 7b ffffff92 ffffffa7 ffffffff 44 78 ffffff87 6f 21 ffffffbf fffffff6 ffffff9e 2d 5b 1c ffffffec fffffffe ffffffd3 34 6b 37 ffffffb4 70 ffffff97 54 ffffffe8 08 ffffffb4 30 ffffffdd ffffff80 ffffff8f 32 2d 78 fffffff0 19 ffffffc5 59 1b 02 ffffffbc 3d 79 ffffff87 ffffffd3 ffffff95 44 5a ffffffde ffffffdb ffffffc3 0c ffffff8e 3a ffffffe7 ffffff85 ffffffca ffffff93 ffffffcd 56 07 ffffffd8 12 76 50 31 ffffffc0 fffffff5 37 1d ffffff86 ffffffc7 61 63 1c 5c 03 ffffffda ffffff9b 6a 68 ffffffb3 ffffff92 18 ffffff80 ffffffea 1f 04 ffffffc0 03 ffffff9b 65 22 fffffff4 68 4b ffffffd3 6e ffffffb8 ffffffab ffffffd3 ffffffa0 25 fffffff0 ffffff8e 2e ffffffc1 fffffff0 ffffff8f ffffff83 0e fffffffb 5c 22 78 5f ffffffa9 ffffffee 73 ffffffec ffffffed 6f ffffffe9 18 2a ffffffb4 62 fffffffe ffffffe3 57 fffffffd ffffffca ffffff97 ffffffc9 60 71 ffffff9b fffffff5 ffffffaa fffffff4 ffffff8e 4e 69 15 41 44 ffffffe9 1f fffffff6 18 6c 0b ffffffa3 ffffffe0 12 48 39 fffffff7 ffffffa8 ffffff8b 2c ffffff99 01 2b ffffff86 1c 2b ffffffb0 07 ffffffaf 55 ffffffaf ffffffe0 1e ffffffc4 3f ffffffb4 ffffffef 04 ffffffec ffffffbd fffffff8 ffffffbb ffffff85 26 6e ffffffa5 41 40 ffffffd2 0a 04 24 ffffff97 67 ffffffe9 7b ffffff98 0f ffffff8e ffffff83 49 fffffffb ffffff88 5f ffffffbb ffffffa9 46 ffffff80 0f ffffffd1 ffffffa0 5f ffffffae 75 ffffffaf 73 ffffffdd 6f 33 08 47 76 20 70 ffffffb9 ffffffc8 16 ffffff96 42 57 ffffffad ffffffc1 71 22 ffffffad 7b 67 6b fffffffa ffffffac 3a ffffffc4 50 39 ffffffe7 65 59 1f ffffff91 fffffff3 31 41 33 45 1b ffffffbf fffffffc ffffffc2 43 2e 59 68 fffffffc 73 ffffff98 1e ffffff9e 01 0d 2b 6d 12 3e ffffffae 4b 2c 78 ffffffd7 3f 2f 57 ffffff85 17 ffffffff ffffff9a 52 60 0b 68 fffffffd ffffffc7 6a 69 ffffffbf ffffffde 72 fffffff1 2f 38 14 64 ffffffcb 3b 63 ffffff9f ffffff85 ffffffb1 3e fffffff5 ffffff9f ffffff80 69 fffffff7 7d 7c ffffffec ffffffe0 ffffffbc 66 3e fffffffc 29 ffffff96 2d ffffffb8 41 ffffffa0 ffffffba 35 ffffffc4 ffffffdf ffffffb6 ffffff94 30 61 6e 1e 7d ffffffa6 7b fffffff8 ffffffde 1d 5b 6f ffffffc2 ffffffec ffffffa2 3d 7d ffffffb7 ffffff9b ffffff9f ffffffe1 2e ffffffdc ffffffb9 ffffff81 7f 58 65 4f ffffffb8 0b 3e ffffffaf ffffff9b 66 37 ffffffb6 ffffffdc ffffffec ffffffb0 03 ffffffbe 58 fffffff7 ffffffb0 72 3d ffffffb8 ffffffef ffffffd0 1d 0a 2d ffffffa0 ffffffcf 13 ffffffb5 50 33 3b ffffffc8 ffffffc8 1d ffffff96 ffffff84 ffffffc0 fffffff1 7d ffffffc0 ffffffa1 ffffff99 ffffffd4 ffffffb9 ffffffab 3f 56 ffffffcb 32 ffffffab ffffffec 20 ffffffb7 30 ffffff8c ffffffa6 00 ffffffbb 77 56 7c ffffffb0 07 ffffffcd ffffff82 ffffff83 ffffffce 66 47 ffffffe7 4e 65 62 31 50 26 16 ffffff8f 35 ffffffa7 ffffff9a 13 ffffffc3 ffffffa1 42 5f 55 ffffff97 ffffff85 ffffffab 2c 1b 6c 00 ffffffaa 21 ffffffa8 ffffffb9 07 14 ffffff87 fffffffa ffffffa6 ffffffc4 7b ffffff8e ffffffca 41 58 ffffffa0 59 ffffffbc fffffff7 ffffffbc 1e 34 ffffffd7 ffffffd6 62 fffffff6 ffffffb8 26 68 31 0d ffffffd4 45 ffffffbd ffffffa6 4d ffffff9d ffffffb5 43 71 ffffffb7 02 14 ffffffe2 2f 25 1d ffffffa0 ffffffec ffffff91 24 44 79 ffffffed 75 3e 4c fffffffb ffffffbb 01 ffffffdb ffffffc9 fffffffd ffffffc7 64 ffffff9a ffffffd7 ffffffc9 fffffffd ffffffbf 4c 70 ffffff9d ffffff94 ffffffcb 2f ffffffc1 ffffff8c ffffffc0 ffffffcc fffffff9 ffffffe8 ffffff81 ffffffcf 66 11 ffffffc2 ffffffc2 60 ffffffb2 7d ffffffac 5c ffffff8a 69 fffffffb ffffffbc 62 ffffffbd 1c ffffffe9 ffffffee ffffffd5 6c ffffffd7 ffffffa2 29 fffffffc ffffffa0 ffffffc1 ffffff9c fffffffe 62 3c 7d 71 5d ffffffde ffffff96 46 ffffffcd ffffffe7 35 3f ffffffc7 ffffff8f 7e fffffffa ffffffce ffffffe4 ffffffe8 ffffffe1 5b ffffffef ffffffc7 4f ffffff8e ffffffd0 4f ffffffbf fffffff7 fffffff8 ffffffcd ffffffbb ffffff93 ffffffff fffffff9 fffffffe ffffffd1 ffffffa3 1f 4f fffffffe 7e fffffff2 ffffff93 ffffffc9 3b 0f 1f ffffffbc 4f ffffffc4 ffffff93 ffffff89 7b 13 ffffffa8 7d ffffffc3 ffffffed 1b 69 ffffffdf 68 fffffffb ffffffc6 ffffffdc ffffffdb 5b 3f ffffffac 07 6f fffffffd ffffff91 7c ffffffb2 fffffffd 11 ffffff95 ffffff87 0f 3e ffffffc0 ffffffcd ffffffd7 3f ffffffc0 fffffff5 ffffffd7 ffffffdf fffffffa 10 37 7f ffffffdb ffffffff 37 5f fffffffe ffffffb0 ffffffb9 fffffff1 43 ffffffde fffffffc 15 ffffffcd ffffffdf ffffffe8 ffffffc9 ffffffe4 ffffffeb ffffffc9 ffffffbf fffffffd fffffffb 3b fffffff0 ffffffb7 ffffffef ffffff9a ffffffc7 74 ffffffff 6b 3b ffffffed ffffff9b ffffffef 4e fffffffe fffffff7 ffffffed fffffffa ffffffe7 ffffffed 3e fffffffd ffffff9d ffffffdf 7c ffffffef ffffffcd 3b ffffff93 37 ffffffdf ffffff9b 38 ffffffa2 ffffffdf 7c 7f fffffff2 ffffffe6 57 27 6f ffffff9e 4c ffffffde fffffffc ffffffda ffffffe4 ffffffd1 ffffffdf fffffffd ffffffc3 ffffffe3 ffffff9f 3c fffffffe 7a fffffff2 73 63 39 ffffff8d 5f ffffff81 4f 00 00 
+compressed size: 4392
+[UploadTask.cpp][uploadInner][485][Upload] size after encry, encLength:4392
+[NativeCrashHandler.cpp][onUploadStart][19]!!!! onUploadStart, requestKey:830.
+[UploadTask.cpp][uploadInner][519][Upload] Send 4392 bytes
+[UploadTask.cpp][uploadInner][524][Upload] Upload to https://linux.rqd.access.qq.com/rqd/hsync?aid=1792380967976 with cmd 830.
+[UploadTask.cpp][UploadImpl][592]header: appVer: 3.2.33-52892
+[UploadTask.cpp][UploadImpl][592]header: bundleId: com.tencent.qqlinux
+[UploadTask.cpp][UploadImpl][592]header: cmd: 830
+[UploadTask.cpp][UploadImpl][592]header: platformId: 1
+[UploadTask.cpp][UploadImpl][592]header: prodId: fd638d6566
+[UploadTask.cpp][UploadImpl][592]header: sdkVer: 1.0.0
+[UploadTask.cpp][UploadImpl][592]header: strategylastUpdateTime: 0
+[UploadTask.cpp][UploadImpl][603]https_proxy: (null)
+[UploadTask.cpp][UploadImpl][624]cacert pem path: /home/mteltn/.config/QQ/versions/3.2.33-52892/cacert.pem
+[UploadTask.cpp][UploadImpl][641]curl_easy_getinfo  response code: 200
+[UploadTask.cpp][uploadInner][532]curl response data: �, code: 200
+[UploadTask.cpp][onUploadEnd][233][Upload] Success: crash
+[NativeCrashHandler.cpp][onUploadEnd][30]!!!! onUploadEnd, requestKey:830, sended:0, recevied:0, exMsg:upload success..
+[libprotobuf ERROR ../../third_party/protobuf/src/google/protobuf/wire_format_lite.cc:577] String field 'opentelemetry.proto.trace.v1.Span.Event.name' contains invalid UTF-8 data when serializing a protocol buffer. Use the 'bytes' type if you intend to send raw bytes. 
+12:18:31.056 INFO  app_lib::utils::resolve:57 T{clash-verge-runtime-5} [ClashVergeRev] Version: 2.5.8
+12:18:31.057 INFO  app_lib::event_handlers:360 T{main} [System] 应用就绪
+12:18:31.222 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-2} [Window] 新窗口创建成功，等待前端渲染后显示
+12:18:31.224 INFO  app_lib::config::port:197 T{clash-verge-runtime-6} [Service] Service is NotInstalled, so no managed core can hold mixed proxy port 7897
+12:18:31.230 INFO  app_lib::core::validate:420 T{clash-verge-runtime-6} [Validate] 生成临时配置文件用于验证
+12:18:31.230 INFO  app_lib::core::validate:351 T{clash-verge-runtime-2} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+12:18:31.230 INFO  app_lib::core::validate:354 T{clash-verge-runtime-2} [Validate] 使用内核: verge-mihomo
+12:18:31.230 INFO  app_lib::core::validate:359 T{clash-verge-runtime-2} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+12:18:31.375 INFO  app_lib::core::validate:379 T{clash-verge-runtime-6} [Validate] -------- 验证结果 --------
+12:18:31.375 INFO  app_lib::core::validate:405 T{clash-verge-runtime-6} [Validate] 验证成功
+12:18:31.375 INFO  app_lib::core::validate:406 T{clash-verge-runtime-6} [Validate] -------- 验证结束 --------
+12:18:31.375 INFO  app_lib::core::tray:494 T{clash-verge-runtime-6} [Tray] 正在从AppHandle创建系统托盘
+12:18:31.381 INFO  app_lib::core::tray:177 T{clash-verge-runtime-6} [Tray] System tray created successfully
+12:18:31.381 INFO  app_lib::core::timer:192 T{clash-verge-runtime-6} [Timer] Refreshing timer tasks map, count: 2
+12:18:31.381 INFO  app_lib::core::timer:166 T{clash-verge-runtime-6} [Timer] Running overdue timer task immediately: uid=RsuR8a7x16om
+12:18:31.381 INFO  app_lib::core::timer:166 T{clash-verge-runtime-6} [Timer] Running overdue timer task immediately: uid=RSaKne2KoltJ
+12:18:31.381 INFO  app_lib::core::timer:172 T{clash-verge-runtime-6} [Timer] Timer initialization completed
+12:18:31.381 INFO  app_lib::utils::resolve:189 T{clash-verge-runtime-6} [Setup] Silent updater initialized
+12:18:31.381 INFO  app_lib::core::updater:685 T{clash-verge-runtime-6} [System] Silent updater: background task started
+12:18:31.509 INFO  app_lib::core::manager:188 T{clash-verge-runtime-6} [Core] Core running mode changed: NotRunning -> Sidecar
+12:18:31.536 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-6} [Core] Refreshing system proxy guard...
+12:18:31.536 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-6} [Core] System proxy is disabled.
+12:18:31.584 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-6} [Config] [订阅更新] 远程订阅，URL: https://ktmcloud001.top/api/v1/client/subscribe?token=***
+12:18:31.584 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-0} [Config] [订阅更新] 远程订阅，URL: https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml
+12:18:36.661 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-6} [Core] Refreshing system proxy guard...
+12:18:36.661 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-6} [Core] System proxy guard is disabled.
+12:18:41.382 INFO  app_lib::core::updater:611 T{clash-verge-runtime-3} [System] Silent updater: checking for updates...
+12:18:41.700 INFO  app_lib::core::updater:617 T{clash-verge-runtime-5} [System] Silent updater: no update available
+12:18:51.689 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-3} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml): operation timed out，尝试使用Clash代理更新
+12:18:51.691 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-3} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用Clash代理更新
+12:18:52.969 INFO  app_lib::feat::profile:168 T{clash-verge-runtime-5} [Config] [订阅更新] 使用 Clash代理 更新订阅配置成功
+12:19:11.796 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-0} [Config] [订阅更新] Clash代理更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用系统代理更新
+12:19:32.052 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-4} [Config] [订阅更新] 系统代理更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，所有重试均已失败
+12:19:32.052 ERROR app_lib::core::timer:481 T{clash-verge-runtime-4} [[Timer]] Failed to update profile uid RsuR8a7x16om: failed to fetch remote profile
+12:20:03.623 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-5} [Core] Refreshing system proxy guard...
+12:20:03.623 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-5} [Core] System proxy is disabled.
+12:20:56.369 › [1a1523ae920][QQ hotUpdate] setLauncherCounts suc 0
+[I] <MMKV.cpp:344::close> close [nt_mmkv_flash_transfer]
+[I] <MMKV.cpp:315::clearMemoryCache> clearMemoryCache [nt_mmkv_flash_transfer]
+[I] <MemoryFile.cpp:104::close> closing fd[0xed], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_mmkv_flash_transfer
+[I] <MemoryFile.cpp:104::close> closing fd[0xee], /home/mteltn/.config/QQ/nt_qq_aac647bb4b56dc716833c25ad142d505/nt_data/mmkv/nt_mmkv_flash_transfer.crc
+[I] <MMKV.cpp:157::~MMKV> destruct [nt_mmkv_flash_transfer]
+12:20:59.002 INFO  app_lib::config::config:305 T{clash-verge-runtime-5} [Config] save all draft data finished
+12:20:59.030 INFO  app_lib::core::manager:202 T{clash-verge-runtime-4} [Core] Core running mode changed: Sidecar -> NotRunning
+12:20:59.030 INFO  app_lib::feat::window:200 T{clash-verge-runtime-4} [System] Interactive cleanup complete - core stopped: true, all cleanup successful: true
+12:20:59.030 INFO  app_lib::feat::window:142 T{clash-verge-runtime-4} [System] 资源清理完成，退出代码: 0
+12:20:59.030 INFO  app_lib::utils::server:324 T{clash-verge-runtime-4} [Window] shutting down embedded server
+12:20:59.030 INFO  app_lib:493 T{main} [System] Application exited

@@ -163,3 +163,6 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 Created TensorFlow Lite XNNPACK delegate for CPU.
 Created TensorFlow Lite XNNPACK delegate for CPU.
 [60190:60221:1019/085042.698018:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Opening in existing browser session.
+[1:1:0100/000000.624948:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[772096:772096:0100/000000.625021:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)

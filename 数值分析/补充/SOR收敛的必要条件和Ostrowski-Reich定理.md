@@ -9,13 +9,13 @@ $$
 其中 $D=\operatorname{diag}(A)$，$L$ 为严格下三角部分，$U$ 为严格上三角部分。SOR 迭代矩阵为
 
 $$
-T_{\omega}=(D-\omega L)^{-1}\big((1-\omega)D+\omega U\big).
+\bm B_{SOR}=(D-\omega L)^{-1}\big((1-\omega)D+\omega U\big).
 $$
 
-有限维线性迭代 $x^{(k+1)}=T_{\omega} x^{(k)}+g$ 对任意初值收敛，当且仅当
+有限维线性迭代 $x^{(k+1)}=\bm B_{SOR} x^{(k)}+g$ 对任意初值收敛，当且仅当
 
 $$
-\rho(T_{\omega})<1.
+\rho(\bm B_{SOR})<1.
 $$
 
 ---
@@ -25,7 +25,7 @@ $$
 由 SOR 迭代矩阵行列式：
 
 $$
-\det T_{\omega}
+\det \bm B_{SOR}
 =
 \frac{\det\big((1-\omega)D+\omega U\big)}
 {\det(D-\omega L)}.
@@ -47,14 +47,14 @@ $$
 因此
 
 $$
-\det T_{\omega}=(1-\omega)^n.
+\det \bm B_{SOR}=(1-\omega)^n.
 $$
 
-若迭代全局收敛，则 $\rho(T_{\omega})<1$。设 $T_{\omega}$ 的特征值为 $\lambda_{1},\dots,\lambda_{n}$，则
+若迭代全局收敛，则 $\rho(\bm B_{SOR})<1$。设 $\bm B_{SOR}$ 的特征值为 $\lambda_{1},\dots,\lambda_{n}$，则
 
 $$
-|\det T_{\omega}|=\prod_{i=1}^n|\lambda_{i}|
-\le \rho(T_{\omega})^n<1.
+|\det \bm B_{SOR}|=\prod_{i=1}^n|\lambda_{i}|
+\le \rho(\bm B_{SOR})^n<1.
 $$
 
 于是
@@ -81,7 +81,76 @@ $$
 
 ## 2. 充分性：若 $A$ 对称正定且 $0<\omega<2$，则 SOR 全局收敛
 
-这是经典的 Ostrowski–Reich 定理。
+这是经典的 Ostrowski–Reich 定理。仅需证明在 $\omega\in(0,2)$ 的时候，$\bm B_{SOR}$ 的谱半径小于 $1$ 即可
+
+因为 $A$ 对称正定，所以
+
+$$
+\bm A = \bm L + \bm D + \bm L^{\mathrm T}
+$$
+
+其中 $a_{ii}=d_{i} > 0$，而
+
+$$
+\bm B_{SOR} = 
+(\bm D+\omega\bm L)^{-1}
+\left(
+(1-\omega)\bm D-\omega\bm L^{\mathrm T}
+\right)
+$$
+
+根据谱半径的定义：
+
+$$\rho(\bm B_{SOR}) = \lambda_{\max}(\bm B_{SOR})$$
+
+考虑 $\bm B_{SOR}$ 的特征值 $\lambda_{SOR}$ 和 对应的特征向量 $\bm\alpha_{SOR}$，则有：
+
+$$
+\bm B_{SOR}\bm\alpha_{SOR} = \lambda_{SOR}\bm\alpha_{SOR}
+$$
+
+也即
+
+$$
+(\bm D+\omega\bm L)^{-1}
+\left(
+(1-\omega)\bm D-\omega\bm L^{\mathrm T}
+\right)\bm\alpha_{SOR} = \lambda_{SOR}\bm\alpha_{SOR}
+$$
+
+整理后得到：
+
+$$
+\left(
+(1-\omega)\bm D-\omega\bm L^{\mathrm T}
+\right)\bm\alpha_{SOR} = 
+\lambda_{SOR}(\bm D+\omega\bm L)
+\bm\alpha_{SOR}
+$$
+
+也即：
+
+$$
+
+\left(
+(1-\omega-\lambda_{SOR})\bm D-\omega(\bm L^{\mathrm T}+\lambda_{SOR}\bm L
+\right)\bm\alpha_{SOR} = 
+    \bm 0
+$$
+
+因此
+
+$$
+\det\left(
+(1-\omega-\lambda_{SOR})\bm D-\omega(\bm L^{\mathrm T}+\lambda_{SOR}\bm L)
+\right) = 0
+$$
+
+由于该矩阵的 $\bm L$ 和 $\bm L^{\mathrm T}$ 都是**严格下三角矩阵**，因此对角线元素为 $(1-\omega-\lambda_{SOR})\bm D$，因此
+
+---
+
+### DeepSeek:
 
 因为 $A$ 对称正定，所以
 
@@ -98,13 +167,13 @@ $$
 SOR 迭代矩阵为
 
 $$
-T_{\omega}=(D-\omega L)^{-1}\big((1-\omega)D+\omega L^T\big).
+\bm B_{SOR}=(D-\omega L)^{-1}\big((1-\omega)D+\omega L^T\big).
 $$
 
 先算恒等式：
 
 $$
-I-T_{\omega}
+I-\bm B_{SOR}
 =
 (D-\omega L)^{-1}A\cdot \omega.
 $$
@@ -113,7 +182,7 @@ $$
 
 $$
 \begin{aligned}
-I-T_{\omega}
+I-\bm B_{SOR}
 &=(D-\omega L)^{-1}\Big[(D-\omega L)-\big((1-\omega)D+\omega L^T\big)\Big]\\
 &=(D-\omega L)^{-1}\big[\omega D-\omega L-\omega L^T\big]\\
 &=\omega(D-\omega L)^{-1}A.
@@ -123,26 +192,26 @@ $$
 所以
 
 $$
-T_{\omega}=I-\omega(D-\omega L)^{-1}A.
+\bm B_{SOR}=I-\omega(D-\omega L)^{-1}A.
 $$
 
 令 $M=D-\omega L$，则
 
 $$
-T_{\omega}=I-\omega M^{-1}A.
+\bm B_{SOR}=I-\omega M^{-1}A.
 $$
 
 考虑矩阵
 
 $$
-A-T_{\omega}^*AT_{\omega}.
+A-\bm B_{SOR}^*A\bm B_{SOR}.
 $$
 
 直接代入：
 
 $$
 \begin{aligned}
-A-T_{\omega}^*AT_{\omega}
+A-\bm B_{SOR}^*A\bm B_{SOR}
 &=
 A-\big(I-\omega A M^{-*}\big)A\big(I-\omega M^{-1}A\big)\\
 &=\omega A M^{-*}\big(M^*+M-\omega A\big)M^{-1}A.
@@ -161,7 +230,7 @@ $$
 因此
 
 $$
-A-T_{\omega}^*AT_{\omega}
+A-\bm B_{SOR}^*A\bm B_{SOR}
 =
 \omega(2-\omega)A M^{-*}D M^{-1}A.
 $$
@@ -175,29 +244,29 @@ $$
 正定。又 $A$ 正定，故
 
 $$
-A-T_{\omega}^*AT_{\omega}
+A-\bm B_{SOR}^*A\bm B_{SOR}
 $$
 
 正定。
 
-设 $\lambda$ 是 $T_{\omega}$ 的任一特征值，对应特征向量 $x\ne0$，即
+设 $\lambda$ 是 $\bm B_{SOR}$ 的任一特征值，对应特征向量 $x\ne0$，即
 
 $$
-T_{\omega} x=\lambda x.
+\bm B_{SOR} x=\lambda x.
 $$
 
-因为 $A-T_{\omega}^*AT_{\omega}$ 正定，所以
+因为 $A-\bm B_{SOR}^*A\bm B_{SOR}$ 正定，所以
 
 $$
-x^*(A-T_{\omega}^*AT_{\omega})x>0.
+x^*(A-\bm B_{SOR}^*A\bm B_{SOR})x>0.
 $$
 
 但
 
 $$
-x^*(A-T_{\omega}^*AT_{\omega})x
+x^*(A-\bm B_{SOR}^*A\bm B_{SOR})x
 =
-x^*Ax-(T_{\omega} x)^*A(T_{\omega} x)
+x^*Ax-(\bm B_{SOR} x)^*A(\bm B_{SOR} x)
 =
 (1-|\lambda|^2)x^*Ax.
 $$
@@ -214,16 +283,16 @@ $$
 |\lambda|<1.
 $$
 
-这对 $T_{\omega}$ 的所有特征值都成立，因此
+这对 $\bm B_{SOR}$ 的所有特征值都成立，因此
 
 $$
-\rho(T_{\omega})<1.
+\rho(\bm B_{SOR})<1.
 $$
 
 于是对任意初始向量 $x^{(0)}$，误差满足
 
 $$
-e^{(k)}=T_{\omega}^k e^{(0)}\to 0,
+e^{(k)}=\bm B_{SOR}^k e^{(0)}\to 0,
 $$
 
 故 SOR 迭代全局收敛。
@@ -243,7 +312,35 @@ $$
   $$
   则 SOR 迭代全局收敛，即  
   $$
-  \boxed{\rho(T_{\omega})<1.}
+  \boxed{\rho(\bm B_{SOR})<1.}
+  $$
+
+实际上，对对称正定矩阵 $A$，SOR 收敛的充要条件正是
+
+$$
+\boxed{0<\omega<2.}
+$$
+
+即经典的 **Ostrowski–Reich 定理**。
+
+故 SOR 迭代全局收敛。
+
+---
+
+## 结论
+
+- 若 $A$ 的主对角元全不为零，则 SOR 全局收敛的必要条件是  
+  $$
+  \boxed{0<\omega<2.}
+  $$
+
+- 若 $A$ 对称正定，且  
+  $$
+  \boxed{0<\omega<2,}
+  $$
+  则 SOR 迭代全局收敛，即  
+  $$
+  \boxed{\rho(\bm B_{SOR})<1.}
   $$
 
 实际上，对对称正定矩阵 $A$，SOR 收敛的充要条件正是

@@ -15,3 +15,15 @@
 # Downloaded training datasets
 /AI+航天动力：理论与实践/CNN/data/
 /AI+航天动力：理论与实践/LLM/aclImdb/
+
+# Training datasets
+/AI+航天动力：理论与实践/FNO/airfoil/naca/
+/AI+航天动力：理论与实践/FNO/pipe/
+/AI+航天动力：理论与实践/PCA/CMAPSSData/
+/AI+航天动力：理论与实践/Anomalies/detection_data.mat
+
+# Generated files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+nohup.out

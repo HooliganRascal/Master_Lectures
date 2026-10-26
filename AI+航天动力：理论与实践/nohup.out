@@ -779,3 +779,224 @@ Opening in existing browser session.
 [I 2026-10-14 22:04:24.828 ServerApp] Shutting down 6 extensions
 [I 2026-10-14 22:04:24.828 ServerApp] Shutting down 1 kernel
 [I 2026-10-14 22:04:24.829 ServerApp] Kernel shutdown: b0409288-3a80-4f69-92db-2588a2ccb2e9
+[I 2026-10-20 14:10:02.504 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-20 14:10:02.512 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-20 14:10:02.514 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-20 14:10:02.516 ServerApp] notebook | extension was successfully linked.
+[W 2026-10-20 14:10:02.532 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_nbextensions_configurator. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2026-10-20 14:10:02.532 ServerApp] jupyter_nbextensions_configurator | extension was found and enabled by notebook_shim. Consider moving the extension to Jupyter Server's extension paths.
+[I 2026-10-20 14:10:02.532 ServerApp] jupyter_nbextensions_configurator | extension was successfully linked.
+[I 2026-10-20 14:10:02.532 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-20 14:10:02.542 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-20 14:10:02.543 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-20 14:10:02.543 ServerApp] [jupyter_nbextensions_configurator] enabled 0.6.4
+[I 2026-10-20 14:10:02.543 ServerApp] jupyter_nbextensions_configurator | extension was successfully loaded.
+[I 2026-10-20 14:10:02.544 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-20 14:10:02.545 LabApp] JupyterLab extension loaded from /home/mteltn/miniconda3/envs/pyto/lib/python3.14/site-packages/jupyterlab
+[I 2026-10-20 14:10:02.545 LabApp] JupyterLab application directory is /home/mteltn/miniconda3/envs/pyto/share/jupyter/lab
+[I 2026-10-20 14:10:02.545 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-20 14:10:02.558 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-20 14:10:02.560 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-20 14:10:02.560 ServerApp] Serving notebooks from local directory: /home/mteltn/Desktop/Master/Lectures/AI+航天动力：理论与实践
+[I 2026-10-20 14:10:02.560 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-20 14:10:02.560 ServerApp] http://localhost:8888/tree?token=42293d62a5f16b969313849af0ab150b18746e89483141b9
+[I 2026-10-20 14:10:02.560 ServerApp]     http://127.0.0.1:8888/tree?token=42293d62a5f16b969313849af0ab150b18746e89483141b9
+[I 2026-10-20 14:10:02.560 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-20 14:10:02.576 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:/home/mteltn/.local/share/jupyter/runtime/jpserver-72570-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/tree?token=42293d62a5f16b969313849af0ab150b18746e89483141b9
+        http://127.0.0.1:8888/tree?token=42293d62a5f16b969313849af0ab150b18746e89483141b9
+[I 2026-10-20 14:10:02.842 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2026-10-20 14:10:07.974 ServerApp] Kernel started: a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-20 14:10:08.171 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:10:08.172 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[W 2026-10-20 14:10:08.173 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-20 14:10:08.184 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:10:08.185 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:10:08.197 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:10:08.198 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:10:14.236 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:10:14.238 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[W 2026-10-20 14:10:20.854 ServerApp] Notebook PCA/PCA.ipynb is not trusted
+[I 2026-10-20 14:10:21.079 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:10:21.080 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[W 2026-10-20 14:10:21.204 ServerApp] Notebook PCA/PCA.ipynb is not trusted
+[I 2026-10-20 14:10:21.387 ServerApp] Kernel started: 7bd84622-8920-45a2-9ab4-4ef82bd11553
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-20 14:10:21.560 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:10:21.561 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:11:00.226 ServerApp] Saving file at /PCA/PCA.ipynb
+[W 2026-10-20 14:11:00.226 ServerApp] Notebook PCA/PCA.ipynb is not trusted
+[I 2026-10-20 14:11:00.793 ServerApp] Saving file at /PCA/PCA.ipynb
+[W 2026-10-20 14:11:00.793 ServerApp] Notebook PCA/PCA.ipynb is not trusted
+[I 2026-10-20 14:11:15.858 ServerApp] Saving file at /PCA/PCA.ipynb
+[I 2026-10-20 14:11:16.131 ServerApp] Saving file at /PCA/PCA.ipynb
+[I 2026-10-20 14:11:42.396 ServerApp] Creating new notebook in /PINN
+[I 2026-10-20 14:11:42.659 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:11:42.660 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:11:42.673 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:11:42.673 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:11:46.299 ServerApp] Kernel started: a05863a1-1a7e-4ae1-846c-afb98ebdc140
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-20 14:11:46.466 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:11:46.467 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:12:28.838 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:12:28.838 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:12:28.850 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:12:28.850 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:12:28.863 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:12:28.863 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:12:35.647 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:12:35.647 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:12:35.659 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:12:35.660 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:12:35.672 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:12:35.672 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:12:35.824 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:12:35.825 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:12:52.925 ServerApp] Saving file at /PINN/PINN.ipynb
+[I 2026-10-20 14:13:37.287 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:13:37.288 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:13:37.300 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:13:37.300 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:13:37.313 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:13:37.313 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:14:01.658 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:14:01.659 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:14:01.670 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:14:01.671 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:14:01.683 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:14:01.683 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:14:41.098 ServerApp] Saving file at /PINN/PINN.ipynb
+[I 2026-10-20 14:16:41.152 ServerApp] Saving file at /PINN/PINN.ipynb
+[I 2026-10-20 14:20:17.867 ServerApp] Saving file at /PINN/PINN.ipynb
+[I 2026-10-20 14:22:17.920 ServerApp] Saving file at /PINN/PINN.ipynb
+[I 2026-10-20 14:24:16.718 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:24:16.718 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:24:16.731 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:24:16.731 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:24:16.744 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:24:16.744 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:24:50.726 ServerApp] Saving file at /Anomalies/Anormalies.ipynb
+[I 2026-10-20 14:25:46.832 ServerApp] Saving file at /Anomalies/Anormalies.ipynb
+[I 2026-10-20 14:39:39.914 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:39:39.915 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:39:39.927 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:39:39.928 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:39:39.940 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:39:39.941 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:39:50.431 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:39:50.431 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:39:50.445 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:39:50.446 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:39:50.496 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:39:50.505 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:40:06.466 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:40:06.467 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:40:06.478 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:40:06.479 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:40:06.490 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:40:06.491 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:40:19.144 ServerApp] Creating new notebook in /FNO
+[I 2026-10-20 14:40:19.494 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:40:19.495 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:40:19.507 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:40:19.507 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:40:19.519 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:40:19.519 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:40:22.694 ServerApp] Kernel started: f70200ae-2a90-4e0f-aba6-c41d54148c4a
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-20 14:40:22.946 ServerApp] Adapting from protocol version 5.3 (kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a) to 5.4 (client).
+[I 2026-10-20 14:40:22.948 ServerApp] Connecting to kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a.
+[I 2026-10-20 14:40:48.997 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:40:48.998 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:40:49.011 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:40:49.011 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:40:49.024 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:40:49.024 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:40:49.037 ServerApp] Adapting from protocol version 5.3 (kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a) to 5.4 (client).
+[I 2026-10-20 14:40:49.037 ServerApp] Connecting to kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a.
+[I 2026-10-20 14:41:35.432 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:41:35.433 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:41:35.445 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:41:35.446 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:41:35.458 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:41:35.459 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:41:35.471 ServerApp] Adapting from protocol version 5.3 (kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a) to 5.4 (client).
+[I 2026-10-20 14:41:35.472 ServerApp] Connecting to kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a.
+[I 2026-10-20 14:42:07.716 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:42:07.716 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:42:07.728 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:42:07.729 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:42:07.741 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:42:07.741 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:42:07.754 ServerApp] Adapting from protocol version 5.3 (kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a) to 5.4 (client).
+[I 2026-10-20 14:42:07.754 ServerApp] Connecting to kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a.
+[I 2026-10-20 14:42:25.886 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 14:42:43.576 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:42:43.576 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:42:43.588 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:42:43.589 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:42:43.601 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:42:43.601 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:42:43.614 ServerApp] Adapting from protocol version 5.3 (kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a) to 5.4 (client).
+[I 2026-10-20 14:42:43.615 ServerApp] Connecting to kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a.
+[I 2026-10-20 14:42:52.220 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 14:44:52.243 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 14:48:52.295 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 14:50:52.887 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 14:52:10.854 ServerApp] Adapting from protocol version 5.3 (kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8) to 5.4 (client).
+[I 2026-10-20 14:52:10.855 ServerApp] Connecting to kernel a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8.
+[I 2026-10-20 14:52:10.867 ServerApp] Adapting from protocol version 5.3 (kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553) to 5.4 (client).
+[I 2026-10-20 14:52:10.868 ServerApp] Connecting to kernel 7bd84622-8920-45a2-9ab4-4ef82bd11553.
+[I 2026-10-20 14:52:10.900 ServerApp] Adapting from protocol version 5.3 (kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140) to 5.4 (client).
+[I 2026-10-20 14:52:10.901 ServerApp] Connecting to kernel a05863a1-1a7e-4ae1-846c-afb98ebdc140.
+[I 2026-10-20 14:52:10.969 ServerApp] Adapting from protocol version 5.3 (kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a) to 5.4 (client).
+[I 2026-10-20 14:52:10.976 ServerApp] Connecting to kernel f70200ae-2a90-4e0f-aba6-c41d54148c4a.
+[I 2026-10-20 14:52:53.882 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 14:54:54.888 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 14:56:55.889 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 14:58:56.886 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:00:56.936 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:02:56.962 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:04:57.887 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:06:58.888 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:08:58.914 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:10:59.886 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:13:00.887 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:15:00.952 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:17:01.923 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:19:02.923 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:21:03.925 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:23:04.919 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:25:05.921 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:27:06.920 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:29:07.919 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:31:08.920 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:33:09.920 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:35:10.927 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:37:11.925 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:39:12.922 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:41:13.928 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:43:14.917 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:45:15.922 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:47:16.928 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:49:17.065 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:51:17.980 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 15:57:38.590 ServerApp] Saving file at /FNO/FNO.ipynb
+[I 2026-10-20 17:34:20.731 ServerApp] Starting buffering for f70200ae-2a90-4e0f-aba6-c41d54148c4a:6f906ecc-a6d6-48c5-bb7a-cf6fe825ccb1
+[I 2026-10-20 17:34:21.082 ServerApp] Starting buffering for a05863a1-1a7e-4ae1-846c-afb98ebdc140:e4301bc3-cf10-4e24-9978-86ce2ade3381
+[I 2026-10-20 17:34:21.439 ServerApp] Starting buffering for 7bd84622-8920-45a2-9ab4-4ef82bd11553:e93bb1c4-e01d-4533-8fbf-e6696f6acdb3
+[I 2026-10-20 17:34:25.389 ServerApp] Starting buffering for a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8:0e4b46c8-2979-47e1-bd00-765ba6a80c10
+[C 2026-10-20 17:39:10.744 ServerApp] received signal 15, stopping
+[I 2026-10-20 17:39:10.746 ServerApp] Shutting down 6 extensions
+[I 2026-10-20 17:39:10.747 ServerApp] Shutting down 4 kernels
+[I 2026-10-20 17:39:10.747 ServerApp] Kernel shutdown: f70200ae-2a90-4e0f-aba6-c41d54148c4a
+[I 2026-10-20 17:39:10.748 ServerApp] Kernel shutdown: a05863a1-1a7e-4ae1-846c-afb98ebdc140
+[I 2026-10-20 17:39:10.748 ServerApp] Kernel shutdown: a68b5a15-b44c-4bc2-b34e-9ddbb4e218c8
+[I 2026-10-20 17:39:10.749 ServerApp] Kernel shutdown: 7bd84622-8920-45a2-9ab4-4ef82bd11553

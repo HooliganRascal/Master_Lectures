@@ -16888,3 +16888,136 @@ Fontconfig error: Cannot load default config file: File not found
 [449401:449401:1022/214337.436005:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
 [449401:449430:1022/214546.482117:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
 Created TensorFlow Lite XNNPACK delegate for CPU.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[13220:13249:1027/083540.447683:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13220:13220:1027/083638.577954:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[13220:13220:1027/083638.578234:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[13220:13249:1027/084005.532744:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13220:13249:1027/084505.045557:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13220:13249:1027/085028.022156:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13220:13220:1027/085614.874531:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+[13220:13249:1027/085734.672807:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13220:13249:1027/090918.059671:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13220:13249:1027/091231.587965:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[13220:13249:1027/091257.729364:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[13220:13249:1027/091343.587072:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[13220:13249:1027/091535.179059:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[13220:13249:1027/091820.733914:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[13220:13249:1027/092529.888656:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[11418:11447:1027/105257.984657:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/105725.866001:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/110206.677206:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/110748.363164:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/111522.457745:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/112033.400034:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[11418:11447:1027/112545.543871:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11418:1027/113556.025245:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[11418:11418:1027/113556.025393:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[11418:11418:1027/142309.181888:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142349.866024:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11466:11473:1027/142400.640447:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11466:11473:1027/142411.117197:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11418:11418:1027/142418.145642:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Fontconfig error: Cannot load default config file: File not found
+[11418:11418:1027/142553.324807:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142558.426063:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142559.035004:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142559.036042:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142601.041538:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142601.042712:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142602.007772:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142602.008741:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142627.257897:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142631.162777:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142632.288933:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142642.894978:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11418:11418:1027/142643.365392:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11466:11473:1027/142714.647046:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11466:11473:1027/142715.203255:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11466:11473:1027/142755.995191:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11466:11473:1027/142800.155340:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11466:11473:1027/142800.438596:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11466:11473:1027/142800.449243:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[603549:263:1027/144132.714901:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[11466:11473:1027/144556.040421:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/144558.248954:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/144600.319521:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/144604.229693:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/144606.549196:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/150031.530162:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/150104.198176:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/150104.290377:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152052.275362:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152054.624066:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152058.325030:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152100.478409:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152100.669785:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152102.744674:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152104.928535:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152104.953496:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152107.134479:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152107.335901:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152109.303146:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152109.426244:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152111.479985:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152111.513844:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152114.731874:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152114.731905:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152115.917547:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152115.975270:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[667103:142:1027/152116.689477:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[11466:11473:1027/152118.057004:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152131.146625:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152133.293679:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[667103:142:1027/152133.819537:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[11466:11473:1027/152135.438184:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152137.646214:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152142.514235:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152147.382262:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152152.228148:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152157.345219:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152202.433075:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152207.391985:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152212.309481:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152217.489151:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152222.375464:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152227.274095:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152232.450434:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152236.366577:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152238.573448:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[667103:142:1027/152239.116585:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[11466:11473:1027/152240.776258:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152242.940368:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152245.103576:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[667103:142:1027/152245.165121:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[667103:142:1027/152245.165857:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[11466:11473:1027/152247.260743:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152249.404135:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152251.575962:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152253.737095:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152255.219019:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152255.904221:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152257.291940:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152258.102291:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152259.368794:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152504.456334:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/152506.942258:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11418:11447:1027/160010.590649:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[11418:11418:1027/162307.525181:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[926231:926231:1027/183603.468785:ERROR:printing/backend/print_backend_cups.cc:199] CUPS: Error getting default printer: No destinations added.
+[11418:11418:1027/183603.469054:ERROR:components/device_event_log/device_event_log_impl.cc:211] [18:36:03.469] Printer: local_printer_handler_default.cc:286 Failure getting default printer via service, result: kFailed
+[927732:927732:1027/183713.523494:ERROR:printing/backend/print_backend_cups.cc:199] CUPS: Error getting default printer: No destinations added.
+[11418:11418:1027/183713.523837:ERROR:components/device_event_log/device_event_log_impl.cc:211] [18:37:13.523] Printer: local_printer_handler_default.cc:286 Failure getting default printer via service, result: kFailed
+[11418:11418:1027/183723.393906:ERROR:components/dbus/xdg/request.cc:169] Request cancelled by user.
+[11418:11418:1027/195342.010531:ERROR:ui/gfx/x/atom_cache.cc:236] Add chromium/x-drag-id to kAtomsToCache
+[11466:11473:1027/195623.503618:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/195623.705210:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[11466:11473:1027/212103.886507:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11418:11447:1027/214036.502030:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/214324.981695:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/214504.801943:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/214820.377403:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/215436.508567:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11447:1027/220421.533933:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11418:11418:1027/222118.701926:ERROR:components/dbus/xdg/request.cc:173] Request ended (non-user cancelled).

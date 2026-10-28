@@ -161,3 +161,18 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [115877:115906:1026/214236.940064:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [115877:115906:1026/220218.053885:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
 [115877:115906:1026/220218.055437:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[14431:14460:1028/082632.513819:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14460:1028/083102.227793:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14460:1028/083555.221048:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14460:1028/084152.275414:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14431:1028/084941.720964:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[14431:14460:1028/084951.453906:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14431:1028/085156.537519:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+[14431:14460:1028/085913.102219:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14431:1028/095505.958231:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[14431:14431:1028/095505.958296:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[14431:14460:1028/100030.731444:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14460:1028/100452.633518:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14460:1028/100940.184027:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[14431:14460:1028/101501.272171:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

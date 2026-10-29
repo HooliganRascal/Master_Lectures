@@ -17031,3 +17031,63 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [8491:8520:1029/085018.551050:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [8491:8491:1029/085153.111451:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
 [8491:8520:1029/090005.410801:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[42394:42394:1029/103938.303714:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[42394:42394:1029/103938.303773:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[42394:42423:1029/104307.826377:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/104733.247145:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/105214.619400:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/105752.638030:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/110143.323496:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[42394:42423:1029/110445.199385:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/111554.655559:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/113345.356506:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/113805.799249:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/114306.521504:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/114840.295418:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/115621.583415:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/120753.713072:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[42394:42423:1029/121607.541686:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/121607.543563:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/121641.786561:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/121641.787847:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/121728.104278:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/121728.105573:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/121759.743430:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/121759.744580:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/122804.131858:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/122804.133158:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/123730.011416:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[42394:42423:1029/130720.098325:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[42394:42423:1029/130720.099804:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[18614:18643:1029/140420.235736:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18614:18643:1029/140420.236107:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[18614:18643:1029/140420.249844:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -106
+[18663:18670:1029/140826.231408:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[18614:18643:1029/140856.148459:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18614:18643:1029/141347.613421:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18614:18643:1029/141939.981718:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18614:18614:1029/142217.585147:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[18614:18614:1029/142217.585391:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[18614:18643:1029/142712.089739:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18663:18670:1029/143155.475103:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[18614:18643:1029/143157.441441:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[18614:18643:1029/143656.596938:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[18663:18670:1029/150301.024644:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -101
+[18663:18670:1029/150301.024794:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -101
+[18663:18670:1029/150303.005745:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -101
+[18663:18670:1029/150303.005921:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -101
+[18663:18670:1029/150303.006960:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -101
+[18663:18670:1029/150303.007309:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -101
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[137185:137214:1029/204619.130626:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[137185:137214:1029/205048.309133:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[137185:137214:1029/205539.432262:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[137185:137214:1029/210110.491595:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[137185:137214:1029/210753.276066:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[137185:137214:1029/211742.084438:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[137185:137185:1029/212146.674366:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[137185:137185:1029/212146.674513:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[432971:432971:1029/224706.296870:ERROR:printing/backend/print_backend_cups.cc:199] CUPS: Error getting default printer: No destinations added.
+[137185:137185:1029/224706.297130:ERROR:components/device_event_log/device_event_log_impl.cc:211] [22:47:06.297] Printer: local_printer_handler_default.cc:286 Failure getting default printer via service, result: kFailed

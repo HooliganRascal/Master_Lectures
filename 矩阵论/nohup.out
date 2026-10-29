@@ -275,3 +275,17 @@ Fontconfig error: Cannot load default config file: File not found
 [47004:47033:1028/165744.189973:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
 [47004:47033:1028/172258.346492:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
 [47004:47033:1028/172258.347891:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[47004:47004:1028/192817.054877:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[47004:47004:1028/192817.061105:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[47004:47004:1028/192817.061944:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[47004:47004:1028/192818.809965:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[47004:47004:1028/192818.810140:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[47004:47004:1028/192818.813174:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[47052:47059:1028/204256.350709:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+Fontconfig error: Cannot load default config file: File not found
+[47004:47033:1028/220042.791467:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[47004:47033:1028/220042.792819:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[47004:47033:1028/220206.149044:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[47004:47033:1028/220206.150702:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[47004:47033:1028/220309.881395:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[47004:47033:1028/220309.882321:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105

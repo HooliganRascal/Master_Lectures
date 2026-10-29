@@ -17021,3 +17021,13 @@ Fontconfig error: Cannot load default config file: File not found
 [11418:11447:1027/215436.508567:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [11418:11447:1027/220421.533933:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [11418:11418:1027/222118.701926:ERROR:components/dbus/xdg/request.cc:173] Request ended (non-user cancelled).
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[8491:8520:1029/082745.933135:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8491:8520:1029/083211.619028:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8491:8520:1029/083657.892949:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8491:8491:1029/083824.230262:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[8491:8491:1029/083824.230537:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[8491:8520:1029/084247.021956:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8491:8520:1029/085018.551050:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8491:8491:1029/085153.111451:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+[8491:8520:1029/090005.410801:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

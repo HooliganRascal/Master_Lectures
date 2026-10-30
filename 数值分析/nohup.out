@@ -17091,3 +17091,46 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [137185:137185:1029/212146.674513:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
 [432971:432971:1029/224706.296870:ERROR:printing/backend/print_backend_cups.cc:199] CUPS: Error getting default printer: No destinations added.
 [137185:137185:1029/224706.297130:ERROR:components/device_event_log/device_event_log_impl.cc:211] [22:47:06.297] Printer: local_printer_handler_default.cc:286 Failure getting default printer via service, result: kFailed
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[11700:11700:1030/082746.897493:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11700:11729:1030/082930.784318:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11700:11729:1030/083356.048183:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11700:11729:1030/083846.637288:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11700:11729:1030/084413.668388:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11700:11729:1030/085152.964174:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11700:11700:1030/085158.360141:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+[11700:11700:1030/085735.353338:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11700:11700:1030/085736.300335:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[11700:11729:1030/090117.035062:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11700:11700:1030/091620.526431:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[11700:11700:1030/091620.526490:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[11748:11755:1030/091852.407483:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11748:11755:1030/091857.415926:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11748:11755:1030/092852.236808:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11748:11755:1030/092852.625784:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11748:11755:1030/092852.640790:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[12096:1:1030/155037.904482:ERROR:third_party/puffin/src/puffpatch.cc:122] Failed to create a temporary file for memory-mapping: Operation not permitted (1)
+[12096:1:1030/155037.921633:ERROR:third_party/puffin/src/puffpatch.cc:122] Failed to create a temporary file for memory-mapping: Operation not permitted (1)
+[11858:11865:1030/155300.390240:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11858:11865:1030/155302.823711:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11797:11830:1030/155434.820344:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11858:11865:1030/155446.021607:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11797:11830:1030/155901.638782:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11858:11865:1030/160133.898488:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11858:11865:1030/160145.011728:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11797:11830:1030/160354.766142:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11858:11865:1030/160619.428833:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11858:11865:1030/160630.580001:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11797:11830:1030/160921.078121:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11797:11830:1030/161712.442504:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11797:11830:1030/162658.190290:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11797:11830:1030/164633.014215:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[11797:11830:1030/171540.771107:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[11797:11830:1030/171540.772438:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[11797:11830:1030/174703.836194:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[11797:11830:1030/174703.839761:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[11858:11865:1030/174832.464057:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11858:11865:1030/174843.278075:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11797:11830:1030/175144.749008:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[11797:11830:1030/175144.750012:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105

@@ -17134,3 +17134,24 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [11858:11865:1030/174843.278075:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
 [11797:11830:1030/175144.749008:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
 [11797:11830:1030/175144.750012:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[11858:11865:1030/180658.425588:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11858:11865:1030/180709.163862:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11797:11830:1030/195759.534799:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[11797:11830:1030/195759.536146:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[11858:11865:1030/200414.753064:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[11858:11865:1030/200425.888599:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[1118824:1118855:1031/183113.007147:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[1118824:1118855:1031/183536.892468:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[1118878:1118886:1031/183906.679377:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[1118878:1118886:1031/183906.986674:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[1118824:1118855:1031/184017.683144:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[1118824:1118855:1031/184543.051837:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[1118824:1118855:1031/185251.956596:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[1118824:1118855:1031/190334.783205:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[1118824:1118824:1031/193736.317322:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1118824:1118824:1031/193739.010159:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1118824:1118824:1031/193739.011309:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1118824:1118824:1031/193739.406268:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1118824:1118824:1031/193739.407247:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[1118824:1118824:1031/193739.752318:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.

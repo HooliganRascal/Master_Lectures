@@ -289,3 +289,16 @@ Fontconfig error: Cannot load default config file: File not found
 [47004:47033:1028/220206.150702:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
 [47004:47033:1028/220309.881395:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
 [47004:47033:1028/220309.882321:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+2026-11-01 13:53:58 Loaded updated app package /home/mteltn/.config/obsidian/obsidian-1.14.5.asar
+2026-11-01 13:53:58 Checking for update using Github
+2026-11-01 13:53:59 Success.
+2026-11-01 13:53:59 Latest version is 1.14.5
+2026-11-01 13:53:59 App is up to date.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[24664:24695:1101/234504.034330:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Fontconfig error: Cannot load default config file: File not found
+Fontconfig error: Cannot load default config file: File not found
+[24664:24695:1101/234930.298295:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[24664:24695:1101/235411.444939:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[24664:24695:1101/235950.558155:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[24664:24695:1102/000726.246066:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

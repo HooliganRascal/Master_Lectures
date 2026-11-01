@@ -17155,3 +17155,4 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [1118824:1118824:1031/193739.406268:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
 [1118824:1118824:1031/193739.407247:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
 [1118824:1118824:1031/193739.752318:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Gdk-Message: 20:07:22.518: Error flushing display: Broken pipe

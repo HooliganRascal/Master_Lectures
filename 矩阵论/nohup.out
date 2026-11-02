@@ -302,3 +302,228 @@ Fontconfig error: Cannot load default config file: File not found
 [24664:24695:1101/235411.444939:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [24664:24695:1101/235950.558155:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [24664:24695:1102/000726.246066:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[24664:24695:1102/001718.945887:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[24664:24664:1102/002544.774672:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[24717:24726:1102/004306.487027:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004306.487063:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004312.396540:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004312.396556:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004312.445411:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004312.445763:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004314.671004:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004314.671023:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004314.714619:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004316.914345:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004316.914363:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004316.961661:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004316.962568:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004321.559138:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004321.559157:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004326.527590:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004326.527610:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004327.041207:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004329.009235:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004329.009253:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004329.056752:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004329.057290:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004331.182495:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004835.802554:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004835.802572:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004845.032930:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004845.032952:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004847.206697:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004847.206715:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004847.260294:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004847.277869:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004847.278240:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004847.278593:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004847.288744:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004849.667361:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004849.667383:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004849.732511:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004849.925665:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004849.926092:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004850.095140:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004850.167745:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004902.216132:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004902.216157:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004907.792413:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004907.792443:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004912.192054:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004912.192084:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004912.537090:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004914.501438:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004914.501462:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004916.806475:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004916.806499:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004916.901528:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004919.038478:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004919.038495:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004933.178207:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004933.178237:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004949.614718:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004949.614741:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004949.653681:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004951.871613:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004951.871633:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/004951.940034:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/004951.940778:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/004954.143929:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/004954.143946:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005021.212775:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005021.212797:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/005021.276667:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/005114.826227:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005118.353540:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005121.070614:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/005121.123574:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/005121.123983:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/005123.305137:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005125.962556:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/005126.025621:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/005218.756694:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005219.760368:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005221.818618:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/005221.946348:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/005221.992141:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/005222.047197:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/005224.030584:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005226.108054:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/005226.325440:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[178200:37:1102/005226.325880:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/005228.188205:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005326.921787:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005326.921806:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005329.337980:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005329.337999:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005331.535951:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005331.535966:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005333.608897:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005333.608921:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/005333.696733:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[24717:24726:1102/005335.712605:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005335.712628:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005638.128366:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005638.128386:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005640.845068:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005640.845082:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005641.505965:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005642.943279:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[24717:24726:1102/005642.943296:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[178200:37:1102/005642.999419:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[34389:34420:1102/083548.559573:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[34389:34420:1102/084010.903841:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[34389:34420:1102/084458.003283:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[34389:34420:1102/085029.046387:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[34389:34420:1102/085711.776887:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[34389:34420:1102/090740.901379:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+14:17:59.242 INFO  app_lib::utils::resolve:57 T{clash-verge-runtime-5} [ClashVergeRev] Version: 2.5.8
+14:17:59.242 INFO  app_lib::event_handlers:360 T{main} [System] 应用就绪
+14:17:59.390 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-4} [Window] 新窗口创建成功，等待前端渲染后显示
+14:17:59.392 INFO  app_lib::config::port:238 T{clash-verge-runtime-3} [Service] Service no longer tracks a core for this owner (code 0, active false, pid None); mixed proxy port 7897 is unattributed
+14:17:59.400 INFO  app_lib::core::validate:420 T{clash-verge-runtime-4} [Validate] 生成临时配置文件用于验证
+14:17:59.401 INFO  app_lib::core::validate:351 T{clash-verge-runtime-4} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+14:17:59.401 INFO  app_lib::core::validate:354 T{clash-verge-runtime-4} [Validate] 使用内核: verge-mihomo
+14:17:59.401 INFO  app_lib::core::validate:359 T{clash-verge-runtime-4} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+14:17:59.575 INFO  app_lib::core::validate:379 T{clash-verge-runtime-3} [Validate] -------- 验证结果 --------
+14:17:59.575 INFO  app_lib::core::validate:405 T{clash-verge-runtime-3} [Validate] 验证成功
+14:17:59.575 INFO  app_lib::core::validate:406 T{clash-verge-runtime-3} [Validate] -------- 验证结束 --------
+14:17:59.575 INFO  app_lib::core::tray:494 T{clash-verge-runtime-3} [Tray] 正在从AppHandle创建系统托盘
+14:17:59.581 INFO  app_lib::core::tray:177 T{clash-verge-runtime-3} [Tray] System tray created successfully
+14:17:59.581 INFO  app_lib::core::timer:192 T{clash-verge-runtime-3} [Timer] Refreshing timer tasks map, count: 2
+14:17:59.581 INFO  app_lib::core::timer:166 T{clash-verge-runtime-3} [Timer] Running overdue timer task immediately: uid=RsuR8a7x16om
+14:17:59.581 INFO  app_lib::core::timer:166 T{clash-verge-runtime-3} [Timer] Running overdue timer task immediately: uid=RSaKne2KoltJ
+14:17:59.581 INFO  app_lib::core::timer:172 T{clash-verge-runtime-3} [Timer] Timer initialization completed
+14:17:59.581 INFO  app_lib::utils::resolve:189 T{clash-verge-runtime-3} [Setup] Silent updater initialized
+14:17:59.581 INFO  app_lib::core::updater:685 T{clash-verge-runtime-3} [System] Silent updater: background task started
+14:17:59.594 INFO  app_lib::core::service:985 T{clash-verge-runtime-3} [Service] 服务已运行且版本匹配，直接使用
+14:17:59.767 INFO  app_lib::core::service:967 T{clash-verge-runtime-1} [Service] 服务成功启动核心 (session generation 15)
+14:17:59.768 INFO  app_lib::core::manager:188 T{clash-verge-runtime-1} [Core] Core running mode changed: NotRunning -> Service
+14:18:00.796 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-6} [Core] Refreshing system proxy guard...
+14:18:00.796 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-6} [Core] System proxy is disabled.
+14:18:00.988 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-3} [Config] [订阅更新] 远程订阅，URL: https://ktmcloud001.top/api/v1/client/subscribe?token=***
+14:18:00.988 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-4} [Config] [订阅更新] 远程订阅，URL: https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml
+14:18:06.383 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-0} [Core] Refreshing system proxy guard...
+14:18:06.383 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-0} [Core] System proxy guard is disabled.
+14:18:09.583 INFO  app_lib::core::updater:611 T{clash-verge-runtime-6} [System] Silent updater: checking for updates...
+14:18:09.814 INFO  app_lib::config::profiles:659 T{clash-verge-runtime-6} [Config] Selected node for proxy: 自动选择, node: 🇸🇬 SG新加坡-A2
+14:18:10.977 INFO  app_lib::core::updater:617 T{clash-verge-runtime-5} [System] Silent updater: no update available
+14:18:21.093 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-3} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用Clash代理更新
+14:18:21.097 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-3} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml): operation timed out，尝试使用Clash代理更新
+14:18:21.886 INFO  app_lib::feat::profile:168 T{clash-verge-runtime-6} [Config] [订阅更新] 使用 Clash代理 更新订阅配置成功
+14:18:22.713 INFO  app_lib::feat::profile:168 T{clash-verge-runtime-6} [Config] [订阅更新] 使用 Clash代理 更新订阅配置成功
+14:18:22.723 INFO  app_lib::core::validate:420 T{clash-verge-runtime-3} [Validate] 生成临时配置文件用于验证
+14:18:22.724 INFO  app_lib::core::validate:351 T{clash-verge-runtime-3} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+14:18:22.724 INFO  app_lib::core::validate:354 T{clash-verge-runtime-3} [Validate] 使用内核: verge-mihomo
+14:18:22.724 INFO  app_lib::core::validate:359 T{clash-verge-runtime-3} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+14:18:22.747 INFO  app_lib::core::validate:379 T{clash-verge-runtime-6} [Validate] -------- 验证结果 --------
+14:18:22.747 INFO  app_lib::core::validate:405 T{clash-verge-runtime-6} [Validate] 验证成功
+14:18:22.747 INFO  app_lib::core::validate:406 T{clash-verge-runtime-6} [Validate] -------- 验证结束 --------
+not mini app. 
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/opt/QQ/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :51102
+version_config_filename :/home/mteltn/.config/QQ/versions/config.json
+app_package_filename :/opt/QQ/resources/app/package.json
+config_build_id :51102
+config_base_version :3.2.31-51102
+config_current_version :3.2.33-52892
+app_build_version :51102
+[preload] succeeded. /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+[preload] succeeded. /home/mteltn/.config/QQ/versions/3.2.33-52892/major.node
+resourcesPath: /opt/QQ/resources
+2026-11-02 10:40:15 Loaded updated app package /home/mteltn/.config/obsidian/obsidian-1.14.5.asar
+2026-11-02 10:40:15 Checking for update using Github
+2026-11-02 10:40:16 Success.
+2026-11-02 10:40:16 Latest version is 1.14.5
+2026-11-02 10:40:16 App is up to date.
+2026-11-02 11:40:15 Checking for update using Github
+2026-11-02 11:40:16 Success.
+2026-11-02 11:40:16 Latest version is 1.14.5
+2026-11-02 11:40:16 App is up to date.
+{"argv":["vault=Tutorial","read","file=Jordan Form"],"tty":false,"cwd":"/home/mteltn/Desktop/Tutorial"}
+Received command line [ 'vault=Tutorial', 'read', 'file=Jordan Form' ]
+{"argv":["vault=Tutorial","eval","code=(async()=>{const f=app.vault.getAbstractFileByPath('Mathematics/Jordan Form.md');if(!f)throw Error('Target note missing');const content=require('fs').readFileSync('/tmp/jordan-form-expanded.md','utf8');await app.vault.modify(f,content);return {path:f.path,characters:content.length};})()"],"tty":false,"cwd":"/home/mteltn/Desktop/Tutorial"}
+Received command line [
+  'vault=Tutorial',
+  'eval',
+  "code=(async()=>{const f=app.vault.getAbstractFileByPath('Mathematics/Jordan Form.md');if(!f)throw Error('Target note missing');const content=require('fs').readFileSync('/tmp/jordan-form-expanded.md','utf8');await app.vault.modify(f,content);return {path:f.path,characters:content.length};})()"
+]
+{"argv":["vault=Tutorial","eval","code=(async()=>{const f=app.vault.getAbstractFileByPath('Mathematics/Jordan Form.md');const leaf=app.workspace.getLeaf(false);await leaf.openFile(f);await leaf.view.setState({file:f.path,mode:'preview'});return JSON.stringify({path:f.path,mode:leaf.view.getMode(),length:(await app.vault.read(f)).length});})()"],"tty":false,"cwd":"/home/mteltn/Desktop/Tutorial"}
+Received command line [
+  'vault=Tutorial',
+  'eval',
+  "code=(async()=>{const f=app.vault.getAbstractFileByPath('Mathematics/Jordan Form.md');const leaf=app.workspace.getLeaf(false);await leaf.openFile(f);await leaf.view.setState({file:f.path,mode:'preview'});return JSON.stringify({path:f.path,mode:leaf.view.getMode(),length:(await app.vault.read(f)).length});})()"
+]
+{"argv":["vault=Tutorial","eval","code=(async()=>{const leaf=app.workspace.getLeaf(false);await leaf.setViewState({type:'markdown',state:{file:'Mathematics/Jordan Form.md',mode:'preview'}});return 'Reading view opened';})()"],"tty":false,"cwd":"/home/mteltn/Desktop/Tutorial"}
+Received command line [
+  'vault=Tutorial',
+  'eval',
+  "code=(async()=>{const leaf=app.workspace.getLeaf(false);await leaf.setViewState({type:'markdown',state:{file:'Mathematics/Jordan Form.md',mode:'preview'}});return 'Reading view opened';})()"
+]
+{"argv":["vault=Tutorial","eval","code=JSON.stringify({file:app.workspace.getActiveFile()?.path,math:document.querySelectorAll('.markdown-preview-view mjx-container').length,diagrams:document.querySelectorAll('.markdown-preview-view .mermaid svg').length,errors:Array.from(document.querySelectorAll('.markdown-preview-view .math-error,.markdown-preview-view .mermaid-error')).map(x=>x.textContent)})"],"tty":false,"cwd":"/home/mteltn/Desktop/Tutorial"}
+Received command line [
+  'vault=Tutorial',
+  'eval',
+  "code=JSON.stringify({file:app.workspace.getActiveFile()?.path,math:document.querySelectorAll('.markdown-preview-view mjx-container').length,diagrams:document.querySelectorAll('.markdown-preview-view .mermaid svg').length,errors:Array.from(document.querySelectorAll('.markdown-preview-view .math-error,.markdown-preview-view .mermaid-error')).map(x=>x.textContent)})"
+]
+{"argv":["vault=Tutorial","eval","code=(async()=>{const fs=require('fs');const f=app.vault.getAbstractFileByPath('Mathematics/Jordan Form.md');const current=await app.vault.read(f);if(current!==fs.readFileSync('/tmp/jordan-dimension-before.md','utf8'))throw Error('Note changed since reading');await app.vault.modify(f,fs.readFileSync('/tmp/jordan-dimension-updated.md','utf8'));return 'Expanded multiplicity proof saved';})()"],"tty":false,"cwd":"/home/mteltn/Desktop/Tutorial"}
+Received command line [
+  'vault=Tutorial',
+  'eval',
+  "code=(async()=>{const fs=require('fs');const f=app.vault.getAbstractFileByPath('Mathematics/Jordan Form.md');const current=await app.vault.read(f);if(current!==fs.readFileSync('/tmp/jordan-dimension-before.md','utf8'))throw Error('Note changed since reading');await app.vault.modify(f,fs.readFileSync('/tmp/jordan-dimension-updated.md','utf8'));return 'Expanded multiplicity proof saved';})()"
+]
+2026-11-02 12:40:15 Checking for update using Github
+2026-11-02 12:40:18 Success.
+2026-11-02 12:40:18 Latest version is 1.14.5
+2026-11-02 12:40:18 App is up to date.

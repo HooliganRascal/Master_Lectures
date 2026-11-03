@@ -527,3 +527,7 @@ Received command line [
 2026-11-02 12:40:18 Success.
 2026-11-02 12:40:18 Latest version is 1.14.5
 2026-11-02 12:40:18 App is up to date.
+22:49:15.885 WARN  tauri_plugin_mihomo::mihomo:63 T{clash-verge-runtime-6} websocket error: WebSocket protocol error: Connection reset without closing handshake
+22:49:15.885 WARN  tauri_plugin_mihomo::mihomo:63 T{clash-verge-runtime-4} websocket error: WebSocket protocol error: Connection reset without closing handshake
+22:49:15.996 ERROR arboard::platform::linux::x11:927 T{unnamed} Worker thread errored with: Unknown error while interacting with the clipboard: The X11 server closed the connection
+Gdk-Message: 22:49:16.340: Lost connection to Wayland compositor.

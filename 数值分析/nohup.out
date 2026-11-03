@@ -17156,3 +17156,31 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [1118824:1118824:1031/193739.407247:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
 [1118824:1118824:1031/193739.752318:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
 Gdk-Message: 20:07:22.518: Error flushing display: Broken pipe
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[62242:62273:1103/093750.985929:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[62242:62273:1103/094221.016061:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[62242:62273:1103/094719.651324:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[62242:62273:1103/095242.964920:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[62242:62273:1103/095958.061715:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[62242:62273:1103/101029.758900:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[13453:13627:1103/105711.810743:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13453:13627:1103/110136.112101:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13453:13627:1103/110626.900095:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13453:13627:1103/111157.940451:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13453:13627:1103/111911.206097:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13453:13627:1103/112401.793946:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[13453:13627:1103/113103.480751:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[13453:13453:1103/120531.543644:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+[13453:13627:1103/122652.341297:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/122652.342907:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/123156.240812:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/123156.242429:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[14708:14781:1103/124355.431996:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[13453:13627:1103/124703.691204:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/124703.692702:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[14708:14781:1103/125005.350615:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/125310.025870:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/130930.149945:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[13453:13627:1103/133252.667309:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/133252.668471:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105

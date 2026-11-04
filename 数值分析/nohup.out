@@ -17228,3 +17228,32 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [14708:14781:1103/181449.946953:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
 [14708:14781:1103/181450.000618:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
 [14708:14781:1103/181451.556678:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[155266:155297:1104/105126.114237:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/105126.402930:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/105126.402963:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/105500.802586:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[155266:155297:1104/105549.770800:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/105550.005247:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/105550.798301:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/110037.063832:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/110037.313568:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/110043.753103:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/110608.078056:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/110608.321775:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/110617.844595:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/111254.929410:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/111255.172070:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/111330.699408:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/112340.769739:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/112341.003815:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/112418.554529:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155266:1104/112418.554760:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+[155266:155297:1104/113257.085191:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/113726.236831:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/114207.351527:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155266:1104/114211.384432:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+[155266:155297:1104/115124.646025:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/115923.935311:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155297:1104/121121.262535:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[155266:155266:1104/121121.262665:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error

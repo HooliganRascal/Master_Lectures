@@ -17184,3 +17184,47 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [14708:14781:1103/130930.149945:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
 [13453:13627:1103/133252.667309:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
 [13453:13627:1103/133252.668471:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/141202.050273:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[14708:14781:1103/150022.138407:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[14708:14781:1103/150022.238891:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[14708:14781:1103/150024.906887:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[14708:14781:1103/150028.520083:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[14708:14781:1103/150030.786659:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[666812:56:1103/150030.832118:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[14708:14781:1103/150033.717271:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[14708:14781:1103/150035.390905:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[14708:14781:1103/150035.711533:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[14708:14781:1103/150619.039643:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[666241:291:1103/150621.942579:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[666241:291:1103/150621.943374:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[666241:291:1103/150621.943704:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[14708:14781:1103/150626.811304:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[14614:14614:1103/150839.463798:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:260] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14614:14614:1103/150839.466978:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:260] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14614:14614:1103/150839.483763:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:260] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[13453:13453:1103/151332.846613:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[13453:13453:1103/151352.664733:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[13453:13453:1103/151953.323822:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[13453:13453:1103/151953.892940:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[13453:13453:1103/151955.869650:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[13453:13627:1103/155410.761650:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/155410.762611:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/155412.764139:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[14708:14781:1103/172936.984551:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[13453:13627:1103/173003.532257:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/173003.533105:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/175014.656411:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[13453:13627:1103/175014.657585:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[14614:14810:1103/175859.884910:ERROR:components/viz/service/display/display.cc:271] Frame latency is negative: -0.127 ms
+[14708:14781:1103/180245.986437:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/180247.871072:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/181356.226194:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[14708:14781:1103/181356.227417:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[14708:14781:1103/181356.228445:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[14708:14781:1103/181449.877994:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/181449.946718:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/181449.946811:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/181449.946887:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/181449.946953:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/181450.000618:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202
+[14708:14781:1103/181451.556678:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -202

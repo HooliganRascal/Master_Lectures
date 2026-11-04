@@ -531,3 +531,19 @@ Received command line [
 22:49:15.885 WARN  tauri_plugin_mihomo::mihomo:63 T{clash-verge-runtime-4} websocket error: WebSocket protocol error: Connection reset without closing handshake
 22:49:15.996 ERROR arboard::platform::linux::x11:927 T{unnamed} Worker thread errored with: Unknown error while interacting with the clipboard: The X11 server closed the connection
 Gdk-Message: 22:49:16.340: Lost connection to Wayland compositor.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[73170:73201:1104/084622.980883:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/084623.255916:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/084623.255973:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/085050.342129:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/085050.576845:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/085052.160987:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/085532.756387:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/085533.005981:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/085542.579932:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/090114.449807:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/090114.694416:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/090119.134978:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/090807.090772:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/090807.581738:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[73170:73201:1104/090910.116083:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

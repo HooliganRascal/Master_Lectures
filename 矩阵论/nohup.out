@@ -547,3 +547,73 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [73170:73201:1104/090807.090772:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [73170:73201:1104/090807.581738:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [73170:73201:1104/090910.116083:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[8410:8441:1105/083453.684129:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/083453.684178:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/083453.684230:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/083916.698378:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/083916.933748:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/083918.311827:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/084405.092385:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/084405.343376:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/084407.399672:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8410:1105/084458.496385:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[8410:8441:1105/084941.860884:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/084942.111634:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/084953.011130:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/085640.716255:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/085647.885234:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/085653.628842:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/090640.183042:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8410:1105/090640.183230:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+[8410:8441:1105/090640.425818:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/090731.418080:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/091531.625710:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/091959.514606:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/092128.701423:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/092447.948757:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8441:1105/093213.680581:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8435:1105/093712.880760:ERROR:components/sync/engine/get_updates_processor.cc:270] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_TIMED_OUT)
+[8410:8435:1105/094114.392854:ERROR:components/sync/engine/get_updates_processor.cc:270] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_TIMED_OUT)
+[8410:8441:1105/094322.708345:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[8410:8410:1105/094322.708772:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+[8410:8435:1105/094354.725499:ERROR:components/sync/engine/get_updates_processor.cc:270] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[27425:27456:1105/111157.723915:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/111157.732276:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/111157.732310:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/111623.612270:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/111623.675612:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/111624.788066:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/112018.953518:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/112018.953664:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/112018.953729:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/112553.629167:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/112553.869791:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/112555.019355:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27425:1105/113202.827044:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+[27425:27456:1105/113235.187142:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/113244.498783:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/113252.282418:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/114259.893228:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/114302.350630:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/114326.963540:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27425:1105/114326.963704:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+[27425:27456:1105/115209.533051:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/115630.863457:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/120128.106340:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27425:1105/120614.909646:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+[27425:27456:1105/120703.459590:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/121445.700102:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/122103.958180:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27425:1105/122103.958374:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+[27425:27456:1105/123453.752356:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/124155.662966:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/124324.024738:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/124639.621027:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/124751.127570:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/125233.930619:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/125234.280422:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/125833.156040:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/125833.389657:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/130254.315497:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

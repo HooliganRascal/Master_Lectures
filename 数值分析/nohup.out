@@ -17419,3 +17419,50 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [155314:155357:1104/215948.776052:ERROR:components/viz/service/display/display.cc:271] Frame latency is negative: -8.198 ms
 [1674234:1674234:1104/230626.365781:ERROR:printing/backend/print_backend_cups.cc:199] CUPS: Error getting default printer: No destinations added.
 [155266:155266:1104/230626.366087:ERROR:components/device_event_log/device_event_log_impl.cc:211] [23:06:26.366] Printer: local_printer_handler_default.cc:286 Failure getting default printer via service, result: kFailed
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[12479:12510:1106/090437.431941:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/090437.431990:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/090901.424286:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/090901.668756:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/091400.015956:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/091400.261723:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/091444.344128:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/091444.345458:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/091926.447541:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/091926.684095:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/092653.272217:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/092653.523662:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/093752.362205:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/093842.476547:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/111457.635459:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[12479:12479:1106/115719.305031:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:652] Message 1 rejected by interface blink.mojom.WidgetHost
+[12479:12479:1106/115719.305051:ERROR:mojo/public/cpp/bindings/lib/interface_endpoint_client.cc:652] Message 1 rejected by interface blink.mojom.WidgetHost
+[12479:12479:1106/120207.953204:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).
+[12479:12510:1106/123458.147433:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[12479:12510:1106/125518.755473:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[584664:1106/125856.582994:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[584664:1106/125856.586675:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[584664:1106/125900.658095:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+[12532:12539:1106/130748.309272:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[12479:12510:1106/131600.558511:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/132030.004513:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/132511.801357:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/133052.631312:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/133757.931187:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/134758.178637:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12479:12510:1106/135736.936078:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/135736.938130:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/140244.113740:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/140244.115514:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/142830.375311:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/142830.378669:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/142832.404385:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/143017.518327:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/143017.522200:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/150501.155696:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[12479:12510:1106/160453.347376:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[12479:12510:1106/160844.601930:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/160844.602609:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[12479:12510:1106/163341.859542:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[12532:12539:1106/175308.447895:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+[12532:12539:1106/200005.659347:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100

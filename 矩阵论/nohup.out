@@ -617,3 +617,95 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [27425:27456:1105/125833.156040:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [27425:27456:1105/125833.389657:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [27425:27456:1105/130254.315497:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/131155.718572:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27425:1105/131155.718716:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+[27425:27456:1105/131224.387141:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/133357.305689:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/134155.728999:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/134641.401316:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/135217.375884:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/135556.031844:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/140617.859330:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27425:1105/140617.859532:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+[27479:27488:1105/142804.216348:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142805.219790:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142805.529879:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[682526:57:1105/142805.532729:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/142806.062288:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142808.202051:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142808.365636:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142810.467534:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142811.255545:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142813.780578:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[682526:57:1105/142814.079967:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[682526:57:1105/142814.081362:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/142815.922957:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[682526:57:1105/142815.996661:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/142818.125964:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142820.348532:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142822.576778:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[682526:57:1105/142823.366768:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[682526:57:1105/142823.367247:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[682526:57:1105/142823.367583:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[682526:57:1105/142823.367687:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/142824.738629:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/142827.378259:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[682526:57:1105/142828.634053:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[682526:57:1105/142828.634774:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/143022.592910:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143023.342261:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143025.641796:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143028.164213:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143028.742257:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143029.571200:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143032.577477:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143034.724312:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143036.836877:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143037.147492:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143039.447647:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143042.011786:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143044.020029:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143046.266322:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[682526:57:1105/143046.837402:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/143203.775735:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[702679:49:1105/143203.783579:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/143203.828216:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143205.900467:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143208.102557:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143209.825179:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143211.023674:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[702679:49:1105/143211.122932:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[702679:49:1105/143211.123287:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[702679:49:1105/143211.123402:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/143211.353669:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143213.584425:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[702679:49:1105/143214.179217:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[702679:49:1105/143214.179854:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[702679:49:1105/143214.180216:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[702679:49:1105/143214.180516:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/143215.726527:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143217.868915:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143220.162275:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[702679:49:1105/143220.529642:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[702679:49:1105/143220.530357:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[702679:49:1105/143220.530718:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[702679:49:1105/143220.530937:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:3515] AddIceCandidate: ICE candidates can't be added without any remote session description.
+[27479:27488:1105/143222.461088:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143224.758942:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143226.869428:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27479:27488:1105/143229.186502:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for hw-v2-web-player-tracker.biliapi.net., errorcode: -105
+[27425:27456:1105/144735.156005:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/144817.955539:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/145204.375480:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/145801.014828:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/150135.713525:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/151201.516321:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27425:1105/151201.516569:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+[27425:27456:1105/163031.339366:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/163457.409545:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/163611.143740:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[27425:27456:1105/164156.802352:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/164721.501963:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/165427.576550:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27456:1105/170122.500873:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[27425:27425:1105/170122.500948:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error

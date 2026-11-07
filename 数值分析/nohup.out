@@ -17466,3 +17466,31 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [12479:12510:1106/163341.859542:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
 [12532:12539:1106/175308.447895:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
 [12532:12539:1106/200005.659347:ERROR:net/socket/ssl_client_socket_impl.cc:949] handshake failed; returned -1, SSL error code 1, net_error -100
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[22915:1:1107/102402.147045:ERROR:third_party/puffin/src/puffpatch.cc:122] Failed to create a temporary file for memory-mapping: Operation not permitted (1)
+[22915:1:1107/102402.199784:ERROR:third_party/puffin/src/puffpatch.cc:122] Failed to create a temporary file for memory-mapping: Operation not permitted (1)
+[21990:22019:1107/102457.552346:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/102457.553084:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/102457.553204:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/102457.553724:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/102649.920717:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/102649.920767:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/103022.383970:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/103022.385024:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/103022.385098:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/103022.385628:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/103304.223911:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/103304.224001:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/103304.224326:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/103304.226154:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/103806.042356:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/103806.042434:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/103826.422535:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/103826.424005:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/104512.929164:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/104512.930611:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[21990:22019:1107/104916.515462:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:22019:1107/104916.765333:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[21990:21990:1107/105158.504333:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
+[21990:21990:1107/105158.504517:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+[21990:21990:1107/120214.697457:ERROR:components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:65] OnGetTokenFailure: Connection failed (-7).

@@ -709,3 +709,86 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [27425:27456:1105/165427.576550:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [27425:27456:1105/170122.500873:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [27425:27425:1105/170122.500948:ERROR:components/sharing_message/sharing_service.cc:252] Device registration failed with transient error
+13:31:38.340 INFO  app_lib::utils::resolve:56 T{clash-verge-runtime-2} [ClashVergeRev] Version: 2.5.10
+13:31:38.341 INFO  app_lib::event_handlers:269 T{main} [System] 应用就绪
+13:31:38.505 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-3} [Window] 新窗口创建成功，等待前端渲染后显示
+13:31:38.507 INFO  app_lib::config::port:238 T{clash-verge-runtime-3} [Service] Service no longer tracks a core for this owner (code 0, active false, pid None); mixed proxy port 7897 is unattributed
+13:31:38.519 INFO  app_lib::core::validate:427 T{clash-verge-runtime-3} [Validate] 生成临时配置文件用于验证
+13:31:38.520 INFO  app_lib::core::validate:358 T{clash-verge-runtime-3} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+13:31:38.520 INFO  app_lib::core::validate:361 T{clash-verge-runtime-3} [Validate] 使用内核: verge-mihomo
+13:31:38.520 INFO  app_lib::core::validate:366 T{clash-verge-runtime-3} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+13:31:38.760 INFO  app_lib::core::validate:386 T{clash-verge-runtime-1} [Validate] -------- 验证结果 --------
+13:31:38.760 INFO  app_lib::core::validate:412 T{clash-verge-runtime-1} [Validate] 验证成功
+13:31:38.760 INFO  app_lib::core::validate:413 T{clash-verge-runtime-1} [Validate] -------- 验证结束 --------
+13:31:38.761 INFO  app_lib::core::tray:368 T{clash-verge-runtime-1} [Tray] 正在从AppHandle创建系统托盘
+13:31:38.767 INFO  app_lib::core::tray:156 T{clash-verge-runtime-1} [Tray] System tray created successfully
+13:31:38.767 INFO  app_lib::core::timer:192 T{clash-verge-runtime-1} [Timer] Refreshing timer tasks map, count: 2
+13:31:38.767 INFO  app_lib::core::timer:166 T{clash-verge-runtime-1} [Timer] Running overdue timer task immediately: uid=RsuR8a7x16om
+13:31:38.767 INFO  app_lib::core::timer:166 T{clash-verge-runtime-1} [Timer] Running overdue timer task immediately: uid=RSaKne2KoltJ
+13:31:38.767 INFO  app_lib::core::timer:172 T{clash-verge-runtime-1} [Timer] Timer initialization completed
+13:31:38.767 INFO  app_lib::utils::resolve:188 T{clash-verge-runtime-1} [Setup] Silent updater initialized
+13:31:38.767 INFO  app_lib::core::updater:685 T{clash-verge-runtime-1} [System] Silent updater: background task started
+13:31:38.783 INFO  app_lib::core::service:996 T{clash-verge-runtime-1} [Service] 服务已运行且版本匹配，直接使用
+13:31:38.951 INFO  app_lib::core::service:978 T{clash-verge-runtime-0} [Service] 服务成功启动核心 (session generation 24)
+13:31:38.951 INFO  app_lib::core::manager:188 T{clash-verge-runtime-0} [Core] Core running mode changed: NotRunning -> Service
+13:31:39.993 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-3} [Core] Refreshing system proxy guard...
+13:31:39.993 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-3} [Core] System proxy is disabled.
+13:31:40.181 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-0} [Config] [订阅更新] 远程订阅，URL: https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml
+13:31:40.181 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-3} [Config] [订阅更新] 远程订阅，URL: https://ktmcloud001.top/api/v1/client/subscribe?token=***
+13:31:40.318 ERROR rustls_platform_verifier::verification::others:149 T{clash-verge-runtime-1} failed to verify TLS certificate: invalid peer certificate: Other(OtherError(UnsupportedCertVersion))
+13:31:40.539 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-2} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml): client error (Connect): invalid peer certificate: Other(OtherError(UnsupportedCertVersion))，尝试使用Clash代理更新
+13:31:41.616 INFO  app_lib::feat::profile:168 T{clash-verge-runtime-2} [Config] [订阅更新] 使用 Clash代理 更新订阅配置成功
+13:31:48.768 INFO  app_lib::core::updater:611 T{clash-verge-runtime-0} [System] Silent updater: checking for updates...
+13:31:49.008 INFO  app_lib::config::profiles:660 T{clash-verge-runtime-1} [Config] Selected node for proxy: 自动选择, node: 🇸🇬 SG新加坡-A2
+13:31:50.455 INFO  app_lib::core::updater:617 T{clash-verge-runtime-1} [System] Silent updater: no update available
+13:32:00.288 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-3} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: Request failed: error sending request for url (https://ktmcloud001.top/api/v1/client/subscribe?token=***): operation timed out，尝试使用Clash代理更新
+13:32:02.850 INFO  app_lib::feat::profile:168 T{clash-verge-runtime-0} [Config] [订阅更新] 使用 Clash代理 更新订阅配置成功
+13:32:02.857 INFO  app_lib::core::validate:427 T{clash-verge-runtime-2} [Validate] 生成临时配置文件用于验证
+13:32:02.860 INFO  app_lib::core::validate:358 T{clash-verge-runtime-0} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+13:32:02.860 INFO  app_lib::core::validate:361 T{clash-verge-runtime-0} [Validate] 使用内核: verge-mihomo
+13:32:02.860 INFO  app_lib::core::validate:366 T{clash-verge-runtime-0} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+13:32:02.890 INFO  app_lib::core::validate:386 T{clash-verge-runtime-0} [Validate] -------- 验证结果 --------
+13:32:02.890 INFO  app_lib::core::validate:412 T{clash-verge-runtime-0} [Validate] 验证成功
+13:32:02.890 INFO  app_lib::core::validate:413 T{clash-verge-runtime-0} [Validate] -------- 验证结束 --------
+13:32:10.068 WARN  app_lib::config::profiles:866 T{clash-verge-runtime-2} [Config] gave up putting back 3 selected node(s) the core never loaded: 国内请求, steam社区, steam下载
+13:41:53.340 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-0} [Core] Refreshing system proxy guard...
+13:41:53.340 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-0} [Core] System proxy guard is disabled.
+Opening in existing browser session.
+[1:1:0100/000000.231300:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[70804:70804:0100/000000.239992:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
+16:13:39.122 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-1} [Core] Refreshing system proxy guard...
+16:13:39.122 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-1} [Core] System proxy is disabled.
+16:19:22.888 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-1} [Core] Refreshing system proxy guard...
+16:19:22.888 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-1} [Core] System proxy guard is disabled.
+16:19:46.365 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-2} [Core] Refreshing system proxy guard...
+16:19:46.365 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-2} [Core] System proxy is disabled.
+18:57:11.549 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-1} [Core] Refreshing system proxy guard...
+18:57:11.549 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-1} [Core] System proxy guard is disabled.
+18:57:11.979 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-1} [Core] Refreshing system proxy guard...
+18:57:11.979 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-1} [Core] System proxy is disabled.
+Opening in existing browser session.
+[99468:99468:0100/000000.171837:ERROR:content/zygote/zygote_linux.cc:662] write: Broken pipe (32)
+[1:1:0100/000000.175282:ERROR:content/zygote/zygote_main_linux.cc:197] Failed sending zygote boot message: Broken pipe (32)
+[1108/210129.266688:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/9a84bbf1-d55f-4f1c-aa48-5ee631e6357b.lock: File exists (17)
+[1108/210129.266816:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/aee7e266-057b-4390-8e70-964aaeb1903f.lock: File exists (17)
+[1108/210129.266853:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/9a84bbf1-d55f-4f1c-aa48-5ee631e6357b.lock: File exists (17)
+[1108/210129.266865:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/aee7e266-057b-4390-8e70-964aaeb1903f.lock: File exists (17)
+[1108/210129.562907:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/9a84bbf1-d55f-4f1c-aa48-5ee631e6357b.lock: File exists (17)
+[1108/210129.563020:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/aee7e266-057b-4390-8e70-964aaeb1903f.lock: File exists (17)
+[1108/210129.563056:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/9a84bbf1-d55f-4f1c-aa48-5ee631e6357b.lock: File exists (17)
+[1108/210129.563069:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/aee7e266-057b-4390-8e70-964aaeb1903f.lock: File exists (17)
+[1108/211129.266901:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/9a84bbf1-d55f-4f1c-aa48-5ee631e6357b.lock: File exists (17)
+[1108/211129.266963:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/aee7e266-057b-4390-8e70-964aaeb1903f.lock: File exists (17)
+[1108/211129.294613:ERROR:file_io_posix.cc(152)] open /home/mteltn/.xwechat/crashinfo/pending/9a84bbf1-d55f-4f1c-aa48-5ee631e6357b.lock: File exists (17)
+[1108/211129.295238:ERROR:filesystem_posix.cc(102)] unlink /home/mteltn/.xwechat/crashinfo/pending/aee7e266-057b-4390-8e70-964aaeb1903f.dmp: No such file or directory (2)
+[1108/212959.337063:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[1108/212959.562977:ERROR:directory_reader_posix.cc(42)] opendir /home/mteltn/.xwechat/crashinfo/attachments/71d50be2-6b00-4c31-b68f-ec02b7d13e56: No such file or directory (2)
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[17379:17408:1109/081052.428809:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[17379:17408:1109/081520.164981:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[17379:17408:1109/082005.448693:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[17426:17469:1109/082206.054438:ERROR:components/viz/service/display/display.cc:271] Frame latency is negative: -0.087 ms
+[17379:17408:1109/082539.955494:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[17379:17408:1109/083312.168275:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[17379:17408:1109/083559.525026:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[17379:17408:1109/084427.927496:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

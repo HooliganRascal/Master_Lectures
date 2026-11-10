@@ -17509,3 +17509,27 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [668183:668212:1109/194454.219923:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [668183:668212:1109/195036.281949:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [668183:668212:1109/195809.993923:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[668183:668212:1109/200732.999720:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[668183:668212:1109/203606.888784:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[668183:668212:1109/203606.889817:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[668183:668212:1109/203606.891239:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -105
+[668183:668212:1109/204030.698301:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[668183:668212:1109/204520.241916:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[668183:668212:1109/205045.686873:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[668183:668212:1109/205817.746946:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[668183:668212:1109/211002.304101:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[26487:26516:1110/083322.552921:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[26487:26516:1110/083744.579004:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[26487:26516:1110/084243.766348:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[26487:26516:1110/084805.228002:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[26487:26516:1110/085449.619844:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[26487:26516:1110/085637.920338:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[26487:26516:1110/090541.257311:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[128816:128845:1110/093733.654198:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[128816:128845:1110/094203.456150:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[128816:128845:1110/094649.444306:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[128816:128845:1110/095224.773271:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[128816:128845:1110/095930.760011:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[128816:128845:1110/101043.855066:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.

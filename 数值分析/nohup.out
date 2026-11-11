@@ -17533,3 +17533,27 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [128816:128845:1110/095224.773271:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [128816:128845:1110/095930.760011:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [128816:128845:1110/101043.855066:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[128816:128816:1110/125012.154361:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[39073:39102:1111/082110.002315:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/082110.007799:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[39073:39102:1111/082130.830004:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[39073:39102:1111/082137.244021:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/082221.856275:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/082224.339071:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[39073:39102:1111/082359.579299:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/082424.229110:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[39073:39102:1111/082705.518177:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/082725.836497:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[39073:39102:1111/083448.032164:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/083523.627328:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[39073:39102:1111/084448.035048:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/085448.036622:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/090448.037590:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/091448.038535:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/092448.039517:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/093448.040528:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/094448.042342:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/095448.043485:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/100448.044629:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130
+[39073:39102:1111/101448.046526:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:427] Failed to connect to MCS endpoint with error -130

@@ -1,0 +1,43 @@
+FoamFile
+{
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      setFieldsDict;
+}
+
+defaultValues
+{
+    p       13448.99;
+    T       153;
+    U       (619.9 0 0);
+}
+
+zones
+{
+    upstream
+    {
+        type    box;
+        box     (-0.1017 -1e-6 -0.001) (0 0.148 0.001);
+
+        values
+        {
+            p       15350;
+            T       169.2;
+            U       (651.9 0 0);
+        }
+    }
+
+    recirculationSeed
+    {
+        type    box;
+        box     (0 -0.012 -0.001) (0.305 0 0.001);
+
+        values
+        {
+            p       13448.99;
+            T       153;
+            U       (0 0 0);
+        }
+    }
+}

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -eu
+
+script_dir=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
+
+pvpython "$script_dir/extract_pressure_ratio.py"
+python3 "$script_dir/plot_pressure_ratio.py"

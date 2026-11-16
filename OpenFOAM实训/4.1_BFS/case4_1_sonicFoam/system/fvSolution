@@ -1,0 +1,46 @@
+FoamFile
+{
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      fvSolution;
+}
+
+solvers
+{
+    p
+    {
+        solver          PBiCGStab;
+        preconditioner  DILU;
+        tolerance       1e-8;
+        relTol          0.01;
+    }
+
+    pFinal
+    {
+        $p;
+        relTol          0;
+    }
+
+    "(U|e).*"
+    {
+        solver          PBiCGStab;
+        preconditioner  DILU;
+        tolerance       1e-8;
+        relTol          0;
+    }
+
+    "rho.*"
+    {
+        solver          diagonal;
+    }
+}
+
+PIMPLE
+{
+    momentumPredictor          yes;
+    nOuterCorrectors           1;
+    nCorrectors                2;
+    nNonOrthogonalCorrectors   0;
+    transonic                  yes;
+}

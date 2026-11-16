@@ -1,0 +1,36 @@
+FoamFile
+{
+    format      ascii;
+    class       dictionary;
+    location    "constant";
+    object      thermophysicalProperties;
+}
+
+thermoType
+{
+    type            hePsiThermo; // fluidThermo, psiThermp...
+    mixture         pureMixture; // fixed composition
+    transport       const;
+    thermo          hConst;
+    equationOfState perfectGas;
+    specie          specie;
+    energy          sensibleInternalEnergy; // heat of formation is not included
+}
+
+mixture
+{
+    specie
+    {
+        molWeight       28.96;
+    }
+    thermodynamics
+    {
+        Cp              1004.5; // J/(kg*K)
+        Hf              2.544e6;
+    }
+    transport
+    {
+        Pr              0.71;  // (muCp)/kappa
+		mu				1.827e-5;
+    }
+}

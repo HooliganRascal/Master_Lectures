@@ -1,0 +1,106 @@
+FoamFile
+{
+    format      ascii;
+    class       dictionary;
+    object      blockMeshDict;
+}
+
+convertToMeters 0.001;
+
+vertices
+(
+	// back
+	(-101.6	0	  -0.5) // 00
+	(-101.6	147.5 -0.5)
+	(0	   -11.25 -0.5) 
+	(0		0	  -0.5)
+	(0		147.5 -0.5) // before step
+	(304.8 -11.25 -0.5)
+	(304.8  0     -0.5)
+	(304.8	147.5 -0.5)
+
+	// front
+	(-101.6	0	   0.5)
+	(-101.6	147.5  0.5)
+	(0	   -11.25  0.5) 
+	(0		0	   0.5)
+	(0		147.5  0.5) // before step
+	(304.8 -11.25  0.5)
+	(304.8  0      0.5)
+	(304.8	147.5  0.5) // 15
+);
+
+posY
+(
+    (0.2 0.3 10) // 20% length, 30% meshes included, expansion ratio of 10:1
+    (0.6 0.4 1)
+    (0.2 0.3 0.1)
+);
+
+blocks
+(
+    hex (0 3 4 1 8 11 12 9)
+    (30 40 1)
+    simpleGrading (0.01 $posY 1) // narrowing x-dir meshes to the middle
+
+    hex (2 5 6 3 10 13 14 11)
+    (60 39 1)
+    simpleGrading (100 $posY 1) // consistent expanding ratio to part 3
+
+    hex (3 6 7 4 11 14 15 12)
+    (60 40 1)
+    simpleGrading (100 $posY 1) // expanding x-dir meshes from the middle
+);
+
+boundary
+(
+    inlet
+    {
+        type patch;
+        faces
+        (
+            (0 1 9 8)
+        );
+    }
+    outlet
+    {
+        type patch;
+        faces
+        (
+            (5 6 14 13)
+            (6 7 15 14)
+        );
+    }
+    upperWall
+    {
+        type wall;
+        faces
+        (
+            (1 4 12 9)
+            (4 7 15 12)
+        );
+    }
+    lowerWall
+    {
+        type wall;
+        faces
+        (
+            (0 3 11 8)
+            (3 2 10 11)
+            (2 5 13 10)
+        );
+    }
+    frontAndBack
+    {
+        type empty; // 2-D problem configuration
+        faces
+        (
+            (0 3 4 1)
+            (2 5 6 3)
+            (3 6 7 4)
+			(8 11 12 9)
+			(10 13 14 11)
+			(11 14 15 12)
+        );
+    }
+);

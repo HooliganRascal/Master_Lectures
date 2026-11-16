@@ -792,3 +792,39 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [17379:17408:1109/083312.168275:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [17379:17408:1109/083559.525026:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
 [17379:17408:1109/084427.927496:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[11711:11740:1116/090855.734913:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/090855.988440:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/091316.858830:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/091317.095502:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/091811.343123:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/091811.579790:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/092338.112584:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/092338.364081:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/093041.528012:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/093041.732704:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/093619.327601:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[11711:11740:1116/094119.705149:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11711:11740:1116/094119.954811:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[12066:12095:1116/103519.814621:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/103520.074719:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/103941.047504:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/103941.283354:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/104434.035706:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/104434.285868:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/105020.532003:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/105020.532476:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/105702.881978:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/105703.128116:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/110238.138929:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[12066:12095:1116/110706.834486:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/110707.040081:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/111334.917138:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/111757.430285:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/112249.863183:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/112810.454611:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/113601.088930:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/114543.138974:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[12066:12095:1116/115731.322848:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[12066:12066:1116/120159.114625:ERROR:chrome/browser/ui/webui/ntp/new_tab_ui.cc:54] Requested load of chrome://newtab/ for incorrect profile type.

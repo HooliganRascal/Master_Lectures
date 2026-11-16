@@ -1,0 +1,39 @@
+FoamFile
+{
+    format      ascii;
+    class       dictionary;
+    location    "system";
+    object      controlDict;
+}
+
+application		foamRun;
+
+solver          fluid; // rhoPimpleFoam no longer exists standalone
+
+startFrom       latestTime;
+
+startTime       0; // time step
+
+stopAt          endTime;
+
+endTime         40000; // time step
+
+deltaT          1;
+
+writeControl    timeStep;
+
+writeInterval   100; // writes data every 100 time steps
+
+purgeWrite      0; // disabled purgeWrite to store all time directories
+
+writeFormat     ascii;
+
+writePrecision  6; // written to 6 significant figures like "6.012475 m/s"
+
+writeCompression off; // do not compress the files with gzip
+
+timeFormat      general;
+
+timePrecision   6; // written to 6 significant figures like "6.012475 sec"
+
+runTimeModifiable true;

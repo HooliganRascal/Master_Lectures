@@ -1,0 +1,48 @@
+FoamFile
+{
+    format          ascii;
+    class           dictionary;
+    location        "system";
+    object          controlDict;
+}
+
+application     foamRun;
+
+solver          fluid;
+
+startFrom       startTime;
+
+startTime       0;
+
+stopAt          endTime;
+
+endTime         0.0035;
+
+deltaT          1e-08;
+
+adjustTimeStep  yes;
+
+maxCo           0.4;
+
+maxDeltaT       2e-07;
+
+writeControl    adjustableRunTime;
+
+writeInterval   0.0005;
+
+purgeWrite      0;
+
+writeFormat     ascii;
+
+writePrecision  8;
+
+writeCompression off;
+
+timeFormat      general;
+
+timePrecision   8;
+
+runTimeModifiable true;
+
+
+// ************************************************************************* //

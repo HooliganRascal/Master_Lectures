@@ -17566,3 +17566,63 @@ Created TensorFlow Lite XNNPACK delegate for CPU.
 [9692:9849:1112/085506.545439:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
 [9692:9692:1112/093507.693137:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.filetransfer to kAtomsToCache
 [9692:9692:1112/093507.693185:ERROR:ui/gfx/x/atom_cache.cc:236] Add application/vnd.portal.files to kAtomsToCache
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[11015:11044:1112/103142.842323:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11015:11044:1112/103612.004391:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+09:15:48.303 INFO  app_lib::utils::resolve:56 T{clash-verge-runtime-0} [ClashVergeRev] Version: 2.5.10
+09:15:48.303 INFO  app_lib::event_handlers:269 T{main} [System] 应用就绪
+09:15:48.470 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-3} [Window] 新窗口创建成功，等待前端渲染后显示
+09:15:48.472 INFO  app_lib::config::port:238 T{clash-verge-runtime-1} [Service] Service no longer tracks a core for this owner (code 0, active true, pid None); mixed proxy port 7897 is unattributed
+09:15:48.482 INFO  app_lib::core::validate:427 T{clash-verge-runtime-3} [Validate] 生成临时配置文件用于验证
+09:15:48.482 INFO  app_lib::core::validate:358 T{clash-verge-runtime-1} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+09:15:48.482 INFO  app_lib::core::validate:361 T{clash-verge-runtime-1} [Validate] 使用内核: verge-mihomo
+09:15:48.482 INFO  app_lib::core::validate:366 T{clash-verge-runtime-1} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+09:15:48.735 INFO  app_lib::core::validate:386 T{clash-verge-runtime-1} [Validate] -------- 验证结果 --------
+09:15:48.735 INFO  app_lib::core::validate:412 T{clash-verge-runtime-1} [Validate] 验证成功
+09:15:48.735 INFO  app_lib::core::validate:413 T{clash-verge-runtime-1} [Validate] -------- 验证结束 --------
+09:15:48.735 INFO  app_lib::core::tray:368 T{clash-verge-runtime-1} [Tray] 正在从AppHandle创建系统托盘
+09:15:48.744 INFO  app_lib::core::tray:156 T{clash-verge-runtime-1} [Tray] System tray created successfully
+09:15:48.744 INFO  app_lib::core::timer:192 T{clash-verge-runtime-1} [Timer] Refreshing timer tasks map, count: 2
+09:15:48.744 INFO  app_lib::core::timer:166 T{clash-verge-runtime-1} [Timer] Running overdue timer task immediately: uid=RSaKne2KoltJ
+09:15:48.744 INFO  app_lib::core::timer:172 T{clash-verge-runtime-1} [Timer] Timer initialization completed
+09:15:48.744 INFO  app_lib::utils::resolve:188 T{clash-verge-runtime-1} [Setup] Silent updater initialized
+09:15:48.744 INFO  app_lib::core::updater:685 T{clash-verge-runtime-1} [System] Silent updater: background task started
+09:15:48.761 INFO  app_lib::core::service:996 T{clash-verge-runtime-0} [Service] 服务已运行且版本匹配，直接使用
+09:15:48.929 INFO  app_lib::core::service:978 T{clash-verge-runtime-3} [Service] 服务成功启动核心 (session generation 37)
+09:15:48.930 INFO  app_lib::core::manager:188 T{clash-verge-runtime-3} [Core] Core running mode changed: NotRunning -> Service
+09:15:49.960 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-1} [Core] Refreshing system proxy guard...
+09:15:49.960 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-1} [Core] System proxy is disabled.
+09:15:50.153 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-0} [Config] [订阅更新] 远程订阅，URL: https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml
+09:15:50.457 ERROR rustls_platform_verifier::verification::others:149 T{clash-verge-runtime-0} failed to verify TLS certificate: invalid peer certificate: Other(OtherError(UnsupportedCertVersion))
+09:15:50.687 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-0} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml): client error (Connect): invalid peer certificate: Other(OtherError(UnsupportedCertVersion))，尝试使用Clash代理更新
+09:15:50.778 ERROR rustls_platform_verifier::verification::others:149 T{clash-verge-runtime-0} failed to verify TLS certificate: invalid peer certificate: Other(OtherError(UnsupportedCertVersion))
+09:15:50.952 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-3} [Config] [订阅更新] Clash代理更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml): client error (Connect): invalid peer certificate: Other(OtherError(UnsupportedCertVersion))，尝试使用系统代理更新
+09:15:51.027 ERROR rustls_platform_verifier::verification::others:149 T{clash-verge-runtime-3} failed to verify TLS certificate: invalid peer certificate: Other(OtherError(UnsupportedCertVersion))
+09:15:51.198 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-0} [Config] [订阅更新] 系统代理更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml): client error (Connect): invalid peer certificate: Other(OtherError(UnsupportedCertVersion))，所有重试均已失败
+09:15:51.198 ERROR app_lib::core::timer:481 T{clash-verge-runtime-0} [[Timer]] Failed to update profile uid RSaKne2KoltJ: failed to fetch remote profile
+09:15:58.746 INFO  app_lib::core::updater:611 T{clash-verge-runtime-2} [System] Silent updater: checking for updates...
+09:15:59.162 INFO  app_lib::core::updater:617 T{clash-verge-runtime-2} [System] Silent updater: no update available
+09:16:01.904 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-0} [Core] Refreshing system proxy guard...
+09:16:01.904 INFO  app_lib::core::sysopt:336 T{clash-verge-runtime-0} [Core] System proxy guard is disabled.
+2026-11-13 02:05:28 Loaded updated app package /home/mteltn/.config/obsidian/obsidian-1.15.0.asar
+2026-11-13 02:05:28 Checking for update using Github
+2026-11-13 02:05:28 Success.
+2026-11-13 02:05:28 Latest version is 1.15.1
+2026-11-13 02:05:28 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.1/obsidian-1.15.1.asar.gz
+2026-11-13 02:05:30 Verifying hash & signature. Size= 8562390
+2026-11-13 02:05:30 Saving file
+2026-11-13 02:05:30 Update complete.
+Retrieving newer version of https://easylist.to/easylist/easylist.txt
+Retrieving newer version of https://easylist.to/easylist/easyprivacy.txt
+10:40:20.177 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-2} [Core] Refreshing system proxy guard...
+10:40:20.177 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-2} [Core] System proxy is disabled.
+10:40:24.951 INFO  app_lib::config::config:305 T{clash-verge-runtime-0} [Config] save all draft data finished
+10:40:24.976 WARN  tauri_plugin_mihomo::mihomo:63 T{clash-verge-runtime-1} websocket error: WebSocket protocol error: Connection reset without closing handshake
+10:40:24.976 WARN  tauri_plugin_mihomo::mihomo:63 T{clash-verge-runtime-3} websocket error: WebSocket protocol error: Connection reset without closing handshake
+10:40:24.976 WARN  tauri_plugin_mihomo::mihomo:63 T{clash-verge-runtime-2} websocket error: WebSocket protocol error: Connection reset without closing handshake
+10:40:24.977 INFO  app_lib::core::service:1591 T{clash-verge-runtime-0} [Service] 服务成功停止核心
+10:40:24.977 INFO  app_lib::core::manager:202 T{clash-verge-runtime-0} [Core] Core running mode changed: Service -> NotRunning
+10:40:24.977 INFO  app_lib::feat::window:198 T{clash-verge-runtime-0} [System] Interactive cleanup complete - core stopped: true, all cleanup successful: true
+10:40:24.977 INFO  app_lib::feat::window:142 T{clash-verge-runtime-0} [System] 资源清理完成，退出代码: 0
+10:40:24.977 INFO  app_lib::utils::server:273 T{clash-verge-runtime-0} [Window] shutting down embedded server
+10:40:24.980 INFO  app_lib:402 T{main} [System] Application exited

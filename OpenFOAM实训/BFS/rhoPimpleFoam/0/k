@@ -1,0 +1,37 @@
+FoamFile
+{
+    format      ascii;
+    class       volScalarField;
+    location    "0";
+    object      k;
+}
+
+dimensions      [0 2 -2 0 0 0 0];
+
+internalField   uniform 0.375; // to be adjusted
+
+boundaryField
+{
+    inlet
+    {
+        type            zeroGradient;
+    }
+    outlet
+    {
+        type            zeroGradient;
+    }
+    upperWall
+    {
+	    type            kqRWallFunction; // RAS requires boundary treatment
+        value           uniform 0.375;
+    }
+    lowerWall
+    {
+	    type            kqRWallFunction; // RAS requires boundary treatment
+        value           uniform 0.375;
+    }
+    frontAndBack
+    {
+        type            empty;
+    }
+}

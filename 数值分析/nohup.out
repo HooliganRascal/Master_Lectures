@@ -17626,3 +17626,19 @@ Retrieving newer version of https://easylist.to/easylist/easyprivacy.txt
 10:40:24.977 INFO  app_lib::feat::window:142 T{clash-verge-runtime-0} [System] 资源清理完成，退出代码: 0
 10:40:24.977 INFO  app_lib::utils::server:273 T{clash-verge-runtime-0} [Window] shutting down embedded server
 10:40:24.980 INFO  app_lib:402 T{main} [System] Application exited
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[11601:11630:1117/084148.614871:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11601:11630:1117/084609.224038:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11601:11630:1117/085104.359889:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11601:11630:1117/085642.525056:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11601:11630:1117/090418.260346:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[11601:11630:1117/091558.065586:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[44658:44687:1117/111101.452136:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[44658:44687:1117/111523.874331:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[44658:44687:1117/112007.451887:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[44658:44687:1117/112535.750642:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[44658:44687:1117/113154.929252:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2
+[44658:44687:1117/113317.171046:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[44658:44687:1117/114458.672074:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[44658:44687:1117/122648.113144:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:474] ConnectionHandler failed with net error: -2

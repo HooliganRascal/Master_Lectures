@@ -569,3 +569,33 @@ compressed size: 4392
 12:20:59.030 INFO  app_lib::feat::window:142 T{clash-verge-runtime-4} [System] 资源清理完成，退出代码: 0
 12:20:59.030 INFO  app_lib::utils::server:324 T{clash-verge-runtime-4} [Window] shutting down embedded server
 12:20:59.030 INFO  app_lib:493 T{main} [System] Application exited
+11:26:18.121 INFO  app_lib::utils::resolve:56 T{clash-verge-runtime-3} [ClashVergeRev] Version: 2.5.10
+11:26:18.121 INFO  app_lib::event_handlers:269 T{main} [System] 应用就绪
+11:26:18.297 INFO  app_lib::utils::window_manager:262 T{clash-verge-runtime-2} [Window] 新窗口创建成功，等待前端渲染后显示
+11:26:18.298 INFO  app_lib::config::port:238 T{clash-verge-runtime-0} [Service] Service no longer tracks a core for this owner (code 0, active false, pid None); mixed proxy port 7897 is unattributed
+11:26:18.309 INFO  app_lib::core::validate:427 T{clash-verge-runtime-2} [Validate] 生成临时配置文件用于验证
+11:26:18.309 INFO  app_lib::core::validate:358 T{clash-verge-runtime-2} [Validate] 开始验证配置文件: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev/clash-verge-check.yaml
+11:26:18.309 INFO  app_lib::core::validate:361 T{clash-verge-runtime-2} [Validate] 使用内核: verge-mihomo
+11:26:18.309 INFO  app_lib::core::validate:366 T{clash-verge-runtime-2} [Validate] 验证目录: /home/mteltn/.local/share/io.github.clash-verge-rev.clash-verge-rev
+11:26:18.554 INFO  app_lib::core::validate:386 T{clash-verge-runtime-0} [Validate] -------- 验证结果 --------
+11:26:18.554 INFO  app_lib::core::validate:412 T{clash-verge-runtime-0} [Validate] 验证成功
+11:26:18.554 INFO  app_lib::core::validate:413 T{clash-verge-runtime-0} [Validate] -------- 验证结束 --------
+11:26:18.554 INFO  app_lib::core::tray:368 T{clash-verge-runtime-0} [Tray] 正在从AppHandle创建系统托盘
+11:26:18.563 INFO  app_lib::core::tray:156 T{clash-verge-runtime-0} [Tray] System tray created successfully
+11:26:18.563 INFO  app_lib::core::timer:192 T{clash-verge-runtime-0} [Timer] Refreshing timer tasks map, count: 2
+11:26:18.563 INFO  app_lib::core::timer:166 T{clash-verge-runtime-0} [Timer] Running overdue timer task immediately: uid=RSaKne2KoltJ
+11:26:18.563 INFO  app_lib::core::timer:172 T{clash-verge-runtime-0} [Timer] Timer initialization completed
+11:26:18.563 INFO  app_lib::utils::resolve:188 T{clash-verge-runtime-0} [Setup] Silent updater initialized
+11:26:18.563 INFO  app_lib::core::updater:685 T{clash-verge-runtime-0} [System] Silent updater: background task started
+11:26:18.579 INFO  app_lib::core::service:996 T{clash-verge-runtime-2} [Service] 服务已运行且版本匹配，直接使用
+11:26:18.747 INFO  app_lib::core::service:978 T{clash-verge-runtime-1} [Service] 服务成功启动核心 (session generation 45)
+11:26:18.747 INFO  app_lib::core::manager:188 T{clash-verge-runtime-1} [Core] Core running mode changed: NotRunning -> Service
+11:26:19.772 INFO  app_lib::core::sysopt:327 T{clash-verge-runtime-2} [Core] Refreshing system proxy guard...
+11:26:19.772 INFO  app_lib::core::sysopt:331 T{clash-verge-runtime-2} [Core] System proxy is disabled.
+11:26:19.972 INFO  app_lib::feat::profile:88 T{clash-verge-runtime-1} [Config] [订阅更新] 远程订阅，URL: https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml
+11:26:20.184 ERROR rustls_platform_verifier::verification::others:149 T{clash-verge-runtime-1} failed to verify TLS certificate: invalid peer certificate: Other(OtherError(UnsupportedCertVersion))
+11:26:21.462 WARN  app_lib::feat::profile:169 T{clash-verge-runtime-3} [Config] [订阅更新] 直接更新失败: failed to fetch remote profile: static webpki roots fallback failed after platform TLS verifier failed: Request failed: error sending request for url (https://update.glados-config.com/mihomo/752298/3ad014a/261305/glados.yaml): client error (Connect): invalid peer certificate: Other(OtherError(UnsupportedCertVersion))，尝试使用Clash代理更新
+11:26:22.897 INFO  app_lib::feat::profile:168 T{clash-verge-runtime-0} [Config] [订阅更新] 使用 Clash代理 更新订阅配置成功
+11:26:28.564 INFO  app_lib::core::updater:611 T{clash-verge-runtime-1} [System] Silent updater: checking for updates...
+11:26:32.284 INFO  app_lib::core::updater:617 T{clash-verge-runtime-1} [System] Silent updater: no update available
+11:26:49.837 WARN  app_lib::config::profiles:866 T{clash-verge-runtime-2} [Config] gave up putting back 3 selected node(s) the core never loaded: 国内请求, steam社区, steam下载
